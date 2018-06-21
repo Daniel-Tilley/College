@@ -1,0 +1,132 @@
+Body{
+	color: White;
+	background-color: Black;
+}
+
+h1,h2,h3,h4,h5,h6{
+	color: #F77D2C;
+}
+
+div{
+	padding: 15px;
+}
+
+.tablealltd{
+	border-bottom: dotted 1px white;
+}
+
+.NavHor{
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+	overflow: hidden;
+}
+
+.NavHorLi{
+	font-size: 16px;
+	display: inline;
+}
+
+.NavHorA:link, .NavHorA:visited {
+	font-weight: bold;
+	color: #FFFFFF;
+	background-color: #494747;
+	text-align: center;
+	padding: 20px;
+	text-decoration: none;
+	text-transform: uppercase;
+	border: solid 5px #F77D2C;
+}
+	
+.NavHorA:hover, .NavHorA:active {
+	background-color: #F77D2C;
+	text-decoration: underline;
+}
+
+.tableallth, .tablealltd{
+    padding: 7px;
+}
+
+.LinkResA:link, .LinkResA:visited {
+	color: #FFFFFF;
+	background-color: #494747;
+	text-align: center;
+	text-decoration: none;
+	padding: 2px;
+	border: solid 3px #F77D2C;
+}
+
+.LinkResA:hover, .LinkResA:active {
+	background-color: #F77D2C;
+	text-decoration: underline;
+}
+
+footer{
+	background-color: #494747;
+	border-top: 5px solid grey;
+	border-bottom: 5px solid grey;
+	box-shadow: 2px 2px 5px #F77D2C;
+    padding:5px;
+}
+
+.FooterA:hover, .FooterA:active{
+	background-color: #F77D2C;
+	text-decoration:underline
+}
+
+.FooterA:link, .FooterA:visited{
+	color: #FFFFFF;
+}
+
+.Pics{
+	background-color: #494747;
+	border-top: 5px solid grey;
+	border-bottom: 5px solid grey;
+	box-shadow: 2px 2px 5px #F77D2C;
+    padding:5px;
+}
+
+.Welcome
+{
+	float:right;
+	color: white;
+	padding-left: 5px;
+	padding-right: 5px;
+	border-left: 2px solid white;
+	border-right: 2px solid white;
+	text-decoration: none;
+}
+
+.error
+{
+	color:red;
+}
+
+.ContactInfo{
+	background-color: #494747;
+	border-top: 5px solid grey;
+	border-bottom: 5px solid grey;
+	box-shadow: 2px 2px 5px #F77D2C;
+    padding:5px;
+}
+
+.PageNum
+{
+	color: white;
+	padding-left: 5px;
+	padding-right: 5px;
+	border-right: 2px solid white;
+}
+
+.PageNumFirst
+{
+	color: white;
+	padding-left: 5px;
+	padding-right: 5px;
+	border-left: 2px solid white;
+	border-right: 2px solid white;
+}
+
+
+
+

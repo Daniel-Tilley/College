@@ -1,0 +1,37 @@
+Processing code 
+ 
+-functions- (Method)
+
+size(500, 500); - screen size
+background(0-255); - 0 = black, 127= grey 255 = white (greyscale)
+background(255 (R), 255(G), 255(B)); - RGB colour pallet (8 bit colour)
+stroke(255, 0, 0); - Change Pen colour 
+fill(0, 0, 255); - Change the fill colour 
+line(10, 10, 100, 100);	- Start point, end point
+ellipse(30, 30, 50, 80); - Center point, width, height
+point(120, 150); - point on screen
+
+
+void setup()
+{
+	size(500, 500);
+}
+
+int x; 
+
+void draw() - 60 times per second execution 
+{
+	int x;
+	x = 100;
+	line(10, 10, 100, 100);
+	line(10, 10, x, 100);
+	x ++; //nothing will happen 
+}
+
+void draw()
+{
+	for( int i = 0; i < width; i += 50)
+	{
+		line(i, 0, width - x, height);
+	}
+}
