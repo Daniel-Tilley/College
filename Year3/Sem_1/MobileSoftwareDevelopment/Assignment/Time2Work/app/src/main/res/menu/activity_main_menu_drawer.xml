@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item android:title="Main Menu">
+        <menu>
+            <item
+                android:id="@+id/main_menu"
+                android:icon="@drawable/ic_home_black_24dp"
+                android:title="Welcome" />
+            <item
+                android:id="@+id/your_details"
+                android:icon="@drawable/ic_account_circle_black_24dp"
+                android:title="Your Details" />
+        </menu>
+    </item>
+
+    <item android:title="Your Hours">
+        <menu>
+            <item
+                android:id="@+id/input_screen"
+                android:icon="@drawable/ic_add_black_24dp"
+                android:title="Input hours" />
+            <item
+                android:id="@+id/view_hours"
+                android:icon="@drawable/ic_view_list_black_24dp"
+                android:title="View Hours" />
+        </menu>
+    </item>
+
+</menu>

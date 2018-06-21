@@ -1,0 +1,1001 @@
+Date,Time,Location,Operator,Flight Number,Route,Type,Registration,cn/In,Aboard,Fatalities,Ground
+07/17/94,21:45,"Near Fort de France, Martinique",Air Martinique,1,Bridgetown - Fort de France,Britten-Norman BN-2B-26 Islander,8P-TAD,2152,6,6,0
+07/17/94,12:00,"Boma, DemocratiRepubliCongo",Sankuru Air Service,2,Training,Yakovlev 40D,RA-87256,9311326,9,5,0
+07/19/94,12:00,"Colon, Panama",Alas Chiricanas,3,Colon - Panama City,Embraer 110P1 Bandeirante,HP-1202AC,110-375,21,21,0
+07/26/94,12:00,"East Kalimantan, Indonesia",Airfast Services,4,Kilo Lima - Kelawit,Sikorsky S-58ET,PK-OBT,58-1098,18,18,0
+08/05/1994,08:50,"Near Boda, Russia",Military - Russian Air Force,5,Dzhida - Boda,Antonov AN-12,Unknown,Unknown,47,47,0
+08/10/1994,11:22,"Cheju, South Korea",Korean Airlines,6,Seoul - Cheju,Airbus A300B4-622R,HL-7296,583,160,0,0
+08/11/1994,17:00,"Alsworth, Alaska",Air Taxi - Talon Air Services Inc.,7,"Caribou Lake, AK - Nikiski, AK",de Havilland DHC-2,N17394,495,3,3,0
+08/12/1994,21:05,"Whiting, New Jersey",Air Taxi - National Helicopters,8,"New York, NY - AtlantiCity, NJ",Bell 206L-4,N124NH,52089,3,3,0
+08/14/94,09:27,"Kenai, Alaska",Air Taxi - Lake Clark Air Inc.,9,"Merrill Field, AK - Port Alsworth, AK",Piper PA-32-260,N4839S,321268,4,3,0
+08/21/94,12:00,"Near Agadir, Morocco",Royal Air Maroc,10,Agadir - Casablanca,Aerospatiale ATR-42-300,CN-CDT,127,44,44,0
+09/08/1994,19:03,"Near Aliquippa, Pennsylvania",USAir,11,Chicago - Pittsburgh,Boeing B-737-3B7,N513AU,23699/1452,132,132,0
+09/13/94,12:05,"Near Abuja, Nigeria",Aerocontroctors - Charter,12,Lagos - Abuja,de Havilland Canada DHC-6 Twin Otter 300,5N-ATQ,538,5,3,0
+09/17/94,11:48,"Fish Egg Inlet, Canada",PacifiCoastal Airlines,13,Fish Egg Inlet - Pruth Bay,de Havilland Canada DHC-6 Twin Otter 100,C-FDMR,36,4,3,0
+09/18/94,08:07,"Tamanrasset, Algeria",Oriental Airlines,14,Tunis - Tamanrasset,BAC One-Eleven 515FB,5N-IMO,229,39,5,0
+09/23/94,19:15,"Kowloon Bay, Hong Kong",Heavylift Cargo Airlines,15,Hong Kong - Jakarta,Lockheed L-100-30 Hercules,PK-PLV,4826,12,6,0
+09/26/94,17:38,"Near Vanavera, Russia",Cheremshanka Airlines,16,Krasnoyarsk - Tura,Yakovlev YAK-40,RA-87468,9..1337,28,28,0
+09/28/94,12:00,"Bahia Negra, Paraguay",TAM Paraguay,17,Bahia Negra - Asuncion,Douglas C-47D,FAP2009,34346,27,1,0
+09/29/94,12:00,"Buenos Aires, Brazil",Radeair,18,"Cordoba Pajas Blancas - Buenos Aires, Brazil",Rockwell 1121B Jet Commander,LV-WEN,126,9,8,0
+09/30/94,11:10,"Chaibukha, Russia",Arsenyev Aviation Production Association,19,Chaibukha - Provedenia,Antonov AN-8,RA-27209,OA-3460,20,8,0
+12/15/94,06:15,"Lobito, Angola",SL Aviation Services,20,Unknown,Douglas DC-3,N96BF,13321,2,2,0
+10/08/1994,15:45,"Mitu, Colombia",SELVA,21,Villavicencio - Mitu,Antonov AN-32B,HK3929X,3301,10,10,0
+10/12/1994,22:50,"Krakas Mountains, near Natanz , Iran",Iran Asseman Airlines,22,Isfahan - Terhan,Fokker F-28 Fellowship 1000,EP-PAV,11070,66,66,0
+10/14/94,22:00,"Near Formoso do Aragala, Brazil",Military - Brazilian Air Force,23,Rio de Janeiro - Belem,Lockheed C-130E,C-130-2460,4293,21,21,0
+10/26/94,12:00,"Near Cuito, Angola",Military - Angolan Air Force,24,Unknown,Mil Mi-8MTV (helicopter),H534,Unknown,22,22,0
+10/29/94,12:00,"Batagaj, Russia",Yakutavia,25,Unknown,Antonov AN-2,RA-33008,1G217-55,19,7,0
+10/29/94,21:30,"Near Ust'-Ilimsk, Russia",Aeronica,26,Yushno - Ust Ilimsk,Antonov AN-12BP,RA-11790,1340302,23,23,0
+10/31/94,15:59,"Roselawn, Indiana",American Eagle,27,Indianapolis - Chicago,ATR-72-212,N401AM,401,68,68,0
+11/01/1994,12:00,"Off Cozumel, Mexico",Transportes Aereos Pegaso,28,Cozumel - Chichen Itza,Bell 212,XA-SVS,30824,14,14,0
+11/04/1994,12:00,"Near Nabire, Indonesia",Trigana Air Service,29,Nabire - Obano,de Havilland Canada DHC-6 Twin Otter 100,PK-YNM,55,4,4,0
+11/05/1994,12:00,"Saposa, Peru",SA Amazonica,30,Trujillo - Saposa,Yakovlev YAK-40,OB-1569,9140220,30,6,0
+11/16/94,02:40,"Avenal, California",Ameriflight,31,Burbank - Oakland,Beechcraft C99,N63995,U-178,1,1,0
+11/22/94,11:40,Papua New Guinea,Southwest Air,32,Selbang - Bolvovip,Britten Norman BN-2A Trislander,P2-SWC,835,7,7,0
+11/22/94,22:03,"Bridgeton, Missouri",Trans World Airlines / Private,33,Unknown,McDonnell Douglas DC-9-82 / Cessna 441,N954U/N411KM,49426 / 0196,142,2,0
+11/25/94,12:00,"Near Cuito, Angola",Military - Angolan Air Force,34,Unknown,Mil Mi-17 (helicopter),H584,Unknown,22,22,0
+12/10/1994,11:30,PacifiOcean,Philippine Air Lines,35,Manila - Cebu - Tokyo,Boeing B-747-200,EI-BWF,21575,293,1,0
+12/10/1994,19:00,"Elim, Alaksa",Air Taxi - Ryan Air Service,36,"Nome, AK - Koyuk, AK",Cessna 402C,N1238K,402C-1019,5,5,0
+12/13/94,18:34,"Morrisville, North Carolina",American Eagle,37,Greensboro - Raleigh,British Aerospace Jetstream 3201,N918AE,918,20,15,0
+12/17/94,10:30,"Cerro Aicha, Venezuela",Servivensa,38,Unknown,Douglas C-47A-10-DK,YV-761C,12476,9,7,0
+12/17/94,13:20,"Papua, New Guinea",Missionary Aviation Fellowship,39,Tabubil - Selbang,de Havilland Canada DHC-6 Twin Otter 200,P2-MFS,187,28,28,0
+12/21/94,09:53,"Coventry, England",Phoenix Aviation,40,East Midlands - Coventry,Boeing 737-2D6C,7T-VEE,20758/322,5,5,0
+12/26/94,17:00,"Algiers Airport, Algeria",Air France,41,Alger - Paris,Airbus A300B2-1C,F-GBEC,104,239,3,0
+12/29/94,15:30,"Near Van, Turkey",Turkish Airlines (THY),42,Ankara - Van,Boeing B-737-4Y0,TC-JES,26074/2376,76,57,0
+01/05/1995,20:45,"Isfahan, Iran",Military - Iranian Air Force,43,Isfahan - Tehran,Lockheed 1329 Jetstar 8,1003,5203,12,12,0
+01/10/1995,12:00,"Off Flores Island, Inodnesia",Merpati Nusantara Airlines,44,Bima - Ruteng,de Havilland Canada DHC-6 Twin Otter 300,PK-NUK,390,14,14,0
+01/11/1995,19:38,"Cartagena, Colombia",Intercontinental de Aviacion,45,Bogota - Cartagena,McDonnell Douglas DC-9-14,HK-3839X,45742/26,52,51,0
+01/11/1995,18:00,"Flagstaff, Arizona",Empire Airlines,46,Flagstaff - Phoenix,Cessna 208B Caravan I Super Cargomaster,N746FE,208B-0236,1,1,0
+01/11/1995,01:50,"Masset, British Columbia, Canada",Canada Jet Charters,47,Vancouver - Masset,Learjet 35,C-GPUN,35-058,5,5,0
+01/12/1995,17:47,"Pleasanton, California",West Air,48,Visalia - Oakland,Cessna 208B Caravan I Super Cargomaster,N754FE,208B-0249,1,1,0
+01/14/95,04:40,"Blyn, Washington",Air Taxi - Coastal Airways Inc.,49,"Sequim, WA - Seattle, WA",Cessna 172N,N1535E,17271039,4,3,0
+01/14/95,19:45,"Los Angeles, CA",Air Taxi - Wolfe Air Aviation Ltd.,50,"Los Angeles, CA - Burbank, CA",Bell 206B,N2209P,3520,4,2,0
+01/17/95,13:59,"Kathmandu, Nepal",Royal Nepal Airlines,51,Kathmandu - Rumjatar,de Havilland Canada DHC-6 Twin Otter 300,9N-ABI,392,24,2,0
+01/20/95,19:13,"Near Krasnoyarsk, Russia",Abakan Airlines,52,Krasnoyarsk - Abakan,Let 410UVP,RA-67120,790316,19,3,0
+01/20/95,12:00,"Le Bourget, France",Leadair - Charter,53,Paris - Romania,Dassault Falcon 20E,F-GHLN,225,10,10,0
+01/30/95,19:43,"Kuei Shan Hsiang, Taiwan",Transasia Airways,54,Unknown,Aerospatiale ATR-72,B-22717,435,4,4,0
+02/13/95,15:36,"Near Tusayan, Arizona",Las Vegas Airlines,55,"AZ - Las Vegas, NV",Piper PA-31-350 Navajo,N27245,31-77552121,10,8,0
+02/16/95,20:30,"Kansas City, Missouri",ATI,56,Kansas City - Chicopee,McDonnell Douglas DC-8-63F,N782AL,45929/367,3,3,0
+03/16/95,12:00,"Ossora, Russia",Aeroflot,57,Petropavlovsk -  Ossora,Antonov 26B,RA-26084,11806,10,9,0
+03/22/95,08:12,"Reno, Nevada",Union Flights,58,"Sacramento, CA - Reno, NV",Cessna 208B Caravan I Super Cargomaster,N9417B,208B-0065,1,1,0
+03/29/95,12:10,"Near Hamilton, New Zealand",Kiwi West Aviation,59,Hamilton -  New Plymouth,Beech Queen Air B80,ZK-TIK,LD-249,6,6,0
+03/31/95,09:11,"Near Balotesti, Romania",Transporturile Aeriene Romane (TAROM),60,Bucharest - Brussel,Airbus A310-324,YR-LCC,450/395,60,60,0
+04/17/95,18:30,"Near Alexander City, Alabama",Military - U.S. Air Force,61,"Camp Springs, MD - San Antonio, TX",Learjet C-21A,84-0136,35-583,8,8,0
+04/23/95,12:40,"Lagos, Nigeria",Bristow Helicopters,62,Port Harcourt - Lagos,de Havilland Canada DHC-6 Twin Otter 300,5N-AJQ,607,9,1,0
+04/27/95,19:57,"Alice Springs, Australia",IAI 1124 Westwind,63,Tindal - Alice Springs,Pel Air,VH-AJS,221,3,3,0
+04/29/95,12:00,"Near Palaly AFB, Sri Lanka",Military - Sri Lanka Air Force,64,Anuradhapura - Palaly AFB,Hawker Siddeley HS-748-357/2B SCD,4R-HVA,1768,52,52,0
+05/01/1995,13:28,"Sioux Falls, Ontario, Canada",Bearskin Airlines / Air Sandy,65,Red Lake - Sioux Lookout  / Sioux Lookout - Red Lake,Swear. SA-227CC Metro 23/Piper Navajo,C-GYYB/ C-GYPZ,CC-827B /,8,8,0
+05/03/1995,00:45,"Quito, Ecuador",American Jet,66,Buenos Aires - La Paz - Quito,Grumman Gulfstream II,N409MA,83,7,7,0
+05/09/1995,16:35,"Cerro San Jeronimo, Colombia",ADES Colombia,67,Mitu - Villavicencio,Curtiss C-46F,HK-3079G,22538,9,9,0
+05/13/95,12:00,"Near Boise, Idaho",Military - U.S. Air Force,68,"Boise, ID - Colorado Springs, CO",Lockheed C-130E Hercules,62-1838,3801,6,6,0
+05/24/95,16:51,"Near Leeds, England",Knight Air,69,Leeds - Aberdeen,Embraer 110 P1 Bandeirante,G-OEAA,110-256,12,12,0
+05/25/95,15:00,"Miraflores, Colombia",LACOL,70,Villavicencio - Miraflores,Douglas DC-3C,HK-3213,25659,11,2,0
+05/29/95,12:00,"Off Mbour, Senegal",Senegalair,71,Unknown,Piper PA-31-310 Navajo,6V-AGH,31-205,10,6,0
+06/08/1995,19:08,"Atlanta, Georgia",ValuJet,72,Atlanta - Miami,McDonnell Douglas DC-9-32,N908VJ,47321,62,0,0
+06/09/1995,09:22,"Near Palmerston North, New Zealand",Ansett New Zealand,73,Auckland - Palmerston North,de Havilland Canada DHC-8-102,ZK-NEY,55,21,5,0
+06/14/95,12:00,"Volgograd, Russia",Volga Air,74,Poliny Osipenko - Nikolayevsk-on-Amur,Antonov 2R,CCCP-68142,1G195-47,12,12,0
+06/16/95,14:15,"Herputchi, Russia",Aeroflot,75,Poliny - Nikolayevsk-on-Amur,Antonov AN-2,RA-07743,1G259-18,14,13,0
+06/17/95,12:00,"Near Cuvela, Angola",Military - Angolan Air Force,76,Ondjiva - Catumbela,CASA 212-200 Aviocar,T401,A53-2-326,48,48,0
+06/24/95,16:05,"Lagos, Nigeria",Harka Air Services,77,Kaduna - Lagos,Tupolev TU-134A,RA-65617,4308068,80,16,0
+06/27/95,09:50,"La Romana, Dominican Republic",Salair,78,"Santo Domingo - Aguadilla, Puerto Rico",Convair CV-440,N356SA,432,2,2,0
+06/30/95,20:00,"Kodiak, Alaska",Air Taxi - Island Air Service,79,Karluk - Kodiak,Piper PA-32-301,N8385G,328106063,4,4,0
+07/01/1995,12:00,"Kiunga, Papua New Guinea",Garamut Aviation,80,Port Moresby - Tabubil,de Havilland Canada C-7A Caribou,P2-VTC,13,3,3,0
+07/07/1995,14:56,"Haines, Alaska",Air Taxi - Lab Flying Service Inc.,81,Sightseeing,Piper PA-32R-300,N6281J,32R7680348,6,6,0
+07/12/1995,08:00,"Gumey, Papua New Guinea",Milne Bay Air,82,Alotou - Dagura,de Havilland Canada DHC-6 Twin Otter 300,P2-MBI,275,15,15,0
+07/17/95,12:00,"Bintuni,  Indonesia",Merpati Nusantara Airlines,83,Unknown,de Havilland Canada DHC-6 Twin Otter 300,PK-NUT,473,18,1,0
+07/18/95,12:00,"Near Antananivo, Madagascar",Military - Madagascar Air Force,84,Maintirano - Antananivo,Douglas C-47A,5R-MMG,19525,34,34,0
+07/25/95,12:00,"Near Karamui, Papua New Guinea",Transniugini Airways,85,Unknown,Britten-Norman BN-2A Islander,P2-TNT,393,2,2,0
+08/02/1995,12:00,"Johannesburg, South Africa",Aero Air,86,Johannesburg - Jamba,Antonov An-2R,RA-05708,1G153-21,3,3,0
+08/09/1995,20:14,"Mt. Chichontepec, San Vincente, El Salvador",Aviateca,87,Guatemala City - San Salvador,Boeing B-737-2H6,N125GU,23849,65,65,0
+08/09/1995,12:00,"Near Kaimana, Indonesia",Bourag Indonesia Airlines,88,Tual - Langgar - Kaimana,Hawker Siddeley HS-748 2A,PK-KHL,1735,10,10,0
+08/14/95,12:00,"Nevada del Huila, Colombia",AIRES Colombia,89,Neiva - Cali,Embraer 110P1 Bandeirante,HK-2594,110310,10,10,0
+08/21/95,12:53,"Near Carrollton, GA",AtlantiSoutheast Airlines,90,Atlanta - Gulfport,Embraer 120-RT Brasilia,N256AS,120-122,29,10,0
+09/01/1995,12:00,"Near Farewell, Alaska",North Star Air Cargo,91,Farewell - Anchorage,Shorts SC-7 Skyvan,N30GA,SH-1839,1,1,0
+09/02/1995,12:00,"Toronto, Ontario, Canada",Military - Royal Air Force,92,Air Show,British Aerospace Nimrod MR-2P,XV239,8014,7,7,0
+09/02/1995,08:38,"Beaver Dam, Arizona",Adventure Airlines,93,"Las Vegas, NV - W. Yellowstone, MT",Cessna 421C Golden Eagle,N6234G,421C-0265,8,8,0
+09/09/1995,07:15,"Near La Macarena, Colombia",SAETA,94,Villavicencio - La Macarena,CASA 212 Aviocar 200,FAC1152,306,22,21,0
+09/11/1995,12:00,"Jalalabad, Afghanistan",Ariana Afghan Airlines,95,Kabul - Jalalabad,Antonov AN-26B,YA-BAO,14305,51,3,0
+09/12/1995,07:20,"Off Colombo, Sri Lanka",Military - Sri Lanka Air Force,96,Ratmalana - Palali base,Antonov AN-32,CR861,3502,81,81,0
+09/13/95,20:30,"Marsh Harbour, Bahamas",Bimini Air Charter Inc.,97,Bimini - Mores Cay,Cessna 402B,N69303,402B-0423,9,5,0
+09/15/95,12:22,"Tawau,  Malaysia",Malaysia Airlines,98,Kota Kinabalu - Tawau,Fokker 50,9M-MGH,20174,53,34,0
+09/16/95,06:28,"Tamworth, Australia",Tamair,99,Training,Swearingen SA.227AC Metro III,VH-NEJ,AC-629B,3,2,0
+09/21/95,12:30,"Near Moron, Mongolia",MIAT - Mongolian Airlines,100,Ulan Bator - Moron,Antonov AN-24RV,BNMAU-10103,573101103,43,42,0
+09/22/95,07:45,"Anchorage, Alaska",Military - U.S. Air Force,101,Anchorage-Elmendorf AFB - Anchorage-Elmendorf AFB,Boeing B-707 (E-3B),77-0354,21554/933,24,24,0
+09/24/95,12:00,"Sterligov Cape, Russia",Norilsk Flight Company,102,Cape Chelyuskin - Sterligov Cope,Mil Mi-8T,RA-24553,98522942,15,15,0
+09/27/95,19:10,"Campbell River, British Columbia, Canada",Western Straits Air,103,Triumph Bay - Campbell River,De Havilland Dash-3,C-FEBX,38,10,8,0
+10/03/1995,08:00,"Gunung Antara, Indonesia",Sabang Merauke Raya Air Charter,104,Medan - Meulaboh,CASA 212,PK-ZAG,158/28N,14,1,0
+10/04/1995,12:00,"Barskoon, Kirghizia",Kirghizia Aba Zaoldoru,105,Unknown,Mil Mi-8MTV-1,EX-25179,95489,15,15,0
+10/10/1995,07:40,"Bayfield, Colorado",Air Taxi - Durango Air Service,106,Unknown,Cessna 172RG,N4834V,172RG0395,3,3,0
+10/22/95,12:00,"Papua, New Guinea",Islands Nationair,107,Unknown,Britten-Norman BN-2A Trislander,Unknown,Unknown,13,13,0
+10/31/95,20:50,"Near Piedras Negras, Mexico",TACSA,108,Saltillo - Piedras Negras,Cessna 208B Caravan,XA-SVM,208B-0214,11,9,0
+11/09/1995,21:00,"Near Luyaba, Argentina",Military - Argentine Air Force,109,Comodoro Rivadavia - Cordoba,Fokker F-27 Friendship 500,TC-72,10619,53,53,0
+11/13/95,08:55,"Kaduna, Nigeria",Nigeria Airways,110,Jos - Kano,Boeing B-737-2F9,5N-AUA,22985,137,9,0
+11/22/95,19:00,"Off Jaffna Peninsula , Sri Lanka",Military - Sri Lanka Air Force,111,Colombo - Palay AFB,Antonov AN-32,CR862,3503,63,63,0
+11/29/95,10:15,"Off Labuan, Malaysia",Sabah Air,112,Unknown,Bell 412 (helicopter),9M-AYW,33171,10,10,0
+11/30/95,19:10,"Baku, Azerbaijan",Azerbaijan Airlines,113,Unknown,Boeing 707-323C,4K-401,19584/663,6,2,0
+12/03/1995,22:44,"Near Douala, Cameroon",Cameroon Airlines,114,Cotonou - Douala,Boeing B-737-2K9,TJ-CBE,23386/1143,78,72,0
+12/05/1995,17:55,"Near Nakhichevan, Azerbaijan, Russia",Azerbaijani Airlines,115,Nakhichevan - Baku,Tupolev TU-134B-3,4K-65703,63383,82,54,0
+12/07/1995,05:20,"Near Grossevichi, Russia",Far East Aviation,116,Yushno - Khabarovk,Tupolev TU-154B,RA-85164,76A-0164,98,98,0
+12/08/1995,18:00,"Near Belle Anse, Haiti",Air St. Martin,117,Cayenne - Port-au-Prince,Beechcraft 1900D,F-OHRK,UE-119,20,20,0
+12/13/95,19:00,"Verona  - Villafranca, Italy",Romanian Banat Air,118,Verona - Timisoara,Antonov AN-24B,YR-AMR,77303309,49,49,0
+12/18/95,12:00,"Kahengula, Angola",Trans Service Airlift,119,Kinshasa - Jamba,Lockheed L-188C Electra,9Q-CRR,1080,144,141,0
+12/20/95,21:38,"Near Buga, Valle del Cauca, Colombia",American Airlines,120,Miami - Cali,Boeing B-757-223,N651A,24609,164,160,0
+12/22/95,12:00,"Bagasin, Papua New Guinea",Island Airways,121,Madang - Bundi,Britten Norman BN-2A-21 Trislander,P2-NAM,207,12,2,0
+03/12/1996,12:00,"Karabogazgol Bay, Turkmenistan",Akhal Air,122,Unknown,Mil Mi-8T (helicopter),EZ-22684,8142,12,12,0
+01/08/1996,12:43,"Kinshasa, Zaire",African Air,123,Kinshasa - Kahemba,Antonov AN-32B,RA-26222,2301,6,2,225
+01/08/1996,12:00,"Off Bridgetown, Barbados",Mustique Airways,124,Union Island - Bridgetown,Britten-Norman BN-2A-27 Islander,J8-VAK,436,10,1,0
+01/18/96,20:20,"Near Kano, Nigeria",Military - Nigerian Air Force,125,Unknown,Hawker Siddeley HS-748,5N-AXO,257196,14,14,0
+01/22/96,12:00,"Off Point Pedro, Sri Lanka",Military - Sri Lanka Air Force,126,Unknown,Mil Mi-17 (helicopter),CH-587,Unknown,39,39,0
+01/29/96,16:26,"Near Blenheim, New Zealand",Soundsair,127,Wellington - Picton,Cessna 208 Caravan I,ZK-SFA,20800051,6,5,0
+02/04/1996,14:12,"Asuncion, Paraguay",Lineas Aereas del Caribe,128,Asuncion - Campina Grande,McDonnell Douglas DC-8-55F,HK-3979X,45882/282,4,4,24
+02/05/1996,09:50,"St. Johns, Arizona",Business Air Connection,129,"St. Johns, AZ - Brownsville, TX",ConvairCV-440,N131T,338,4,4,0
+02/06/1996,23:47,"Off Puerto Plata, Domincan Republic","Alas Nacionales, leased from Birgen Air",130,Puerto Plata - Gander,Boeing B-757-225,TC-GEN,22206/31,189,189,0
+02/06/1996,20:20,"Near Ensenada, Mexico",Aí©rotaxi Cachanilla,131,Tijuana - Ensenada,Cessna 500 Citation,XA-SLQ,500-0111,8,8,0
+02/11/1996,12:00,"Near Kandahar, Afghanistan",Military - Taliban Militia,132,Unknown,Unknown,Unknown,Unknown,20,20,0
+02/12/1996,12:01,"Port-au-Prince, Hati",Hati Express,133,Port-au-Prince - Cap Haitien,GAF Nomad N-24A,N224E,62,15,11,0
+02/16/96,12:00,"El Zapotal, Guatemala",AVCOM,134,Guatemala City - Cantabal,de Havilland Canada DHC-6 Twin Otter 300,TG-JAK,714,2,2,0
+02/19/96,12:00,"Salzburg, Austria",Private Wings,135,Berlin - Salzburg,Cessna 550 Citation,D-CASH,550-0564,10,10,0
+02/26/96,19:00,"Near Jabal Awliya, Sudan",Military - Sudanese Air Force,136,El Obeid - Khartoum,Lockheed C-130H,Unknown,Unknown,91,91,0
+02/27/96,05:40,"Near Lukapa, Angola",Aero Tropical,137,Ludana - Lukapa,Antonov 12BP,ER-ACE,402812,8,8,0
+02/29/96,20:25,"Arequipa, Peru",Compania de Aviacion Faucett SA (Peru),138,Lima - Arequipa,Boeing B-737-222,OB-1451,19072/86,123,123,0
+03/02/1996,12:00,"Sao Paulo, Brazil",Madrid Taxi Aí©reo - Charter,139,Brasilia - Sao Paulo,Gates Learjet 25D,PT-LSD,25D-243,9,9,0
+03/09/1996,12:00,"Near Mesones Muro, Peru",Military - Peruvian Army Aviation,140,Condorcanqui - Bagua,Mil Mi-17,EP561,Unknown,23,23,0
+03/13/96,12:00,"Near Punto Fijo, Venezuela",Avia Air Aruba,141,Ariba - Punto Fijo,Cessna 402,P4-AVB,402B-1201,8,8,0
+03/17/96,12:37,"Key West, Florida",Key West Sea Plane Service - Air Taxi,142,Unknown,Cessna U206G,N9983Z,U20606794,5,5,0
+04/03/1996,14:52,"Near Dubrovnik, Croatia",Military - U.S. Air Force,143,Tizla - Dubrovnik,Boeing B-737-T43,73-1149,20696/347,35,35,0
+04/05/1996,14:44,"Near Petropavlovsk, Russia",Krasnoyarskie Avialinii,144,Novosibirsk - Petropavlovsk,Ilyushin IL-76TD,RA-76752,93498967,20,20,0
+04/05/1996,12:00,"Off Matsu Island, Taiwan",Formosa Airlines,145,Taipei - Matsu Island,Dornier 228-212,B-12257,8223,17,6,0
+04/11/1996,08:24,"Cheyenne, Wyoming",Private,146,"Cheyenne, WY - Lincoln, NE",Cessna 177B,N35207,17702266,3,3,0
+05/03/1996,22:00,"Near Haj Yousif, Sudan",Federal Airlines,147,Wadi Halfa - Khartoum,Antonov AN-24,ST-FAG,STFA001,53,53,0
+05/09/1996,12:00,"Near Terrace, British Columbia, Canada",Buffalo Narrows Airways,148,Unknown,de Havilland Canada DHC-3 Otter,C-GDOB,194,2,2,0
+05/10/1996,12:00,"Otaez, Mexico",Aeroservicios Empresariales de Durango,149,Durango - Otaez,de Havilland Canada DHC-6 Twin Otter 200,XA-SWJ,126,19,16,0
+05/11/1996,13:15,"Oumba, Papua New Guinea",Milne Bay Air,150,Menyamya - Marakawa,Britten Norman BN-2A-20 Trislander,P2-ISD,582,10,1,0
+05/11/1996,14:15,"Everglades, Miami, Florida",ValuJet,151,Miami - Atlanta,McDonnell Douglas DC-9-32,N904VJ,47377/496,110,110,0
+05/19/96,23:36,"Griesta, United Kingdom",Loganair,152,Inverness - Lerwick,Britten-Norman BN-2A-26 Islander,G-BEDZ,544,3,3,0
+06/06/1996,12:00,"Kinshasa, DemocratiRepubliCongo",Hoseba,153,"Kinshasa, Congo  - Athens, Greece",Ilyushin 76MD,UR-76539,33442234,10,10,0
+06/09/1996,14:55,"Rasht, Iran",Iran Air,154,Training,Boeing 727-286,EP-IRU,21079/1131,7,7,0
+06/12/1996,19:00,"Near Rollingstone, Queensland  Australia",Military - Australian Army Aviation,155,Unknown,Sikorsky S-70 / Sikorsky S-70,A25-113/A25-209,70-1186 / 70-1346,28,18,0
+06/13/96,12:07,"Fukuoka, Japan",Garuda Indonesia Airlines,156,Fukuoka - Denpasar,McDonnell Douglas DC-10-30,PK-GIE,46685/284,275,3,0
+06/21/96,17:04,"Shanghai, China",China Flying Dragon Aviation (Feilong Airlines),157,Dalian - Shanghai,Harbin Yunshuji Y-12-II,B-3822,1,12,2,0
+07/06/1996,15:42,"Pensacola, Florida",Delta Air Lines,158,Pensacola - Atlanta,McDonnell Douglas MD-88,N927DA,49714/1524,142,2,0
+07/09/1996,16:30,"Papua, New Guinea",Milne Bay Air,159,Bosavi - Mendi,de Havilland Canada DHC-6 Twin Otter 300,P2-MBB,290,20,20,0
+07/11/1996,09:00,"Near Kanda, India",Archana Airlines,160,Delhi - Shimla - Kulu,Let 410,VT-ETC,942703,9,9,0
+07/15/96,18:00,"Near Eindhoven, The Netherlands",Military - Belgian Air Force,161,"Villafranca, Italy - Eindhoven AB",Lockheed C-130H,CH-06,4473,41,34,0
+07/17/96,20:31,"Off East Moriches, New York",Trans World Airlines,162,New York City - Paris,Boeing B-747-131,N93119,20083/153,230,230,0
+07/17/96,16:35,"Near Playa del Carmen, Mexico",Aerolatino (Aerocaribe),163,Holvox Island - Playa del Carmen,de Havilland Canada DHC-6 Twin Otter 300,XA-TCF,734,18,1,0
+07/20/96,15:15,"Russian Mission, Alaska",Northern Air Cargo,164,Emmonak - Aniak,Douglas DC-6A,N313RS,44663/630,4,4,0
+07/24/96,12:00,"Near Mergui, Manmar",Myanmar Airways,165,Rangoon - Mergui,Fokker F-27 Friendship 600,XY-AET,10433,49,8,0
+08/12/1996,13:47,"Markham Bay, Canada",First Air,166,Iqaluit - Markham Bay,de Havilland Canada DHC-6 Twin Otter 300,C-GNDN,427,2,2,0
+08/14/96,12:00,"Near Bronson Creek, British Columbia, Canada",Air North,167,Bronson Creek - Wrangell,Douglas DC-4,C-FGNI,10389/120,3,1,0
+08/17/96,23:48,"Near Jackson Hole, Wyoming",Military - U.S. Air Force,168,"Jackson Hole, WY - New York, NY",Lockheed C-130H Hercules,74-1662,4597,9,9,0
+08/18/96,19:50,"Near Alliford Bay, British Columbia, Canada2",Harbour Air,169,Tasu - Alliford,de Havilland Canada DHC-3 Turbo Otter,C-GCMY,32,3,3,0
+08/19/96,03:16,"Belgrade, Yugosalvia",Spair Air Transport,170,Belgrade - Malta,Ilyushin IL-76T,RA-76513,83414451,12,12,0
+08/29/96,10:22,"Spitsbergen, Norway",Vnokovo Airlines,171,Moscow - Svalbard,Tupolev TU-154M,RA-85621,86A-742,141,141,0
+09/13/96,12:00,"Joinville, Brazil",Helisul Taxi Aí©reo,172,Porto Alegre - Joinville,Embraer EMB-110 Bandeirante,PT-WAV,110048,2,2,0
+09/23/96,17:00,"Anchorage, Alaska",Air Taxi - Stearns Air Alaska,173,Unknown,Cessna 206G,N7312C,U20603872,5,3,0
+09/25/96,16:37,"Waddenzee, Netherlands",Dutch Dakota Association,174,Texel - Amsterdam,Douglas DC-3C,PH-DDA,19109,32,32,0
+10/02/1996,01:16,"Off Pasamayo, Peru",Aeroperu,175,Lima - Santiago,Boeing B-757-200,N52AW,25489/505,70,70,0
+10/03/1996,12:00,"Kahemba, Congo",Malu Aviation,176,Unknown,de Havilland Canada DHC-6 Twin Otter 200,9Q-CXK,74,21,6,0
+10/06/1996,12:00,"Lukapa, Angola",Savanair,177,Unknown,Antonov 12B,RA-11101,1347703,19,6,0
+10/08/1996,10:50,"San Francesco al Campo, Italy",Aeroflot,178,"Moscow - Turin, Italy",Antonov An-124,RA-82069,9.77E+12,23,2,0
+10/13/96,14:55,"Ketchikan, Alaska",Air Taxi - Seaside Air Service,179,Unknown,de Havilland DHC-2,N64276,1025,3,3,0
+10/20/96,12:12,"Eel River Crossing, New Brunswick, Canada",Telford Aviation,180,"Port Meiner, Quebe- Bangor, Maine",Piper PA-31-350 Navajo Chieftain,N744W,31-7952246,8,8,0
+10/22/96,22:41,"Manta, Ecuador",Million Air,181,Manta - Miami,Boeing B-707-323C,N751MA,19582/639,4,4,30
+10/26/96,20:45,"Khanty, Russia",Tyumen Aviatrans,182,Tyumen - Khanty,Yakovlev YAK-40,RA-88527,9711252,34,5,0
+10/31/96,08:27,"Sao Paolo, Brazil",TAM (Brazil),183,Sao Paulo - Rio de Janiero,Fokker 100,PT-MRK,11440,95,95,3
+11/01/1996,08:10,"Near Tikal, Guatemala",Transported Areos Profesionales - TAPSA,184,Guatemala City - Flores,Embraer 110P1 Bandeirante,TG-TPA,110313,16,16,0
+11/07/1996,09:29,"Aubusson, France",Jetcom S.A.,185,Geneva - Bordeaux,Cessna 421C Golden Eagle,HB-LRX,421C02172,8,8,0
+03/12/1997,12:00,"Lucapa, Angola",ALADA,186,Luanda - Lucapa,Antonov AN-12B,D2-FVG,6344506,16,16,0
+11/07/1996,17:00,"Lagos, Nigeria",Aviation Development Corporation,187,Port Harcourt - Lagos,Boeing B-727-231,5N-BBF,20054/718,143,143,0
+11/12/1996,18:40,"Near Charkhidadri, India",Saudi Arabian Airlines / Kazastan Airlines,188,New Delhi - Dhahran / Chimkent - New Delhi,Boeing B-747-168B / Ilyushin IL-76TD,HZAIH/UN-76435,22748/555/1023413428,349,349,0
+11/13/96,12:00,"Ngong, Kenya",Kismayo Airlines,189,Unknown,Piper PA-31-350 Navajo,Unknown,Unknown,8,8,0
+11/14/96,12:00,"Bolchaí¿a Pyssa, Russia",Komi Avia,190,Unknown,Antonov AN-2,RA-40309,1G221-39,15,14,0
+11/19/96,17:01,"Quincy, Illinois",United Express  / Private,191,"Burlington, IA - Quincy, IA",Beechcraft 1900-C / Beech King Air A90,N87GL / N1127D,UC-87 /,14,14,0
+11/22/96,19:30,"Off Cape Mendocino, CA",Military - U.S. Air Force,192,"San Diego, CA - Portland, OR",Lockheed HC-130P Hercules,64-14856,4072,11,10,0
+11/23/96,15:15,"Off Moroni, Comoros",Ethiopian Airlines,193,Addis Ababa - Nairobi,Boeing B-767-200ER,ET-AIZ,23916/187,175,127,0
+11/26/96,11:00,"Bethel, Arkansas",ArctiTransportation Services,194,Bethel - Kwigillingok,Cessna 208B Caravan I,N4704B,208B-0199,1,1,0
+11/27/96,11:54,"Abakan, Siberia, Russia",Military - Russian Air Force,195,Abakan - Petropavlosk - Kamchatsky,Ilyushin IL-76MD,RA-76804,93492278,23,23,0
+11/30/96,10:33,"Medellin, Colombia",ACES Colombia,196,Medellin - Bahia Solano,de Havilland Canada DHC-6 Twin Otter 300,HK-2602,746,15,14,0
+12/07/1996,15:23,"Banjarmasin, Indonesia",Dirgantara Air Services,197,Banjarmasin - Sampit,CASA 212 Aviocar 100,PK-VSO,152/26N,17,16,2
+12/09/1996,18:03,"Boise, Idaho",Emery Worldwide,198,Boise - Salt Lake City,Douglas C-47A,N75142,9173,2,2,0
+12/17/96,12:00,"Tver, Russia",Military - Russian Air Force,199,St. Petersburg - Krasnodar,Antonov AN-12,Unknown,Unknown,18,18,0
+12/21/96,22:32,"Rio Negro, Colombia",SELVA,200,Bogota - Medellin,Antonov An-32B,HK-4008X,3402,4,4,0
+12/22/96,18:10,"Narrows, Virginia",Airborne Express,201,Test flight,McDonnell Douglas DC-8-63F,N827AX,45901/293,6,6,0
+12/24/96,15:00,"Near Nellore, India",Military - Indian Air Force,202,Tanbaram AFB - Hyderabad,Hindustan Aeronautics 748-2,H1032,528,22,22,0
+12/24/96,10:05,"Dorchester, New Hampshire",Aircraft Charter Group Inc,203,"Bridgeport, CT - Lebanon, NH",Learjet 35A,N388LS,35-388,2,2,0
+01/02/1997,18:35,"Edenton, North Carolina",Tar Heel Aviation,204,Manteo - Edenton,Cessna 208B Grand Caravan,N802TH,208B-0179,2,2,0
+01/07/1997,11:00,"Near Moamoa, Samoa",Polynesian Airlines,205,Pago Pago - FagaliI,de Havilland Canada DHC-6 Twin Otter 300,5W-FAU,678,5,3,0
+01/09/1997,15:54,"Near Monroe, Michigan",Comair,206,Cincinnati - Detroit,Embraer 120RT Brasilia,N265CA,120257,29,29,0
+01/29/97,23:10,"Sparrevohn, Arkansas",Southcentral Air,207,St. Marys - Kenai,de Havilland Canada DHC-4A Caribou,N702SC,126,2,1,0
+01/31/97,12:00,"Yola, Nigeria",Skypower Express Airways,208,Jos - Yola,Embraer 110P1A Bandeirante,5N-AXS,110458,16,5,0
+02/01/1997,14:38,"Tambacoumba, Senegal",Air Senegal,209,Tambacounda - Dakar,Hawker Siddeley HS-748-353 Srs.2a,6AV-AEO,1769,52,25,0
+02/02/1997,17:30,"Near Quiangala, Angola",Force Area Populaire de Angola,210,Luanda - Cafunfo,CASA 212 Aviocar 200,T-400,325,37,37,0
+02/04/1997,19:00,Northern Israel,Military - Israel Air Force /Military -  Israel Air Force,211,Unknown,Sikorsky CH53D / Sikorsky CH53D,357 / 903,Unknown,73,73,0
+02/14/97,12:34,"Carajas, Brazil",Varig,212,Maraba - Carajas,Boeing B-737-2C3,PP-CJO,21013/393,52,1,0
+02/19/97,03:06,"Guatemala City, Guatemala",Transpolar,213,"Lima, Peru - Guatemala City, Guatemala",IAI 1124 Westwind,YV-160CP,211,5,5,0
+03/04/1997,12:00,"Lake Simcoe, Ontario, Canada",Air Georgian,214,Unknown,Cessna 208B Super Cargomaster,C-FESJ,208B-0089,1,1,0
+03/07/1997,12:00,"Medellin, Colombia",Air Pereira,215,Unknown,Cessna 500 Citation I,HK-3885,500-0135,4,4,0
+03/13/97,18:06,"Near Mashhad, Iran",Military - Iranian Air Force,216,Dezful - Mashhad,Lockheed C-130HF,Unknown,Unknown,88,88,0
+03/18/97,10:04,"Cherkessk, Russia",Stavropol Airlines,217,Stavropol - Trabzon,Antonov AN-24RV,RA-46516,37308502,50,50,0
+04/01/1997,12:00,"Tegucigalpa, Honduras",Military - U.S. Air Force,218,Howard AFB - Tegucigalpa,Lockheed C-130H Hercules,88-4408,5161,10,3,0
+04/04/1997,00:16,"Griffin, Georgia",Custom Air Service,219,Griffin - Americus,Aviation Traders ATL-98 Carvair,N83FA,10365,2,2,0
+04/10/1997,20:30,"Near Wainwright, Alaska",Hageland Aviation Services,220,Barrow - Wainwright,Cessna 208B Caravan I,N408GV,208B-0455,5,5,0
+04/14/97,12:00,"Brazzaville, DemocratiRepubliCongo",TAAG Angola Airlines,221,Brazzaville - Luanda,Fokker F-27 Friendship 600,D2-TFP,10424,7,3,0
+04/15/97,12:00,"Gyandzha, Azerbaijan",Azerbaijan Airlines,222,Training,Yakovlev 40,4K-87504,9510640,6,6,0
+04/16/97,12:00,"Near Sorei, Niger",Military - Niger Air Force,223,Unknown,Lockheed C-130H Hercules,5U-MBD,4829,14,14,0
+04/19/97,07:39,"Tanjung Pandan, Indonesia",Merpati Nusantara Airlines,224,Jakarta - Tanjung Pandan,British Aerospace ATP,PK-MTX,2048,53,15,0
+04/23/97,18:00,"Near Konduz, Afghanistan",Military - Afghan Republican Air Force,225,Unknown,Antonov AN-26,Unknown,Unknown,36,36,0
+05/08/1997,21:28,"Huangtian, China",China Southern Airlines,226,Chongqing - Shenzen,Boeing B-737-31B,B-2925,27288/2577,74,35,0
+06/06/1997,07:35,"Near Irumu, Congo",Bazair,227,Bunia - Kisangani,Vickers Viscount 781D,9Q-CWL,280,27,27,0
+06/10/1997,12:00,"Mandalgobi, Mongolia",MIAT - Mongolian Airlines,228,Ulan Bator - Mandalgobi,Harbin Yunshuji Y-12 II,JU-1020,6,12,7,0
+07/03/1997,03:49,"Madh Island, India",Elbee Airlines,229,Mumbai - Banglaor,Fokker F-27 Friendship 200,VT-SSA,10670,2,2,0
+07/05/1997,12:00,"Skwentna, Alaska",Air Taxi,230,Sightseeing,de Havilland DHC-2,N5164G,506,5,4,0
+07/06/1997,12:00,"Near Saravena, Colombia",Military - Colombian Army,231,Unknown,Mil Mi-17 (helicopter),Unknown,Unknown,29,25,0
+07/09/1997,09:30,"Suzano, Brazil",TAM (Brazil),232,Sao Jose dos Campos - Congonhas,Fokker 100,PT-WHK,11440,60,1,0
+07/11/1997,21:55,"Off Santiago de Cuba, Cuba",Cubana de Aviacion,233,Santiago de Cuba - Havana,Antonov AN-24,CU-T1262,27307610,44,44,0
+07/12/1997,17:30,"Skagway, Alaska",Haines Airways - Air Taxi,234,"Haines, AK - Skagway, AK",Piper PA-32,N15199,32-7340021,6,4,0
+07/17/97,11:56,"Bandung, Indonesia",Sempati Air,235,Bangdung - Jakarta,Fokker F-27 Friendship 600,PK-YPM,10415,50,30,0
+07/18/97,10:32,"Goroka,  New Guinea",Goroka Air Services,236,Chimbu - Goroka,de Havilland Canada DHC-6 Twin Otter 300,P2-MMU,250,4,2,0
+07/21/97,13:08,"Near Ranong, Thailand",Singapore Airlines,237,Phuket - Ranong,Learjet 31,9V-ATD,31-033B,2,2,0
+07/29/97,12:00,"Calabar , Nigeria",ADC Airlines,238,Lagos - Calabar,BAC One-Eleven 203AE,5N-BAA,41,55,1,0
+07/30/97,10:30,"Florence, Italy",Air Littoral,239,Nice - Florence,Aerospatiale ATR-42-512,F-GPYE,492,17,1,0
+08/06/1997,01:42,"Agana, Guam",Korean Airlines,240,Seoul - Guam,Boeing B-747-300,HL-7468,22487/605,254,229,0
+08/07/1997,12:36,"Miami, Florida",Fine Air,241,Miami - Santo Domingo,McDonnell Douglas DC-8-61F,N27UA,45942/349,4,4,0
+08/10/1997,08:15,"Matsu Island, Taiwan",Formosa Airlines,242,Taipei - Matsu,Dornier DO-228-212,B-12256,8220,16,16,0
+08/10/1997,13:30,"100 miles SW of Kuujjuaq, Quebec, Canada",Private,243,Unknown,Cessna 180K,C-GIGK,18053048,2,2,0
+08/14/97,16:35,"Tindal, NT, Australia",Air taxi,244,Sightseeing,Cessna 210,VH-PJQ,21062072,5,5,0
+08/15/97,19:30,"Cricií_ma, Brazil",Air taxi - TAM,245,Unknown,Cessna 550 Citation II,PT-LML,550-0013,2,2,0
+08/29/97,12:00,"Puerto Inirida, Venezuela",SATENA,246,San Felipe - Puerto Inirida,Pilatus PC-6 Turbo Porter / Cessna 206,FAC1115,820,12,12,0
+09/03/1997,14:00,"Phnom Penh, Cambodia",Vietnam Airlines,247,Ho Chi Minh City - Phnom Penh,Tupolev TU-134,VN-A120,66360,66,65,0
+09/06/1997,19:44,"Near Miri, Malaysia",Borneo Airways,248,Bandar Seri Begawan - Miri,Dornier 228-212,9M-MIA,8217,10,10,0
+09/12/1997,12:00,"Near Uvira, Zaire",TMK Air Commuter,249,Buknavu - Uvira,de Havilland Canada DHC-6 Twin Otter 300,9Q-CBO,735,22,22,0
+09/13/97,17:10,"Off Namibia, Africa",Military - Luftwaffe / Military - USAF,250,Unknown,Tupolev TU-154M / C-141 Starlifter,1102/65-9405,89A-813,33,33,0
+09/26/97,13:34,"Buah Nabar, Indonesia",Garuda Indonesia Airlines,251,Jakarta - Medan,Airbus A300-B4-200,PK-GAI,214,234,234,0
+10/08/1997,07:23,"Near Montrose, Colorado",SceniAirlines,252,"Montrose, CO - Page, AZ",Cessna 208B Caravan I,N12022,208B-0432,9,9,0
+10/09/1997,03:00,"Banjul, Gambia",Naysa Aerotaxis,253,Unknown,Beech Super King Air 200,EC-ERQ,BB-218,9,8,0
+10/10/1997,22:23,"Nuevo Berlin, Uruguay",Austral Lineas Aeras (Argentina),254,Posadas - Buenos Aires,McDonnell Douglas DC-9-32,LV-WEG,47446/561,74,74,0
+10/10/1997,12:00,"Taipei, Taiwan",Military - Republiof China Air Force,255,Unknown,Lockheed C-130H Hercules,1310,5067,5,5,0
+10/12/1997,17:28,"Monterey Bay, near PacifiGrove, California",Private,256,Unknown,Rutan Long EZ (experimental aircraft),N555JD,54,1,1,0
+10/29/97,12:00,"Jalal-Abad, Afghanistan",Ariana Afghan Airlines,257,Unknown,Yakovlev YAK-40,YA-KAE,9441037,26,2,0
+10/30/97,12:00,"Near La Roche, Alberta, Canada",Dummy Air,258,Fort MMurray - La Loche,Cessna 206 Seneca,C-GPRL,Unknown,6,3,0
+11/08/1997,08:08,"Near Barrow, Alaska",Hageland Aviation Services,259,Barrow - Wainwright,Cessna 208B Caravan I,N750GC,208B-0504,8,8,0
+12/05/1997,14:46,"Irkutsk-2, Russia",Military - Russian Air Force,260,Irkutsk - Vladivostok,Antonov AN-124-100,RA-82005/08,4516003,23,23,44
+12/09/1997,15:26,"Little Grand Rapids, Canada",Sowind Air,261,Winnipeg - Little Grand Rapids,Embraer 110P1 Bandeirante,C-GVRO,110285,17,4,0
+12/13/97,17:05,"La Veriente, Bolivia",STAP,262,Villamontes - Santa Cruz,Swearingen SA-226T Metro II,CP-1635,TC-359,19,10,0
+12/16/97,18:35,"Sharjah, United Arab Emirates",Tajikistan Airlines,263,Dushanbe - Sharjah,Tupolev TU-154,EY-85281,78A-281,86,85,0
+12/16/97,13:30,"Near Mackenzie, British Colombia, Canada",Terry Air Inc.,264,Mackenzie - Bear Valley,Cessna 402C,C-GKWV,402C0515,3,3,0
+12/17/97,21:13,"Fotina, Greece",Aerosweet Airlines (LVOV),265,Odessa - Thessaloniki,Yakovlev YAK-42,UR-42334,4520422606,70,70,0
+12/19/97,16:13,"Near Palembang, Indonesia",SilkAir,266,Jakarta - Hatta - Singapore,Boeing B-737-300,9V-TRF,28556/2851,104,104,0
+12/20/97,12:00,"Tanagra, Greece",Military - Greek Air Force,267,Search mission,Lockheed C-130H Hercules,750,4729,5,5,0
+12/27/97,12:00,"AtlantiOcean, off Angola",Renan Airways,268,"Abidjan - Rundu, Nambia",Antonov An-72,ER-ACF,36572094888,5,5,0
+12/28/97,23:10,Over the PacifiOcean,United Air Lines,269,Tokyo - Honolulu,Boeing B-747-122,N4723U,19882/175,393,1,0
+12/31/97,07:45,"Rio Sidra, Panama",Parsa,270,Panama City - Rio Sidra,Britten Norman BN-2A Trislander,HP-986PS,178,10,10,0
+01/09/1998,17:04,"Maiden, North Carolina",Mountain Air Cargo,271,"Maiden, NC - Greensboro, NC",Cessna 208B Caravan I,N913FE,208B-0013,1,1,0
+01/13/98,22:30,"Tor Kach, Pakistan",Ariana Afghan Airlines,272,Kandahar - Heart,Antonov AN-12BP,YA-DAB,5342801,51,51,0
+01/13/98,18:30,"Brno, Czech Republic",Aeroservice International,273,Gomel - Kunovice,Let 410UVP,YV-928CP,871919,2,2,0
+01/27/98,11:45,"Yangon (Rangoon), Myanmar",Myanmar Airways,274,Thandwe - Sittwe,Fokker F-27 Friendship 600,XY-AES,10576,45,16,0
+02/02/1998,11:00,"Pagalungan, Philippines",Cebu PacifiAir,275,Tacloban - Cagayan de Oro,McDonnell Douglas DC-9-32,RP-C1507,47069/175,104,104,0
+02/03/1998,15:15,"Near Cavalese, Trento, Italy",Military - U.S. Marine Corps,276,Unknown,Grummand EA-6B,163045/CY-02,P-130,2,0,20
+02/04/1998,22:17,"Terceira, Portugal",Air Luxor,277,Terceira - Lisbon,Antonov 12BP,LZ-SFG,3341605,7,7,0
+02/05/1998,12:10,"Near Navafria, Spain",Military - Spanish Air Force,278,Unknown,CASA 212-S1 Aviocar 100,D-3B-9,297,5,5,0
+02/12/1998,08:30,"Near Nasir, Sudan",Military - Sudan Air Force,279,Unknown,Antonov AN-32,Unknown,AN32052,57,27,0
+02/16/98,20:09,"Taipei, Taiwan",China Airlines (Taiwan),280,Denpasar - Taipei,Airbus A300-622R,B-1814,578,196,196,7
+03/05/1998,05:20,"Near Clarksville, Tennesee",Baron Aviation,281,"Memphis, TN - Bowling Green, KY",Cessna 208B Caravan I Super Cargomaster,N840FE,208B-0142,1,1,0
+03/07/1998,08:38,"Bismark, North Dakota",Corporate Air,282,Grand Forks - Bismark,Cessna 208B Caravan I Super Cargomaster,N868FE,208B-0193,1,1,0
+03/10/1998,16:35,"Mombasa, Kenya",Air Memphis,283,"Mombasa, Kenya - Cairo, Egypt",Boeing 707-336C,SU-PBA,19843/735,6,6,0
+03/18/98,19:31,"Off Hsinchu, Taiwan",Formosa Airlines,284,Hsinchu - Kao Hsiung,Saab340B,B-12255,340B-377,13,13,0
+03/19/98,14:00,"Near Charasyab, Afghanistan",Ariana Afghan Airlines,285,Dubai - Kandahar - Kabul,Boeing B-727-228,YA-FAZ,22288/1712,45,45,0
+03/22/98,19:42,"Bacolod, Philippines",Philippine Air Lines,286,Manila - Bacolod,Airbus A.320-214,RP-C3222,708,127,0,3
+03/28/98,09:35,"Piura, Peru",Fuerza Aí©rea del Peru,287,Tumbes - Piura,Antonov AN-32,OB-1388,1203,55,22,1
+03/31/98,12:00,"Near Mexico City, Mexico",Linea Aí©rea Mexicana de Carga,288,Unknown,Convair CV-240-53,XA-TAP,53-13,4,2,0
+04/20/98,16:47,"Near Bogota, Colombia",Air France,289,Bogota - Quito,Boeing B-727-230,HC-BSU,21622/1431,53,53,0
+05/05/1998,21:30,"Andoas, Peru",Fuerza Aí©rea del Peru,290,Iquitos - Andoas,Boeing B-737-282,FAP-351,23041/962,88,75,0
+05/12/1998,19:30,"Near Nema, Mauritania",Military - Mauritanian Air Force,291,Nema - Nouakchott,Xian Yunshuji Y-7-100C,5T-MAG,007H03,42,39,0
+05/25/98,10:20,"Near Longtiang, Laos",Military - Lao People's Liberation Army Air Force,292,Vientiane - Xiang Khoang,Yakovlev YAK-40,34001,9431835,26,26,0
+05/25/98,00:32,"Indian Trail, North Carolina",Air Taxi - US Helicopters Inc.,293,"Charlotte, NC - Monroe, NC",Bell 206L-3,N96CW,Unknown,5,5,0
+05/26/98,09:30,"Near Erdenet, Mongolia",MIAT - Mongolian Airlines,294,Erdenet - Moron,Harbin Yunshuji Y-12 II,JU-1017,Unknown,28,28,0
+06/18/98,07:28,"Montreal, Canada",Propair,295,Montreal - Peterborough,Swearingen SA-226TC Metroliner II,C-GQAL,TC-233,11,11,0
+06/25/98,09:32,"Mt. Waialeale, Hawaii",Air Taxi - Ohana Helicopter Tours,296,Sightseeing,Eurocopter AS-350-BA,N594BK,2735,6,6,0
+07/13/98,23:15,"Off Rasal, United Arab Emirates",ATI Aircompany,297,"Rasal - Nikolaev, Ukraine",Ilyushin 76MD,UR-76424,63470096,8,8,0
+07/16/98,21:41,"Cí_rdoba, Argentina",Alas del Sur,298,Tucumíçn - Cí_rdoba,Rockwell Sabreliner 60,LV-WPO,306-3,3,3,0
+07/17/98,04:15,"Asmara, Eritrea",Ukraine Aviation Transport Company,299,"Bourgas, Bulgaria - Asmara, Eritrea",Ilyushin II-76,UR-UCI,83481440,10,10,0
+07/23/98,12:00,"Pico de Orizaba, Mexico",Military - Mexican Air Force,300,Unknown,Shorts SC-7 Skyvan 3-100,XC-UTQ,SH1946,4,4,0
+07/27/98,12:00,"Southhampton, England",Plane Sailing,301,VP-BPS,Consolidated PBY-5A Catalina,VP-BPS,1997,18,4,0
+07/28/98,12:00,"Barcelona, Spain",Swifair,302,Palma de Mallorca - Barcelona,Swearingen SA.227AC Metro III,EC-FXD,AC-651B,2,2,0
+07/29/98,16:00,"Manacapuru River, Brazil",Selva Taxi Aero,303,Tefe - Manaus,Embraer 110 Bandeirante,PT-LGN,110343,24,5,0
+07/30/98,11:05,"Kochi, India",Alliance Airlines,304,Agathi - Kochi - Thiruvananthapuram,Dornier 228-201,VT-EJW,8075/2017,6,6,2
+02/25/99,12:30,"Genoa, Italy",Minerva Airlines,305,Cagliar - Genoa,Dornier 328-110,D-CPRR,3054,31,4,0
+07/30/98,15:58,"Near Quiberon, France",Proteus Air / Private,306,Lyon - Lorient,Beechcraft 1900D / Cessna 177,F-GSJM/F-GAJE,UE-238,15,15,0
+08/04/1998,17:58,"Kincolith, British Columbia, Canada",Harbour Air Seaplanes Ltd.,307,Prince Rupert - Kincolith,de Havilland Dash-2 Beaver,C-FOCJ,39,5,5,0
+08/11/1998,12:00,"Saurimo, Angola",Alada,308,Unknown,Antonov An-12BP,D2-FAZ,Unknown,13,1,0
+08/19/98,16:40,"Foveaux Strait, New Zealand",Vincent Aviation,309,Stewart Island - Invercargill,Cessna 402C,ZK-VAC,402C0512,10,5,0
+08/21/98,11:30,"Near Ghorepani, Nepal",Lumbini Airways,310,Jomsom - Pokhara,de Havilland Canada DHC-6 Twin Otter 300,9N-ACC,710,18,18,0
+08/23/98,17:40,"Roseau, Dominica",Air Anguilla,311,St. Maarten - Roseau,Cessna 402C,N2748J,402C0244,11,11,0
+08/24/98,16:46,"Pretoria, South Africa",Speed Service Couriers,312,Pretoria - Durban,DC-3-65TP,ZS-NKK,13143,2,1,0
+08/24/98,08:35,"Manibagi, Myanmar",Myanmar Airways,313,Rangoon - Tachilek,Fokker F-27 Friendship 600,XY-AEN,10476,44,44,0
+08/29/98,13:03,"Quito, Ecuador",Cubana de Aviacion,314,Quito - Guayaquil - Havana,Tupolev TU-154M,CU-T1264,720,91,70,10
+09/02/1998,12:00,Angola,Permaviatrans,315,Unknown,Antonov AN-26,RA-26028,10408,24,24,0
+09/02/1998,21:30,"Off Peggy's Cove, Nova Scotia, Canada",Swissair,316,New York City - Geneva,McDonnell Douglas MD-11,HB-IWF,48448/465,229,229,0
+09/09/1998,10:45,"Port Alsworth, Alaska",Rusts Flying Service Inc.,317,"Anchorage, AK - Hoholitna River, AK",de Havilland Dash-2 float plane,N1433Z,595,5,5,0
+09/10/1998,12:00,"Islamabad, Pakistan",Military - Pakistan Air Force,318,Unknown,Lockheed C-130B Hercules,24143,3781,5,5,0
+07/01/1999,12:00,"Luzamba, Angola",Savanair,319,Huambo - Luanda,Antonov 12B,TN-AFR,8345502,5,1,0
+01/08/2001,12:00,"Near Silimo, Indonesia",Military - Tentara Nasional Indonesia Navy,320,Timika - Jayapura,CASA 212-MP Aviocar 200,U-614,223/63N,9,9,0
+09/14/98,11:52,"Mount Cook, New Zealand",Air taxi - Air Safaris Inc.,321,Sightseeing,Cessna 177B Cardinal,ZK-DKL,Unknown,3,3,0
+09/25/98,09:00,"Near Nador, Morroco",Paukn Air,322,Malaga - Melilla,British Aerospace BAe-146-100,EC-GEO,E1007,38,38,0
+09/28/98,13:30,"Praia, Cape Verde",Cabo Verde Airlines,323,Sao Nicolau - Praia,de Havilland Canada DHC-6 Twin Otter 300,D4-CAX,550,22,1,0
+09/29/98,13:50,"Off Mannar, Sri Lanka",Lionair,324,Jaffna - Colombo,Antonov AN-24RV,EW-46465,27307901,55,55,0
+10/02/1998,09:45,"Near Canaima, Venezuela",Servivensa,325,Sighteeing,Douglas DC-3C,YV-611C,1977,27,1,0
+10/10/1998,12:00,"Near Kindu, Congo",Congo Airline,326,Kindu - Kinshasa,Boeing B-727-30,9Q-CSG,18369/125,41,41,0
+10/21/98,13:51,"Yerevan, Armenia",Ararat Avia,327,Yerevan - Krasnodar,Yakovlev YAK-40,EK-88272,9721053,37,0,4
+10/21/98,08:52,"Fortaleza, Brazil",Capital Taxi Aereo,328,Teresina - Fortaleza,Embraer 120RT Brasilia,PT-WKH,120076,3,3,1
+10/25/98,12:00,"Rwenzori mountains, Uganda",TanaMana Aviation,329,Unknown,Britten-Norman BN-2A-3 Islander,5Y-ANV,284,11,4,0
+11/01/1998,13:14,"Near Quetzaltenango, Guatemala",Living Water Teaching Ministries Charter,330,Plaa Grande - Quetzaltenango,Douglas DC-3C,N3FY,20562,18,11,0
+11/11/1998,05:20,"Near Krasnoyarsk, Russia",Sakha Airlines,331,Krasnoyarsk - Mirny,Antonov AN-12,RA-12955,8345506,13,13,0
+11/17/98,12:00,"Koror, Nepal",Paradise Air,332,Unknown,Cessna 207 Skywagon,RP-C606,207-00105,9,9,0
+11/21/98,17:43,"Edgewater, Maryland",Private,333,"Brunswick, GA - Annapolis, MD",Burgess RV-6 experimental,N956DB,21119,1,1,0
+11/23/98,00:30,"Victoria, British Columbia",Regency Express Air,334,Vancouver - Victoria,Cessna 208B Caravan I Super Cargomaster,N9352B,208B-0061,2,2,0
+11/27/98,12:00,"King Island, Tasmania",Dummy Air,335,Unknown,Unknown,Unknown,Unknown,6,4,0
+12/02/1998,12:16,"Umpire, Arkansas",Yates Aviation,336,"Mena, AR - Texarcana, TX",Cessna 501 Citation I SP,N501EZ,501-0058,1,1,0
+12/07/1998,11:13,"Baie-Comeau, Canada",Air Satellite,337,Point-Lebel - Rimouski,Britten-Norman Trislander,C-FCVK,2028,10,7,0
+07/02/1999,14:27,"Sittwe, Myanmar",Myanmar Airways,338,Yangon - Sittwe,Fokker F-27 Friendship 600,XY-AEO,10594,8,8,0
+12/11/1998,19:10,"Near Surat Thani, Thailand",Thai Airways,339,Bangkok - Surat Thani,Airbus A-310-204,HS-TIA,415,146,102,0
+12/14/98,12:00,"Near Cuito, Angola",Khors Aircompany,340,Unknown,Antonov AN-12BP,UR-11319,4342510,11,11,0
+12/17/98,12:00,"Saurimo, Angola",Zanex,341,Luanda - Saurimo,Antonov 12,S9-SAT,Unknown,10,1,0
+12/22/98,00:15,"Medellí_n, Colombia",SELVA,342,Bogotíç - Medellí_n,Antonov 32B,HK-3930X,3309,5,5,0
+12/26/98,12:00,"Vila Nova, Angola",Transafrik,343,Huambo - Saurimo,Lockheed Martin L-100-30 Hercules,S9-CAO,4561,14,14,0
+01/02/1999,12:00,"Near Huambo, Angola",Transafrik - United Nations Charter,344,Huambo - Luanda,Lockheed L-100-30 Hercules,D2-EHD,4839,9,9,0
+01/12/1999,17:00,"Guernsey, Channel Islands, England",Channel Express,345,London - Guernsey,Fokker F-27 Friendship 600,G-CHNL,10508,2,2,0
+01/13/99,12:00,"Geilenkirchen, Germany",Military - German Air National Guard,346,Unknown,Boeing KC-135E,59-1452,17940/355,4,4,0
+01/13/99,06:33,"Mayne Island, British Columbia, Canada",Kelowna Flightcraft Air Charter,347,Vancouver - Victoria,Douglas DC-3C,C-GWUG,32963,2,2,0
+01/16/99,14:30,"Coconut Island, QLD, Australia",Uzu Air,348,Horn Island - Coconut Island,Britten Norman BN-2A-26,VH-XFF,763,4,3,0
+01/17/99,16:30,"Jumla, Nepal",Necon Air,349,Jumla - Nepalgunj,Cessna 208 Caravan I,9N-ADA,20800235,12,4,0
+01/21/99,08:10,"Bluefields, Nicaragua",Fuerza Aí©rea Nicaragua,350,Managua - Bluefields,Antonov AN-26,Unknown,Unknown,28,28,0
+02/02/1999,05:08,"Luanda, Angola",Savannair,351,Luanda - Lucapa,Antonov AN-12,EL-ASS,3340909,14,14,13
+02/03/1999,10:20,"Hoskins, Papua New Guinea",Airlink,352,Hoskins - Kandrian,Britten Norman BN-2A Trislander,P2-ALH,761,11,11,0
+02/08/1999,12:00,"Kinshasa,  DemocratiRepubliCongo",Air Karibu,353,Kinshasa - Mbandaka,Lockheed L-188A Electra,9Q-CDI,1037,7,7,0
+02/12/1999,10:30,"Near Bishop, California",Ameriflight,354,Tonopath - Bishop,Beechcraft C99,N205RA,U-205,1,1,0
+02/24/99,16:34,"Rui'an, China",China Southwest Airlines,355,Chengdu - Wenzhou,Tupolev TU-154,B-2622,90A-846,61,61,0
+03/07/1999,08:23,"New Delhi, India",Military - Indian Air Force,356,Gwalior -  Pokhran - New Delhi,Antonov AN-32 Transport,K2673,108,19,19,3
+03/18/99,16:05,"Near Tame, Colombia",ALIANSA Colombia,357,Cucuta - El Yopal,Douglas DC-3C (C-47A-DK),HK-337,11831,8,8,8
+03/19/99,09:45,"Davis Inlet, Newfoundland, Canada",Provincial Airlines,358,Goose Bay - Davis Inlet,de Havilland Canada DHC-6 Twin Otter 300,C-FWLQ,724,2,1,0
+04/07/1999,11:30,"Ribeirao Preto, Brazil",Manacíç Tíçxi Aí©reo,359,Training,Learjet 24D,PT-LEM,24-270,5,5,0
+04/07/1999,00:33,"Near Ceyhan, Turkey",Turkish Airlines (THY),360,Adana - Ciddah,Boeing 737-4Q8,TC-JEP,25378/2732,6,6,0
+04/08/1999,11:35,"Near Malaga, Colombia",Aerotaca,361,Bucaramanga - Malaga,de Havilland Canada DHC-6 Twin Otter 300,HK-2760,777,5,5,0
+04/15/99,16:05,"Shanghi, China",Korean Air,362,"Shanghi, China - Seoul, Korea",McDonnell Douglas MD-11,HL-7373,48409/490,3,3,0
+05/08/1999,19:21,"Off Port Vila, Vanuatu",Vanair,363,Espí_rita Santo - Port Vila,de Havilland Canada DHC-6 Twin Otter 300,YJ-RV9,694,12,7,0
+05/24/99,13:15,"Kunching, Malaysia",Military - Malaysian Air Force,364,Training,de Havilland Canada DHC-4A,M21-05,270,5,5,0
+05/29/99,14:30,"Ol Kiombo, Kenya",Malindi Air Services,365,Ol Kiombo - Mara Sika AS,Let 410UVP-E,5Y-LET,912620,2,2,0
+06/01/1999,23:50,"Little Rock, Arkansas",American Airlines,366,Dallas-Fort Worth - Little Rock,McDonnell Douglas MD-82,N215AA,49163/1111,145,11,0
+06/03/1999,12:00,"Near Khartoum, Sudan",Military - Sudan Air Force,367,Kassala - Khartoum,Antonov 32,Unknown,Unknown,50,50,0
+06/09/1999,12:00,"Coron, Philippines",PacifiAirways,368,Unknown,Britten-Norman BN-2A-21 Islander,RP-C471,473,1,1,0
+06/09/1999,10:50,"Juneau, Alaska",Air Taxi - Coastal Helicopters Inc.,369,Sightseeing,Eurocopter AS-350BA,N6099S,2810,7,7,0
+06/17/99,08:52,"Goroka, Papua New Guinea",Airlink,370,Nadzab - Goroka,Embraer 110P2 Bandeirante,P2-ALX,110210,17,17,0
+06/25/99,13:20,"Long Haul Lake, Manatoba, Canada",Blue Water Aviation Services,371,Test flight,de Havilland Canada DHC-3 Otter,C-FIFP,73,2,1,0
+06/30/99,02:42,"Seraing, Belgium",Nightexpress,372,"London, England - Frankfort, Germany",Beechcraft 99,D-IBEX,U- 45,2,2,0
+07/04/1999,12:05,"Villavicencio, Colombia",LANC Colombia,373,Villavicencio - Mitu,Douglas DC-6A,HK-1776,45499/1011,18,5,0
+07/07/1999,19:51,"Near Kathmandu, Nepal",Lufthansa Cargo Airlines,374,Kathmandu - New Delhi,Boeing 727-243F,VT-LCI,22168/1770,5,5,0
+07/09/1999,04:30,"Toluca , Mexico",Aero Jet Express,375,Los Mochis - Toluca,Hawker Siddeley HS-125,XA-TAL,25064,4,4,0
+07/16/99,21:41,"Off Martha's Vineyard, Massachusetts",Private,376,"Fairfield, N.J. - Martha's Vineyard, MA",Piper PA-32-R301 Saratoga II HP,N9253N,3213100,3,3,0
+07/20/99,11:00,"Near Bluefields, Nicaragua",La Costena,377,Managua - Bluefields,Cessna 208B Grand Caravan,YN-CED,208B-0341,16,16,0
+07/23/99,11:25,"Tokyo, Japan",All Nippon Airways,378,"Tokyo, Japan - Chitose, Japan",Boeing B-747,Unknown,Unknown,517,1,0
+07/23/99,03:30,"Near Orito, Colombia",Military - U.S. Army,379,Unknown,de Havilland Canada DHC-7-102,N5382W,95,7,7,0
+07/24/99,05:35,"Nasevou Village, Fiji",Air Fiji,380,Nausori - Nadi,Embraer 110P1 Bandeirante,DQ-AFN,110416,17,17,0
+07/31/99,08:30,"Marine City, Michigan",Private,381,Sky Diving,Beech King Air 65-A90,N518DM,LJ-251,10,10,0
+08/07/1999,12:00,"Santo Antao, Cape Verde Islands",TACV-Cabo Verde Airlines,382,Sao Vicente - Santo Antao,Dornier 228-201,D4-CBC,8091,18,18,0
+08/12/1999,23:58,"Sept-í_les, Canada",Regionnair,383,Port-Menier - Sept-Iles,Beechcraft 1900D,C-FLIH,UE-347,4,1,0
+08/22/99,18:45,"Hong Kong, China",China Airlines (Taiwan),384,Bangkok - Hong Kong,McDonnell Douglas MD-11,B-150,48468/518,315,3,0
+08/24/99,12:36,"Hualian, Taiwan",Uni Air,385,Taipei - Hualian,McDonnell Douglas MD-90-30,B-17912,53536/2160,96,1,0
+08/26/99,10:54,"Turtkul, Uzbekistan",Uzbekistan Airways,386,Tashkent - Turtkul,Yakovlev YAK-40,UK-87848,9331730,33,2,0
+08/31/99,20:55,"Buenos Aires, Argentina","LAPA, Lineas Aereas Privadas Argentinas",387,Buenos Aires - Cordoba,Boeing B-737-204C,LV-WRZ,20389/251,103,64,10
+09/01/1999,10:26,"Mount Meru, Tanzania",Northern Air (Tanzania),388,Serener Airstrip - Kilimanjaro IAP,Cessna 404 Titan II,5HNAT,805,12,12,0
+09/03/1999,12:50,"Glasgow, Scotland",Edinburgh Air Charter,389,Glasgow - Aberdeen,Cessna 404 Titan Ambassador,G-ILGW,404-0690,11,8,0
+09/05/1999,11:53,"Westerly, Rhode Island",Air Taxi - New England Airlines,390,"Westerly, RI - Block Island, RI",Piper PA-32-260,N4830S,32-1261,5,3,0
+09/05/1999,10:30,"Near Kathmandu, Nepal",Necon Air,391,Pokhara - Kathmandu,Hawker Siddeley HS-748-501 Super 2B,9N-AEG,1806,15,15,0
+09/14/99,12:00,"Bucharest, Romania",Greek Government,392,Athens - Bucharest,Dassault Falcon 900B,SX-ECH,26,13,7,0
+09/14/99,21:20,"Belelm, Brazil",Norte Jet Tíçxi Aí©reo,393,Belem - Monte Dourado,Embraer 110 Bandeirante,PT-ODK,110002,2,2,0
+09/17/99,12:00,"Mt. Hidalgo, Mexico",Military - Mexican Air Force,394,Test flight,Lockheed C-130A Hercules,3610,3217,5,5,0
+09/25/99,17:25,"Mt. Mauna Loa, Hawaii",Big Island Airlines,395,Sightseeing,Piper PA-31-350 Navajo Chieftain,N411WL,31-8352039,10,10,0
+10/02/1999,19:15,"Dhahran, Saudi Arabia",Aramco Associated Company,396,Unknown,Bell 214ST helicopter,N704H,28108,20,12,0
+10/24/99,10:15,"Off Genova, Italy",Avioriprese Jet Executive,397,Napoli - Genoa,Learjet 35A,I-AVJG,35-189,3,3,0
+10/24/99,12:00,"San Carlos, Venezuela",Military - Venezuelan Army,398,La Carlota - Acarigua,Arava 201,EV-8012,62,6,6,0
+10/25/99,11:20,"Aberdeen, South Dakota",Private charter,399,"Orlando, FL - Dallas, TX",Gates Learjet 35,N47BA,60,6,6,0
+10/31/99,06:52,"Off Nantucket Island, Massachusetts",EgyptAir,400,New York City - Cairo,Boeing B-767-366ER,SU-GAP,24542/282,217,217,0
+10/31/99,09:35,"Charllis, Idaho",Air Taxi - Stanley Air Taxi,401,Unknown,Cessna U206F,N902CT,U20602610,4,4,0
+01/04/2001,12:00,"Zheng Zou AB, China",Military - People's Liberation Army,402,Training,Shaanxi Yunshuji Y-8/Yunshuji Y-8,31242/31243,Unknown,16,16,6
+11/09/1999,19:03,"Near Uruapan, Mexico",TAESA,403,Uruapan - Mexico City,McDonnell Douglas DC-9-31,XA-TKN,47418/570,18,18,0
+11/12/1999,11:13,"Near Pristina, Kosovo",Si Fly - U.N. charter,404,Rome - Pristina,Aerospatiale Alenia ATR-42,F-OHFV,12,24,24,0
+11/26/99,05:26,"Nairobi, Kenya",DHL Aviation Africa,405,"Nairobi - Dar Es Salaam, Tanzania",Cessna 208 Caravan I,5Y-RAN,208-00037,4,4,0
+12/05/1999,05:12,"Moscow, Russia",Tashkent Aircraft Production Corporation,406,"Moscow, Russia - Tashkent, Uzbekistan",Ilyushin 114T,UK-91004,1083800305,7,5,0
+12/06/1999,07:06,"Johannesburg, South Africa",Charter - Flightline Charter Services,407,"Johannesburg, South Africa  - Oranjemund, Namibia",Piper PA-31-350,ZS-OJY,31-7405210,9,9,0
+12/07/1999,13:00,"Bethel, Alaska",Air Taxi - Grant Aviation Inc.,408,Unknown,Cessna 207,N1747U,20700347,6,6,0
+12/07/1999,09:25,"Near Bayombang, Philippines",Asian Spirit,409,Manila - Cauayan,Let 410UVP,RP-C-3883,851429,17,17,0
+12/09/1999,15:12,"Near Branson, Missouri",College of the Ozarks,410,Saint Louis - Branson,Cessna 525 Citation,N525KL,525-0136,6,6,0
+12/09/1999,12:04,"Near Sundsvall, Sweden",Charter - Twin Air HB,411,Sundsvall - Gothenburg,Piper PA-31-350,SE-GDN,31-7300948,8,8,0
+12/10/1999,12:00,"Kuwait City, Kuwait",Military - U.S. Air Force,412,Unknown,Lockheed C-130H,63-7854,3924,94,3,0
+12/11/1999,09:20,"Sao Jorge, Azores (Portugal)",SATA,413,Ponta Delgada - Horta,British Aerospace APT,CS-TGM,2030,35,35,0
+12/21/99,09:40,"Guatemala City, Guatemala",Cubana de Aviacon,414,Havana - Guatemala City,McDonnell Douglas DC-10-30,F-GTDI,46890/77,314,16,2
+04/05/2000,09:30,"Marianna, Florida",Bankair,415,Opa-Locka - Marianna,Learjet 35A,N86BE,35-194,3,3,0
+04/19/00,12:00,"Bukavu, DemocratiRepubliCongo",Kivu Air Services,416,Unknown,Cessna 208B Caravan I,ZS-ONT,208B-0220,2,2,0
+12/22/99,18:38,"Great Hallingbury, United Kingdom",Korean Air,417,"London, England - Milan, Italy",Boeing 747-2B5F,HL-7451,22480/448,4,4,0
+12/24/99,12:00,"Amritsar, India / Kandahar, Afghanistan",Indian Airlines,418,Kathmandu - New Delhi,Airbus A300B2-101,VT-EDW,36,189,1,0
+12/25/99,20:15,"Bejuma, Venezuela",Cubana de Aviacion,419,Havana - Valencia,Yakovlev YAK-42D,CU-T1285,4.52E+12,22,22,0
+12/25/99,15:02,"Near Simara, Nepal",Skyline Airways,420,Simara - Kathmandu,de Havilland Canada DHC-6 Twin Otter,9N-AFL,796,10,10,0
+12/29/99,12:00,"Near Zonguldak, Turkey",Ecuato Guineana de Aviacion,421,"Kiev, Russia - Tehran, Iran",Antonov 28,3C-JJI,Unknown,6,6,0
+01/05/2000,12:00,"Abuja, Nigeria",Skypower Express Airways,422,Lagos - Abuja,Embraer 110P1A Bandeirante,5N-AXL,110-455,16,1,1
+01/10/2000,17:54,"Niederhasli, Switzerland",Crossair,423,Zí_rich - Dresden,Saab 340B,HB-AKK,213,10,10,0
+01/13/00,12:38,"Off Marsa el-Brega, Libya",Avisto,424,Tripoli IAP - Marsa el-Brega,Shorts 360-300,HB-AAM,SH-3763,41,22,0
+01/15/00,13:10,"San Jose, Costa Rica",TACA,425,San Jose - Tortuguero,Let 410UVP-E,YS-09-C,861620,20,5,0
+01/25/00,18:09,"Near Ankara, Turkey",Top Air - Air Taxi,426,Ankara - Istanbul,Beechcraft King Air C90,Unknown,Unknown,4,4,0
+01/30/00,21:08,"Off Abidjan, Ivory Coast",Kenya Airways,427,Abidjan - Lagos,AirbusA310-304,5Y-BEN,426,179,169,0
+04/19/00,12:00,"Pepa ,Congo",Military - Centrafricain Airlines,428,"Pepa, Congo - Kigali, Rwanda",Antonov AN-8,TL-ACM,9340706,24,24,0
+07/02/2000,10:50,"Off Cagayancillo, Philippines",Military - Philippine Air Force,429,Cagayancillo - Puerto Princesa,GAF Nomad N-22C,N286,86,15,14,0
+01/31/00,16:21,"Off Point Mugu, California",Alaska Airlines,430,Puerto Vallarta - San Francisco,McDonnell Douglas MD-83,N963AS,53077/1995,88,88,0
+02/02/2000,12:00,"Tehran, Iran",Military - IslamiRepubliof Iran Air Force,431,Training,Lockheed C-130 Hercules,Unknown,Unknown,8,8,0
+02/05/2000,16:00,"Iliamna, Alaska","Air Taxi - Iliamna, Air Taxi Inc.",432,"Ilianma, AK - Koliganek, AK",Cessna U206G,N756HG,U20604099,6,6,0
+02/16/00,19:50,"Sacramento, California",Emery Worldwide,433,"Sacramento, CA - Dayton, OH",McDonnell Douglas DC-8-71F,N8079U,45947/341,3,3,0
+03/05/2000,18:11,"Burbank, Calilfornia",Southwest Airlines,434,Las Vegas - Burbank,Boeing B-737-3T5,N668SW,23060/1069,142,0,0
+03/09/2000,08:40,"Moscow, Russia",Vologodskiye Airlines,435,Moscow - Kiev,Yakovlev YAK-40,RA-88170,9620847,9,9,0
+03/17/00,12:31,"Ennadai Lake, Canada",Points North Air Services,436,"Points North Landing, SK - Ennadai Lake",Douglas C-47A-5-DK,C-FNTF,12344,2,2,0
+03/17/00,09:30,"Near Kuna Yala, Panama",Aeroperlas,437,Panama City - Puerto Obaldia,de Havilland Canada DHC-6 Twin Otter 300,HP-1267APP,624,10,10,0
+03/22/00,12:00,"Herreira, Spain",Military - Ejí©rcito del Aire,438,Sevilla - Herreira,CASA 212-DE Aviocar 200,TM-12D-73,314,,,
+03/24/00,18:04,"Kadirana, Sri Lanka",Sky Cabs,439,Bangkok - Colombo,Antonov AN-12 (freighter),RA-11302,8346004,8,6,2
+03/25/00,12:00,"Huambo, Angola",Uralex,440,Huambo - Luanda,Antonov AN-32,D2-MAJ,ZZX3201,33,3,0
+04/01/2000,08:00,"Near Gualeguaychu, Argentina",Taxval,441,Unknown,Cessna 208 Caravan,LV-ZSR,208-00311,1,1,0
+06/23/00,11:41,"Boca Raton, Florida",Universal Jet Aviation,442,Boca Raton - Fort Pierce,Learjet 55,N220JC,55-050,3,3,
+04/19/00,07:02,"Samal Island, Philippines",Air Philippines,443,Manila - Davao,Boeing B-737-2H4,RP-C3010,21447/508,131,131,0
+04/29/00,12:00,"Bapi, Papua New Guinea",North Coast Aviation,444,Unknown,Britten-Norman BN-2A-20 Islander,P2-ISA,703,4,4,0
+05/02/2000,14:39,"Lyon Satolas, France",Northern Executive Aviation,445,Unknown,Learjet 35A,G-MURI,35-646,5,2,0
+05/03/2000,12:00,"Kurupung, Guyana",Trans Guyana Airways,446,Unknown,Britten-Norman BN-2A-9 Islander,8R-GAC,694,1,1,0
+05/10/2000,20:30,"Kaunakakai, Hawaii",Price Aircraft Company,447,Kahului - Hoolehua,Rockwell Sabreliner 65,N241H,465-5,6,6,0
+05/17/00,09:47,"Moanda, Gabon",Avirex,448,Libreville - Moanda,Beechcraft 1900C-1,TR-LFK,UC-133,10,3,0
+05/21/00,11:28,"Near Wilkes-Barre, Pennsylvania",Executive Airlines,449,AtlantiCity - Wilkes-Barre,BAe Jetstream 3101-31,N16EJ,834,19,19,0
+05/25/00,12:00,"Near Manila, Philippines",Philippine Air Lines,450,Davao - Manila,Airbus A.330-301,F-OHZN,Unknown,298,1,0
+05/25/00,02:50,"Paris, France",Streamline,451,Paris - London,Shorts 330-200,G-SSWN,SH-3064,2,1,0
+05/31/00,19:05,"Off Whyalla, Australia",Whyalla Airlines,452,Adelaide - Whyalla,Piper PA-31-350 Navajo,VH-MZK,31-8152180,8,8,0
+06/05/2000,11:35,"Accra, Ghana",Ghana Airlink,453,Tamale - Accra,Fokker F-27 Friendship 600,G-524,10535,52,7,0
+06/14/00,09:50,"Liverpool, England",ANT Air Taxi,454,Ronaldsway - Liverpool,Piper PA-31-350 Navajo,G-BMBC,31-7652172,5,5,0
+06/21/00,07:15,"Cuiaba, Brazil",Air taxi - Jao Air Taxi,455,Cuiaba - Rondonopolis,Beech Baron,PT-LGL,Unknown,4,4,0
+06/22/00,15:16,"Shitai, China",Wuhan Airlines,456,Enshi - Wuhan,Xian Yunshuji Y-7-100C,B-3479,6708,44,44,7
+06/27/00,12:00,"Off Shimano, Japan",Military - Japanese Air Self-Defence Force,457,Training,Kawasaki C-1A,88-1027,8027,5,5,0
+07/08/2000,19:50,"Near Villahermosa, Mexico",Aerocaribe,458,Tuxtla Gutierrez - Villahermosa,British Aerospace  BAe Jetstream 32EP,N912FJ,912,19,19,0
+07/09/2000,08:37,"Villavicencio, Colombia",CORAL Colombia,459,Villavicencio - Mitu,Curtiss C-46A-60-CS,HK-851P,383,19,13,0
+07/13/00,00:34,"Raleigh, North Carolina",Win Win Aviation,460,"Hinckley, IL - Louisburg, NC",de Havilland Canada DHC-6 Twin Otter 200,N201RH,163,3,1,0
+07/17/00,07:34,"Patna, India",Indian Airlines/Alliance Airlines,461,Calcutta - Patna - Lucknow - New Delhi,Boeing B-737-2A8 Advanced,VT-EGD,22280/671,58,55,5
+07/19/00,00:30,"Linneus, Maine",Airwave Transport,462,Moncton - Montreal,Grumman G-159 Gulfstream I,C-GNAK,154,2,2,0
+07/20/00,13:12,"Nassau, Bahamas",Allied Air Freight,463,Unknown,Douglas C-47A-10-DK,N54AA,12475,2,2,0
+07/21/00,10:20,"Maui, Hawaii",Blue Hawaiian Helicopters,464,Sight seeing,Aerospatiale AS355-F1,N510TG,5168,7,7,0
+07/25/00,16:44,"Gonesse, France",Air France,465,Paris - New York City,Aerospatiale BAe Concorde 101,F-BTSC,203,109,109,4
+07/26/00,12:00,"Mafraq, Jordan",Military - Royal Jordanian Air Force,466,Unknown,Lockheed C-130H Hercules,348,4073,13,13,0
+07/27/00,10:31,"Jodhura, Nepal",Royal Nepal Airlines,467,Bajhang - Dhangadhi,de Havilland Canada DHC-6 Twin Otter 300,9N-ABP,654,25,25,0
+08/02/2000,08:45,"Cubatao, Brazil",Air taxi - Lider Air Taxi,468,Cubatao - Navegantes,Sikorsky S-76,PT-HRD,Unknown,6,6,0
+08/06/2000,15:55,"Puerto Montt, Chile",Military - Fuerza Aí©rea de Chile,469,Santiago - Coihaique,Casa 212-AB10 Aviocar,230,AB10-454,14,14,0
+08/09/2000,08:00,"Burlington Township, New Jersey",Patuxent Airways / Private,470,"Lakehurst, NY - Patuxent River, MD",Piper Navajo PA-31/ Piper Seminole PA-44,N27944 / N2225G,7952056/79951271,11,11,0
+08/12/2000,12:00,"Near Tshikapa, Congo",Staer Air,471,Kinshasa - Tshikapa,Antonov AN-26B,Unknown,Unknown,27,27,0
+08/14/00,23:57,"Teslin Lake, British Columbia, Canada",RCMP-GRC Air Services,472,Teslin - Dease Lake,Cessna 208 Caravan I,C-GMPB,208-00082,2,2,0
+08/15/00,08:25,"Lumber City, Georgia",Air Taxi,473,"Dothan, AL - Hazelhurst, GA",Piper PA-31-350,N801MW,31-8152136,3,3,0
+08/23/00,19:30,"Off Manama, Bahrain",Gulf Air,474,Cairo - Manama,Airbus A320-212,A4O-EK,481,143,143,0
+08/25/00,17:30,"Hilo Bay, Hawaii",Big Island Airlines,475,Sightseeing,Piper PA-31-350 Navajo Chieftain,N923BA,31-8252024,9,1,0
+08/26/00,12:10,"Near La Fortuna, Costa Rica",SANSA,476,San Jose  - La Fortuna - Tamarindo,Cessna 208B Grand Caravan I,HP-1357AAP,208B-0709,10,10,0
+09/02/2000,12:00,"Mount Montezuma, Colombia",Military - Fuerza Aí©rea Colombiana,477,Unknown,Douglas C-47,FAC1659,32984,7,7,0
+09/04/2000,15:10,"Near Burketown, Australia",Charter - Central Air,478,Perth - ,Beechcraft SKA 200,VH-SKC,BB-47,8,8,0
+09/16/00,09:25,"Kumarapura, Sri Lanka",Military - Sri Lanka Air Force,479,Colombo - Kalmunai,Mil Mi-17,Unknown,Unknown,14,14,0
+09/18/00,15:10,"Nuiqsut, Alaska",Cape Smythe Air Service,480,Deadhorse - Nuiqsut,Piper PA-31-350 Navajo,N220CS,8275013,10,5,0
+10/06/2000,16:55,"Reynosa, Mexico",Aeromexico,481,Mexico City - Reynosa - Matamoros,McDonnell Douglas DC-9-31,N936ML,47501/571,88,0,4
+12/11/2000,14:45,"Near Sumacal, Beni, BO",Servicio Aereo Manchupo,482,Cashaschanes - Sumacal,Cessna 206,CP-1721,Unknown,6,6,0
+10/08/2000,15:20,"Port Radium, Northwest Territories, Canada",Summit Air Charters,483,Kuglluktuk - Yellowknife,Shorts SC.7 Skyvan 3-100,C-FSDZ,SH-1953,3,3,0
+10/09/2000,09:50,"Lummi Island, Washington",Empire Airlines,484,Bellingham - Eastsound-Orcas Island,Cessna 208B Caravan I Super Cargomaster,N941FE,208B-0192,1,1,0
+10/10/2000,14:52,"Wichita, Kansas",Bombardier Aerospace,485,Test flight,Canadair CL-600-2B16 Challenger 604,C-FTBZ,5991,3,2,0
+10/16/00,17:33,"Hillsboro, Missouri",Private,486,St. Louis - New Madrid,Cessna 335,N8354N,335-0064,3,3,0
+10/19/00,12:12,"Near Sam Neua, Laos",Lao Aviation,487,Vientiane - Sam Neua,Harbin Yunshuji Y-12-II,RDPL-34130,86,17,8,0
+10/25/00,18:15,"Near Batumi, Republiof Georgia",Military - Russian Air Force,488,Moscow - Batumi,Ilyushin IL-18D,RA-74295,187010602,86,86,0
+10/31/00,23:17,"Taipei, Taiwan",Singapore Airlines,489,Taipei - Los Angeles,Boeing B-747-412,9V-SPK,28023/1099,179,83,0
+10/31/00,11:27,"Near Monaquimbundo, Angola",Aca-Ancargo,490,Saurimo - Luanda,Antonov AN-26,D2-FDI,27312009,44,44,0
+11/07/2000,12:00,"Luabo, DemocratiRepubliCongo",Malu Aviation,491,Unknown,Antonov 32B,ER-AFA,3406,11,2,0
+11/09/2000,01:23,"Fort Wayne, Indiana",Superior Aviation,492,"Fort Wayne, IN - Milwaukee, WI",Swearingen SA.226TC Metro II,N731AC,TC-255,1,1,0
+11/15/00,13:05,"Near Luanda, Angola",Asa Pesada,493,Luanda - Namibe,Antonov AN-26,D2-FCG,PESA001,57,57,0
+11/20/00,12:22,"Miami, Florida",American Airlines,494,"Miami, FL - Port au Prince",Airbus A300-600R,N14056,463,114,1,0
+11/25/00,06:04,"Cordoba, Spain",Mayoral Executive Jet,495,Malaga - Cordoba,Aerospatiale SN-601 Corvette,EC-DQG,27,2,1,0
+01/14/01,17:29,"Near Lake Point, Utah",Skydive Salt Lake - Charter,496,Skydiving,Beech A90 King Air,N616F,LJ-165,9,9,0
+01/23/01,21:35,"Eider Point, Alaska",MajestiAir Cargo,497,Unknown,Douglas C-47A-30-DK (DC-3C),N19454,13863,2,2,0
+01/25/01,18:15,"Ciudad Bolivar, Venezuela",Rutaca Airlines,498,Canaina - Ciudad Bolivar - Por La Mar,Douglas DC-3C (C47A-DL),YV-224C,19055,24,24,0
+01/27/01,17:37,"Byers, Colorado",North Bay Charter,499,"Broomfield, CO - Stillwater, OK",Beech King Air 200 Catpass,N81PF,BB-158,10,10,0
+01/31/01,16:50,"El Yopal, Colombia",Lineas Aereas Suramericanas,500,El Yopal - Mitu,Sud Aviation SE-210 Caravelle 10R,HK-3932X,201,6,3,0
+02/08/2001,19:20,"Beaver Island, Minnesota",Northern Illinois Flight Center,501,Chicago - Beaver Island,Swearingen SA.227AT Merlin IVC,N318DH,AT-469,6,2,0
+02/08/2001,15:40,"Nurnberg, Germany",E.A.S. Aeroservizi,502,"Nurnberg - Rome, Italy",Learjet 35A,I-MOCO,35-445,3,3,0
+02/10/2001,12:00,"Jakobkondre, Suriname",Gum Air Charter,503,Paramaribo - Jakobkondre,GAF Nomad N24A,PZ-TBP,N24A-73,10,10,0
+02/27/01,17:30,"Near Granton Harbour, Scotland",Loganair,504,Edinburgh - Belfast,Shorts 360-100,G-BNMT,SH3723,2,2,0
+03/02/2001,12:00,"Rio Azul Farm, Brazil",Air taxi - Cuiaba Air Taxi,505,Unknown,Beech BE-55,PT-OET,Unknown,6,6,0
+03/03/2001,14:48,"Bangkok, Thailand",Thai Airways,506,Bangkok - Chiang Mai.,Boeing B-737-4D7,HS-TDC,25321/2113,5,1,0
+03/03/2001,09:55,"Unadilla, Georgia",Military - Florida Army National Guard,507,"Fort Walton Beach, Fl - Oceana Naval Air Station, VA",Short 360,93-1336,3684/3420,21,21,0
+03/15/01,12:00,"Medina, Saudi Arabia",Vnukovo Airlines,508,"Istanbul, Turky - Moscow, Russia",Tupolev 154M,RA-85619,86A-738,174,3,0
+03/17/01,10:00,"Near Lubango, Angola",Sociedade de Aviacao Ligeira Charter,509,Luanda - Lubango,Beechcraft 1900C,S9-CAE,UC-142,17,16,0
+03/24/01,16:30,"Gustavia, St. Barthí©lí©my, French West Indies",Air Caraibes,510,St. Maarten - St. Barthí©lí©my,de Havilland Canada DHC-6 Twin Otter,F-OGES,254,19,19,1
+03/26/01,18:25,"Jadura, Indonesia",Merpati Nusantara Airlines,511,Training,Fokker F-27 Friendship 500F,PK-MFL,10609,3,3,0
+03/29/01,19:01,"Near Aspen, Colorado",Jetwingsco Inc. - Private Charter,512,Los Angeles - Aspen,Grummand Gulfstream III,N303GA,303,18,18,0
+04/02/2001,16:30,"Ashbaubenon, Wisconsin",Jet Wings,513,"Green Bay - Ft. Myers, Fl",Cessna 501 Citation I/SP,N405PC,501-0150,1,1,0
+04/04/2001,12:00,"Adar Yeil, Sudan",Military - Sudan Air Force,514,Adar Yeil - Khartoum,Antonov AN-24,Unknown,Unknown,30,14,0
+04/07/2001,15:30,"Thanh Tranh Village, Vietnam",SFC Vietnam - Charter - Full Account,515,Vinh - Dong Hoi - Hue,Mil Mi-18 Helicopter,VN-8415,96168,16,16,0
+04/28/01,05:15,"Near Roque Perez, Argentina",Private - Techint  group,516,San Fernando - El Calafate,Cessna  208B Grand Caravan,LV-WSC,208B-0580,10,10,0
+05/16/01,13:15,"Malatya, Turkey",Military - Turkish Air Force,517,Diyarbakir - Ankara,CASA CN-235M-10,Unknown,C-006,34,34,0
+05/17/01,12:21,"Mendoza, Argentina",Fuerza Aí©rea Argentina,518,Mendoza - Parana,Fokker F-27 Friendship 400M,TC-76,10412,5,5,0
+05/17/01,07:45,"Near Sari, Iran",Faraz Qeshm Airlines,519,Tehran - Gorgan,Yakovlev YAK-40,EP-TQP,9740856,30,30,0
+05/22/01,16:35,"Near Myakotino, Russia",Military - Russian Air Force,520,Rzhevsk - Morsansk,Antonov 12MGA,RA-12135,347002,7,7,0
+06/15/01,14:30,"Jayapura, Indonesia",Manunggal Air,521,Jayapura - Wamena,Transall C-160NG,PK-VTP,233,19,1,0
+07/04/2001,02:08,"Near Irkutsk, Russia",Vladivostokavia,522,Yekaterinburg - Irkutsk - Vladivostok,Tupolev TU-154M,RA-85845,86A-735,145,145,0
+07/05/2001,11:40,"Off Chinhae, South Korea",Private  - Daewoo Shipbuilding,523,Jinhae - Ockpo,Sikorsky S-76B helicopter,HL9240,760341,12,8,0
+07/12/2001,12:05,"Near Puerto Cabello, Venezuela",Private - OverteCompany,524,Puerto Cabello - Caracas,Antonov AN-28 PZL-MieleM-28 Sky Truck,YV-117CP,AJE 001-10,13,13,0
+07/14/01,08:53,"Near Moscow, Russia",Russ Air Transport Company,525,Moscow - Norilsk,Ilyushin IL-76,RA-76588,43451530,10,10,0
+07/30/01,16:00,"Haines, Alaska",Air Taxi,526,"Shagway, AK - Return",Piper PA-32-300,N39586,32-7840168,6,6,0
+08/05/2001,04:43,"Reykjaví_k, Iceland",Naske Air,527,"Reykjaví_k, Iceland - Narsarsua, Greenland",Dassault Falcon 20C,D-CBNA,63,3,3,0
+08/10/2001,14:35,"Near Meadview, Arizona",Papillon Grand Canyon Helicopters of Las Vegas,528,Grand Canyon NP - Las Vegas,Aerospatiale AS350 Eurocopter  helicoper,N169PA,2477,7,6,0
+08/23/01,12:00,"Mugogo, DemocratiRepubliCongo",Victoria Airlines,529,Kama - Kapmene,Antonov 28,3C-LLA,1AJ005-22,11,4,0
+08/24/01,18:46,"Terceira, Azores",Canadian Air Transat,530,Toronto - Lisbon,Airbus A-330-243,C-GITS,271,304,0,0
+08/24/01,05:42,"Ithaca, New York",Ameristar Jet Charter,531,"Ithaca, NY - Jackson, MI",Learjet 25,N153TW,25-053,2,2,0
+08/25/01,18:45,"Marsh Harbour, Bahamas",Blackhawk Int. Airways  - Private charter,532,Abaco - Miami,Cessna 402B,N8097W,402B1014,9,9,0
+08/29/01,10:15,"Near Malaga, Spain",Binter Mediterríçneo,533,Melilla - Míçlaga,CASA  CN-235-200,EC-FBC,C033,47,4,0
+09/11/2001,10:03,"Shanksville, Pennsylvania",United Air Lines,534,Newark - San Francisco,Boeing B-757-222,N591UA,28142/718,44,44,0
+09/11/2001,09:45,"Arlington, Virginia.",American Airlines,535,Washington D.C. - Los Angeles,Boeing B-757-223,N644AA,24602/365,64,64,125
+09/11/2001,08:47,"New York City, New York",American Airlines,536,Boston - Los Angeles,Boeing 767-223ER,N334AA,22332/169,92,92,2750
+09/11/2001,09:03,"New York City, New York",United Air Lines,537,Boston - Los Angeles,Boeing B-767-222,N612UA,21873/41,65,65,2750
+09/12/2001,16:25,"Near Chichen Itza, Mexico",Aero Ferinco Charter,538,Chichen Itza - Cozumel,LET 410UVP,XA-ACM,892401,19,19,0
+09/15/01,12:00,"Belo Horizonte, Brazil",TAM (Brazil),539,Recife  - Sao Paulo,Fokker 100,PT-MRN,11443,82,1,0
+09/18/01,07:30,"Guatemala City, Guatemala",AtlantiAirlines,540,"Guatemala City - San Pedro Sula, Honduras",LET 410UVP-E,TG-CPE,861705,13,9,0
+10/03/2001,13:38,"Decatur Island, Washington",Aeronautical Services - Air Taxi,541,"Decatur Island, WAAnacortez, WA",Cessna 172N,N733SW,17268521,3,3,0
+10/04/2001,13:44,"110 miles SW of Sochi, Russia",Sibir Airlines,542,"Tel Aviv -  Novosibirsk, Russia",Tupolev Tu-154M,RA-85693,90A-866,78,78,0
+10/08/2001,08:10,"Milan, Italy",Scandinavian Airlines (SAS) / Private,543,Milan - Copenhagen / Milan - Paris,MD-87 / Cessna 525A Citation II,SE-DMA / D-IEVX,53009/ 525A-0036,114,114,4
+10/08/2001,17:50,"Mollet Lake, Quebec, Canada",Air Saint Maurice Inc.,544,Iyachisakus Lake - Mollet Lake,de Havilland DHC-2 Mk 1 Beaver,C-GPUO,810,7,3,0
+10/10/2001,09:26,"Dillingham, Alaska",PenAir,545,Dillingham - King Salmon,Cessna 208 Caravan,N9530F,20800088,10,10,0
+10/10/2001,10:42,"Off Valencia, Spain",Flightline,546,"Barcelona - Oran, Algeria",Swearingen SA-226AT Merlin IV,EC-GDV,AT-043,10,10,0
+10/11/2001,23:35,"Shamattawa, Canada",Perimeter Airlines,547,Gods Narrows - Shamattawa,Swearingen SA.226TC Metro I,C-GYPA,TC-250,3,2,0
+10/13/01,18:00,"Near Humiata, Brazil",Air Taxi - Continental Air Taxi,548,Humiata - Altamira,EMB 810C Seneca,PT-EVF,Unknown,6,3,0
+10/18/01,15:43,"Anchorage, Alaska",ERA Aviation - Air Taxi,549,"Fire Island, AK - Anchorage, AK",Bell 206L,N400EH,45108,5,3,0
+11/12/2001,09:16,"Belle Harbor, Queens, New York",American Airlines,550,"New York City - Santo Domingo, Dominican Rep.",Airbus A-300-605R,N14053,420,260,260,5
+11/19/01,21:19,"Kalyazin, Russia",Charter - IRS Aero,551,Khatanga - Moscow,Ilyushin 18V,RA-75840,182005301,27,27,0
+11/22/01,13:05,"Pittsburgh, Pennsylvania",Universal Jet Aviation,552,"Pittsburgh, PA - Baca Raton, Fl",Learjet 25B,N5UJ,25-088,2,2,0
+11/23/01,18:35,"Palade, Estonia",ELK Aviation Co. (leased from Eminex),553,Tallinn - Kardla,Antonov AN-28,ES-NOV,1AJ003-03,17,2,0
+11/24/01,22:07,"Birchwil, Switzerland",Crossair,554,Berlin - Zurich,BAE Avro RJ100,HB-IXM,E-3291,33,24,0
+11/27/01,01:56,"Port Harcourt, Nigeria",MK Airlines,555,Luxembourg - Port Harcourt,Boeing 747-246F,9G-MKI,22063/432,13,1,0
+11/28/01,11:48,"San Jerí_nimo de Moravia , Costa Rica",SANSA,556,San Jose - Quepos,Cessna 208B Grand Caravan,HP-1405APP,208B0788,8,3,0
+12/01/2001,12:54,"Near Novaya Inya , Russia","Military - Russian, cargo",557,Moscow - Bratsk - Anadyr,Ilyushin IL- 76TD,RA-76839,1023411375,18,18,0
+12/01/2001,01:43,"Bessemer, Alabama",Air Carriers,558,Little Rock - Bessemer,Cessna 208B Grand Caravan,N499BA,208B-0689,2,2,0
+12/10/2001,18:21,"Sierra Blanca, Texas",Air Cargo Express,559,Harlingen - El Paso,Learjet 24D,N997TD,24-247,2,2,0
+12/14/01,12:00,"Geti, DemocratiRepubliCongo",Eagle Air,560,Bunia - Beni,Let 410A,5X-CNF,730208,6,6,0
+12/16/01,10:21,"Near Medellin, Colombia",Heliandes,561,Medellin - Quibdo,Let 410UVP-E,HK-4175X,861618,16,16,0
+12/20/01,22'08,"Zurich, Switzerland",Eagle Air,562,Unknown,Cessna 560 Citation V,HB-VLV,560-0077,2,2,0
+12/26/01,10:20,"Bremerhaven, Germany",BAL Bremerhaven Airline,563,Bremerhaven - Wangerooge,Britten Norman BN-2B Trislander,D-IAAI,2167,9,8,0
+01/01/2002,18:02,"Hollywood, Florida",Air Taxi - Air Taxi Inc.,564,Unknown,Piper PA-31-250,N3525Y,31-7952127,5,5,0
+01/04/2002,12:07,"Birmingham, England",Agco Corp,565,"Birmingham, England - Bangor, MA",Canadair CL-604,N90AG,5414,5,5,0
+01/09/2002,12:00,"Shamsi AFB, Pakistan",Military - U.S. Air Force,566,Jacobabad - Shamsi,Lockheed Hercules KC-130R,160021,4702,7,7,0
+01/14/02,07:28,"Bilbao, Spain",Ibertrans Aí©rea,567,Madrid - Bilbao,Embraer EMB-120 Brasilia,EC-GTJ,120-024,3,3,0
+01/15/02,08:45,"Chilpancingo, Mexico",Procuradurí_a General de la Repí_blica,568,Mexico City - Chilpancingo,de Havilland DHC-6 Twin Otter 300,XC-FIT,752,17,5,0
+01/16/02,16:29,"Near Solo, Indonesia",Garuda Indonesia Airlines,569,Ampenan - Yogyakarta - Jakarta,Boeing B-737-3Q8,PK-GWA,24403/1706,62,1,0
+01/17/02,11:00,"Near La Bonita, Ecuador",Petroproduccií_n,570,Quito - Lago Agrio,Fairchild FH-227E,HC-AYM,511,26,26,0
+01/19/02,c: 9:40,"Near Milford Sound, New Zealand",Air Fiordland,571,Te Anau  - Milford Sound,Cessna 207 Skywagon,ZK-SEV,20700204,6,6,0
+01/27/02,12:00,"Near Luena, Angola",Military - Angolan  Air Force,572,Unknown,Antonov AN-12,T-304,A12244,40,5,0
+01/28/02,11:00,"Near Ipiales, Colombia",TAME,573,Quito -  Tulcíçn - Cali,Boeing B-727-134,HC-BLF,19692/498,92,92,0
+02/02/2002,17:15,"Ellsworth AFB, South Dakota",Military - U.S. Air Force,574,Training,Learjet C-21A,84-0097,35-543,2,2,0
+02/12/2002,07:50,"Near Khorramabed, Iran",Iran Air Tours,575,Tehran - Khorramabed,Tupolev TU-154,EP-MBS,91A-871,117,117,0
+02/15/02,06:08,"Monrovia, Liberia",Tiramavia,576,Unknown,Antonov 12BP,ER-ADL,4342610,10,1,0
+02/21/02,20:44,"Lakhta, Russia",Military - Russian Navy,577,Sanofov - Lakhta,Antonov AN-26,07RED,ZR726001,20,17,0
+02/22/02,02:30,"Off Dumaguete, Philippines",Military - U.S. Army,578,Basilan - Mactan Island,MH-47 Chinook helicopter,92-0471,M-3719,10,10,0
+03/09/2002,13:40,"Monte Rotondo, Italy",Svedijos Prekí©s,579,"Budapest, Hungary - Tunis, Tunisia",Antonov 2TP,LY-AVD,1G137-53,3,3,0
+03/14/02,16:30,"Near Placetas, Cuba",Charter - Aerotaxi,580,Cienfuegos -- Cayo Coco,Antonov AN-2,CU-T1020,Unknown,17,17,0
+03/15/02,02:00,"Alma, Wisconsin",Priorty Air Charter,581,Minneapolis - Detroit,Cessna 208B Caravan I Super Cargomaster,N228PA,208B-0049,1,1,0
+03/17/02,08:02,"Off Djibouti, Republiof Djibouti",Djibouti Airlines,582,"Mogadishu, Somalia - Djibouti",Let 410UVP-E,J2-KBC,912537,4,4,0
+04/01/2002,07:25,"Near Cairns, QLD, Australia",Air Taxi,583,Cairns - Hicks Island,Shrike Commander 500S,VH-UJB,3152,4,4,0
+04/12/2002,04:07,"Palma de Mallorca, Spain",Tadair,584,Madrid - Palma de Mallorca,Swearingen SA.227AC Metro III,EC-GKR,AC-620,2,2,0
+04/15/02,11:23,"Busan, South Korea",Air China,585,Beijing - Busan,Boeing B-767-200ER,B-2552,23308/127,166,128,0
+04/18/02,09:30,"Near Sweers Island, QLD, Australia",Air taxi,586,Mornington Island - Normanton,Cessna U206A,VH-XGR,U2060610,6,6,0
+04/19/02,09:15,"Popayíçn, Colombia",SELVA Colombia,587,Medellí_n - Popayíçn,Antonov AN-32A,HK-4171X,2508,8,3,0
+04/24/02,13:00,"Near Olancho, Honduras",Private,588,Unknown,Cessna 206G,N7344N,T20603622,6,6,0
+04/28/02,06:15,"Near Abakan, Russia",Private,589,Unknown,Mi-8 helicopter,Unknown,Unknown,20,8,0
+05/04/2002,13:30,"Kano, Nigeria",EAS Airlines (Executive Airline Services),590,Abuja - Jos - Kano - Lagos,BAC One-Eleven 525FT,5N-ESF,266,77,74,75
+05/07/2002,15:17,"Near Tunis, Tunisia",EgyptAir,591,Cairo - Tunis,Boeing B-737-566,SU-GBI,25307/2135,62,14,0
+05/07/2002,21:32,"Off Dalian, China",China Northern Airlines,592,Beijing - Dalian,McDonnell Douglas MD-82,B-2138,49522/17023,112,112,0
+05/21/02,19:30,"Near Calabar, Nigeria",Sky Executive Air Services,593,Port Harcourt - Calabar,LET 410UVP,9Q-CEX,851402,5,5,0
+05/25/02,15:29,"Off Penghu Island, Taiwan",China Airlines (Taiwan),594,Taipei - Hong Kong,Boeing B-747-209B,B-18255,21843/386,225,225,0
+05/25/02,12:00,"Near Nabire, Indonesia",Trigana Air Service,595,Nabire - Enaotali,de Havilland Canada DHC-6 Twin Otter 300,PK-YPZ,458,6,6,0
+06/01/2002,06:45,"George, South Africa",Airquarius Aviation - Charter,596,Bloemfontein - George,Hawker Siddeley HS-748-372,ZS-OJU,1782,3,3,0
+06/02/2002,12:00,"Near Ndalatando, Angola",Military - Angolan Armed Forces,597,Luanda - demobilization camp,Mi-17,Unknown,Unknown,25,20,0
+06/04/2002,12:00,"Oiapoque, Amapa, Brazil",Marco Zero Air Taxi,598,Unknown,Embraer 721C Sertanejo,PT-EPH,Unknown,5,5,0
+06/11/2002,09:20,"Winnipeg, Manitoba",Keystone Air Services Ltd. - Air Taxi,599,Winnipeg Manitoba,PA- 31-350 Chieftain,C-GPOW,31-7305093,8,1,0
+06/12/2002,21:24,"Near Gardez, Afghanistan",Military - U.S. Air Force,600,Unknown,Lockheed MC-130H Hercules,84-0475,5041,10,3,0
+07/01/2002,23:36,"Uberlingen, Germany",Bashkirian Airlines / DHL Worldwide Express,601,Moscow-Munich-Barcelona / Bahrain/Brussels,Tupolev TU-154M / Boeing B-757-23APF,RA85816/A9C-DHL,1006 / 24635/258,71,71,0
+07/04/2002,12:30,"San Dimas, California",Private,602,Unknown,Cessna 310,N8145M,310I0145,2,2,2
+07/04/2002,11:15,"Bangui, Central African Republic",Prestige Airlines (Cargo) Charter,603,"N'Djamena, Chad - Brazzaville, Congo",Boeing B-707-123B,9XR-IS,19335,27,25,0
+07/12/2002,11:45,"Port Alsworth, Alaska","Air Taxi - Bigfoot Air of Alaska, LLC",604,"Lake Hood, AK - Iliamna, AK",de Havilland DHC-2,N3129F,903,4,4,0
+07/16/02,12:00,"Near Long Barai, Indonesia",Sabang Merauke Raya Air Charter,605,Tarakan - Krayan,Britten-Norman BN-2A Islander,PK-TAR,860,10,10,0
+07/16/02,19:45,"Off Cromer, Norfork, England",Bristow Helicopters,606,Gas platform Clipper - drilling rig Golbal Sante Fe Monach,Sikorsky S-76A,G-BJVX,760100,11,11,0
+07/17/02,14:22,"Surkhet, Nepal",Skyline Airways,607,Jumla - Surkhet,de Havilland Canada DHC-6 Twin Otter 300,9N-AGF,828,4,4,0
+07/27/02,12:45,"Lviv, Ukraine",Military - Ukraine Air Force,608,Unknown,Sukhoi Su-27,42,Unknown,2,0,85
+07/28/02,15:25,"Moscow, Russia",Pulkovo Aviation Enterprise,609,Moscow - St. Petersburgh,Iluyshin Il-86,RA-86060,51483203027,16,14,0
+08/07/2002,22:00,"Caguas, Puerto Rico",Military - U.S. Air Force,610,Roosevelt Roads NS - Borinquen NGB,Lockheed MC-130H Hercules,90-0161,5265,10,10,0
+08/15/02,12:35,"Kadjuduwa Watta, Sri Lanka",Military - Sri Lanka Air Force,611,Unknown,Yunshuji Y-8D,CR-873,70802,5,5,0
+08/19/02,12:00,"Khankala, Chechnya",Military - Russian Air Force,612,Unknown,Mil Mi-26,89RED,Unknown,147,121,0
+08/22/02,09:41,"Pokhara, Nepal",Shangri La Air,613,Jomsom - Pokhara,de Havilland Canada DHC-6-300 Twin Otter,9N-AFR,726,18,18,0
+08/29/02,11:58,"Near Ayan, Russia",Vostok Aviakompania,614,Khabarovsk - Ayan,Antonov AN-28,RA-28932,1A-J008-19,16,16,0
+08/30/02,13:08,"Lexington, Kentucky",Care Flight International,615,"Marco, Fl - Lexington, KY",Learjet 25C,N45CP,25-073,5,1,0
+08/30/02,18:30,"Rio Branco, Brazil",Rico Taxi Aí©reo,616,Cruzeiro do Sul - Tarauaca - Rio Branco,Embraer 120ER Brasilia,PT-WRQ,120043,31,23,0
+09/02/2002,12:00,"Near Xichang, China",CAAC Air TraffiManagement Bureau,617,Survey,Cessna 650 Citation VI,B-7023,650-0221,3,3,0
+09/04/2002,09:00,"High Prarie, Alberta, Canada",Airco Charters - Air Taxi,618,"Edmond, Alberta - High Prarie, Alberta",PA-34-220T Seneca III,C-FRKZ,34-8233048,2,2,0
+09/13/02,13:41,"Pucallpa, Peru",Aero Pantanal - Air Taxi,619,Unknown,Cessna U206G,OB-1226,CU20606136,6,6,0
+09/14/02,12:00,"Paranapanema, Sao Paulo, Brazil",Total  Air Lines,620,Guarulhos - Londrina,ATR 42-300,PT-MTS,26,2,2,0
+09/28/02,11:35,"Near Natashquan, Quebec, Canada",Deraps Aviation,621,Lake de l'Avion - Agunish River,de Havilland Canada DHC-3 Otter,C-FLGA,279,4,3,0
+10/01/2002,12:00,"Vasco, India",Military - Indian Navy,622,Military exercises,Ilyushin IL-38 / Ilyushin IL-38,IN302 / IN304,IL38002/IL38004,12,12,5
+10/07/2002,09:10,"Santa Cruz do Sul, Brazil",American Virginia,623,Unknown,Learjet 60,N5027Q,60-242,5,1,0
+10/23/02,19:45,"Spanish Fort, Alabama",Mid-AtlantiFreight,624,Mobile - Mongomery,Cessna 208B Cargomaster I,N76U,208B-0775,1,1,0
+10/25/02,10:22,"Eveleth, Minnesota",Aviation Charter - Air Taxi,625,St. Paul - Eveleth,Beechcraft King Air A100,N41BE,B-245,8,8,0
+11/06/2002,10:10,"Near Niederanven, Luxembourg",Luxair,626,"Berlin, Germany - Luxembourg",Fokker 50,LX-LGB,20221,22,20,0
+11/07/2002,10:27,"Tarakan, Indonesia",Dirgantara Air Services,627,Tarakan - Long Bawan,Britten-Norman BN-2A-21,PK-VIZ,697,10,7,0
+11/08/2002,14:58,"Taos, New Mexico",Richmor Aviation,628,"Las Vegas, NV - Taos, NM",IAI 1124A Westwind,N61RS,384,2,2,0
+11/11/2002,06:09,"Manila, Philippines",Laoag International Airlines,629,Manila - Laoag,Fokker F27 Friendship 100,RP-C6888,10571,34,19,0
+11/28/02,14:15,"Masai Mara Game Reserve, Kenya",Eagle Aviation,630,Ol Kiombo - Mombasa,Let 410UVP-E20,5Y-ONT,871812,20,1,0
+12/09/2002,11:41,"Mena, Arkansas",Raytheon Aircraft,631,"Wichita, KS - Mena, AR",Beechcraft 1900C,N127YV,1990,3,3,0
+12/13/02,12:00,"Gohu Airstrip, Papua New Guinea",Island Airways Ltd.,632,Gohu - Madang,Britten-Norman BN-2A-26 Islander,P2-CBB,140,8,8,0
+11/15/03,18:30,"Mosul, Iraq",Military - U.S. Army,633,Unknown,UH-60 Black Hawk / UH-60 Black Hawk, / ,Unknown,22,17,0
+12/17/02,22:51,"Rockford, Illinois",Planemasters,634,Decatur - Rockford,Cessna 208B Caravan I Super Cargomaster,N277PM,208B-0143,1,1,0
+12/21/02,01:52,"Off Pachao Tao, Taiwan",Transasia Airways,635,Taipei - Macau,Aí©rospatiale/Aeritalia ATR-72-202,B-22708,322,2,2,0
+12/23/02,19:30,"Near Isfanan, Iran",Aeromist-Kharkiv,636,"Kharkiv, Ukraine - Trabzon, Turkey - Isfanan, Iran",Antonov AN-140,UR-14003,204,44,44,0
+12/25/02,01:00,"Off Manteo, North Carolina",Telford Aviation,637,Elizabeth City - Manteo,Cessna 208B Caravan I,N1122Y,208B-0392,1,1,0
+12/26/02,11:20,"Curitiba, Brazil",Military - Brazilian Air Force,638,Sao Paulo - Porto Alegre,Embraer-110 C-95B Bandeirante,FAB-2292,174,16,3,0
+12/27/02,15:00,"Anjouan, Comoros Islands",Ocean Airlines,639,Moroni Hahaya - Anjouan,Let 410UVP,9XR-RB,810636,16,1,0
+01/08/2003,20:28,"Diyarbakir, Turkey",Turkish Airlines (THY),640,Istanbul - Ankara - Diyarbakir,BAe Avro RJ-100,TC-THG,E-3241,80,75,0
+01/08/2003,08:53,"Charlotte, North Carolina",US Air Express/Air Midwest,641,"Charlotte, NC - Greer, SC",Beech BE-1900D,N233YV,UE-233,21,21,0
+01/09/2003,08:43,"Near Chachapoyas, Peru",TANS Airlines,642,Chiclayo - Chachapoyas,Fokker 28 Fellowship 1000,OB-1396,11100,46,46,0
+01/17/03,12:00,"Near Ndjolí©, Gabon",Aerocom,643,Brazzaville - Douala,Antonov 24B,ER-AFT,89901508,7,7,0
+01/24/03,16:45,"Busia, Kenya",African Commuter Services,644,Busia - Nairobi,Grumman G-159 Gulfstream I,5Y-EMJ,158,13,3,0
+01/31/03,15:21,"Baucau, East Timor",Euro Asia Aviation,645,Macau - Baucau,Ilyushin II-76TD,RDPL-34141,53465941,6,6,0
+02/07/2003,12:00,"Near Agadir, Morocco",Volare Aviation Enterprise,646,Agadir - Algiers,Antonov 12BP,UR-LIP,9346405,8,8,0
+02/10/2003,19:42,"Tallinn, Estonia",Enimex,647,Tallinn - Helsinki,Antonov AN-28,ES-NOY,1AJ006-04,3,2,0
+02/16/03,20:02,"Ferguson, Kentucky",Air Taxi - Great Northern Aircraft Co.,648,"Griffith-Merrill, IN - Somerset, KY",Cessna 421,N421TJ,421-0051,7,3,0
+02/19/03,17:30,"Near Shahdad, Iran",Military - IslamiRevolution's Guards Corps,649,Zahedan - Kerman,Ilyushin Il-76MD,15-22,63471155,275,275,0
+02/20/03,08:52,"Near Kohat, Pakistan",Military - Pakistan Air Force,650,Islamabad - Kohat,Fokker F-27 Friendship 200,10254,10254,17,17,0
+03/01/2003,14:25,"Near Barki, Russia",Private - Kabanov - skydiving,651,Skydiving,Let L-410UVP,FLARF-01032,831109,25,11,0
+03/06/2003,15:45,"Tamanrasset, Algeria",Air Algerie,652,Tamanrasset - Algiers,Boeing B-737-2T4,7T-VEZ,22700/885,103,102,0
+03/27/03,12:30,"Mulia, Indonesia",PT Air Regional,653,Mulia - Wamena,de Havilland Canada DHC-6 Twin Otter,PK-WAY,261,16,4,0
+03/28/03,15:49,"New Vienna, Iowa",Morris Hancock Flying Club - Charter,654,"Aurora, IL - Morris, MN",Beech A36,N1636W,E-348,3,3,0
+05/08/2003,12:00,"Near Kinshasa, Congo",Ukrainian Cargo Airlines -  Congolese Army Charter,655,Kinshasa - Lubumbashi,Illyushin 76,UR-UCB,63467003,200,129,0
+05/26/03,04:45,"Near Macka, Turkey",Ukranian-Mediterranean Airlines,656,"Kabul, Afghanistan - Trabzon, Turkey - Zaragoza, Spain",Yakovlev 42D,UR-42352,2042181195,75,75,0
+05/28/03,13:30,"Talkeetna, Alaska",McKinley Air Service - Air Taxi,657,Unknown,Cessna 185,N70176,18502037,4,4,0
+06/01/2003,15:26,"Milan, Italy",Eurojet Italila,658,Milan - Genoa - Farnborough,Gates Learjet 45,I-ERJC,45-093,2,2,0
+06/04/2003,12:00,"Near Oiapoque,  Brazil",Air Taxi - Marco Zero Air Taxi,659,Oiapoque - Macapa,EMB 721C Sertanejo,PT-EPH,Unknown,5,5,0
+06/06/2003,19:15,"Christchurch, New Zealand",Charter - Air Adventures New Zealand Ltd,660,Palmerston North - Christchurch,Piper PA-31-350 Navajo Chieftain,ZK-NCA,31-7405203,10,8,0
+06/11/2003,12:00,"Belo Horizonte, Brazil",Astro Air Taxi,661,Unknown,Embraer 820C Navajo,PT-EHH,Unknown,4,4,0
+06/15/03,09:35,"Volcano, Hawaii",Paradise Tour Helicopters,662,Sightseeing,McDonnell Douglas 369D,N4493M,570137D,4,4,0
+06/22/03,23:55,"Near Brest, France",Brit Air,663,Nantes - Brest,Canadair CRJ-100ER,F-GRJS,7377,24,1,0
+06/25/03,13:00,"Near Rudshour, Iran",Military - IslamiRepubliof Iran Air Force,664,Unknown,Lockheed C-130 Hercules,Unknown,Unknown,7,7,0
+06/25/03,15:50,"Anchor Point, Alaska",Hallo Bay Air - Air Taxi,665,"Hallo Bay, AK - Homer, AK",Cessna 180H,N91303,18052039,3,3,0
+06/26/03,19:30,"Near Rooisand Desert Ranch, Namibia",ComvaAviation,666,Unknown,Cessna 208B Grand Caravan,V5-CAS,208B-0549,4,4,0
+06/30/03,10:50,"Blida, Algeria",Military - Algerian Air Force,667,Training,Lockheed C-130H Hercules,7T-WHQ,4926,4,4,11
+07/01/2003,19:57,"Belem, Para, Brazil",Heringer Air Taxi,668,Unknown,Mitsubishi MU 2B 35,PT-LFX,Unknown,4,4,0
+07/05/2003,11:30,"Macaí©, Rio de Janeiro, Brazil",BHS - Brazilian Helicopter Services,669,Unknown,Sikorsky  S 76 A,PT-YVM,Unknown,5,5,0
+07/08/2003,04:00,"Port Sudan, Sudan",Sudan Airways,670,Port Sudan - Khartoum,Boeing 737-2J8C,ST-AFK,21169/429,117,116,0
+07/13/03,15:30,"Off Treasure Cay, Bahamas",Air Sunshine,671,"Ft. Lauderdale, FL - Treasure Cay",Cessna 402C,N314AB,402C0413,10,2,0
+07/13/03,12:15,"Near San Cristobal, Venezuela",Ruiban & Duran Compania Aí©rea,672,La Carlota - San Cristobal,Let 410UVP-E,YV-1060CP,902505,10,4,0
+07/19/03,18:00,"Mount Kenya, Kenya",Ryan Blake Air Charter,673,Nairobi - Samburu National Park,Swearingen SA-226T Metro II,ZS-OYI,TC-349,14,14,0
+07/23/03,08:53,"Waialeale,Kauai, Hawaii",Jack Harter Helicopters,674,Sightseeing,Bell 206B,N37741,1695,5,5,0
+08/04/2003,06:39,"Groton, Connecticut",Jet Pro,675,Farmingdale - Groton,Gates Learjet 35A,N135PT,35A-509,2,2,0
+08/08/2003,09:32,"Tocomita, Venezuela",Servicios Aeronauticos Sucre (SASCA),676,Porlamar - Canaima,Cessna 208B Grand Caravan,YV-1069C,208B-0713,16,1,0
+08/20/03,13:05,"Kamchatka Peninsula, Russia",Khalatyrka,677,Kamchatka - Kuril Islands,Mi-8 helicopter,Unknown,Unknown,20,20,0
+08/24/03,14:00,"Cap Haitien, Haiti",Tropical Airways,678,Cap Haitien - Port au Paix,Let 420UVP-E,HH-TAD,861702,21,21,0
+08/26/03,15:38,"Off Hyannis, Massachusetts",US Airways Express,679,Unknown,Beechcraft 1900D,N240CJ,24637,2,2,0
+09/11/2003,20:30,"Near Summer Beaver, Canada",Wasaya Airways,680,Pickle Lake - Summer Beaver,Cessna 208B Grand Caravan,C-FKAB,208B-0305,8,8,0
+09/19/03,17:10,"Del Rio, Texas",Ameristar Jet Charter,681,El Paso - Del Rio,Learjet 25B,N666TW,25-116,2,1,0
+09/19/03,20:00,"Near La Quemada, Mexico",Military - Mexican Air Force,682,Mexicali - Santa Lucia,Lockheed C-130A Hercules,3603,3025,6,6,0
+09/20/03,19:55,"Near Meadview, Arizona",Sundance Helicopters,683,Sightseeing,Aerospatiale AS350BA,N270SH,1864,7,7,0
+09/27/03,18:57,"Gaspí©, Quebec, Canada",Les Ailes de Gaspí© Inc.,684,Gaspí© - í_les-de-la-Madeleine,Piper PA31-310,C-FARL,31306,3,3,0
+10/03/2003,12:00,Sao Gabriel de Cachoeria,Air taxi - Rumo Notre Air Taxi,685,Sao Gabriel de Cachoeria - Yauarete,EMB 721C Sertanejo,PT-EBK,Unknown,4,4,0
+10/03/2003,21:25,"Off Waikanae, New Zealand",Air Freight New Zealand,686,Christchurch - Palmerston North,Convair CV-580F,ZK-KFU,17,2,2,0
+10/11/2003,16:00,"Uriman, Venezuela",Transmandu,687,Unknown,Antonov AN-2TP,YV-1128C,1G238-12,2,1,0
+10/26/03,04:31,"Buenos Aires, Argentina",CATA Linea Aerea,688,Unknown,Fairchild Hiller FH-227B,LV-MGV,567,5,5,0
+10/27/03,08:08,"Tampico, Mexico",Aeroextra,689,Tampico - Las Potrancas Ranch Airstrip,Hawker 800A,XA-ISH,258036,3,3,0
+10/29/03,08:51,"Cody, Wyoming",FedEx,690,Casper - Cody,Cessna 208B Caravan I Super Cargomaster,N791FE,208-0289,1,1,0
+11/02/2003,09:00,"Near Hasi, Iraq",Military - U.S. Army,691,Fallujah - Baghdad,CH-47 Chinook,Unknown,Unknown,36,15,0
+11/08/2003,10:59,"Near Ogle, Guyana",Trans Guyana Airways,692,"Ogle, Guyana - Ekereku, Guyana",Shorts SC-7 Skyvan 3M Variant 100,8R-GMC,SH-1959,7,2,0
+11/08/2003,10:26,"200 miles NE of Derby, Australia",Heliwork WA Pty Ltd. - Air Taxi,693,Unknown,Robertson R44 helicopter,VH-YKL,170,4,4,0
+11/29/03,08:01,"Spokane, Washington",Ameriflight,694,Seattle - Spokane,Swearingen SA227AT Merlin IVC,N439AF,AT-439B,1,1,0
+11/29/03,15:20,"Boende, Congo",Military - Congolese Air Force,695,"Boende, Congo - Kinshasa, Congo",Antonov AN-26,9T-TAD,Unknown,24,20,13
+12/16/03,12:00,"Jellicoe, Ontario, Canada",Huron Air,696,Unknown,de Havilland DHC-3 Otter,C-GOFF,65,3,2,0
+12/18/03,22:00,"Mitu, Colombia",Lí_neas Aí©reas Suramericanas,697,El Yopal - Mitu,Douglas DC-9-15F,HK-4246X,47062,3,3,0
+12/23/03,09:13,"Helendale, California",Pavair,698,"Chino,CA - Sun Valley, ID",Gates Learjet 24B,N600XJ,24B-190,2,2,0
+12/25/03,14:55,"Cotonou, Benin",Union des Transports Aeriens de Guinee,699,"Conakry, Guinea - Cotonou, Benin - Beirut, Lebanon",Boeing B-727-223,3X-GDO,21090,161,140,0
+01/03/2004,04:44,"Off Sharm el Sheikh, Egypt",Flash Air,700,"Sharm el Sheikh, Egypt - Cairo, Egypt",Boeing B-737-3Q8,SU-ZCF,26283,148,148,0
+01/13/04,19:40,"Tashkent, Uzbekistan",Uzbekistan Airways,701,Termez - Tashkent,Yakovlev YAK-40,UK-87985,9540844,37,37,0
+01/17/04,16:40,"Lake Erie, off Pelee Island, Ontario, Canada",Georgia Express,702,"Pelee Island, Ontario - Windsor, Ontario",Cessna 208B Grand Caravan,C-FAGA,208B-0658,10,10,0
+01/28/04,20:55,"Ghardaí¿a, Algeria",Tassili Airlines,703,Hassi R'Mel - Ghardaí¿a,Beechcraft 1900D,7T-VIN,UE-365,5,1,0
+02/06/2004,08:01,"Bitonja, Bosnia-Herzegovina",Military - Government of Macedonia,704,Skopje - Mostar,Beechcraft Super King Air 200,Z3-BAB,BB-652,9,9,0
+02/10/2004,11:40,"Sharjah, United Arab Emirates",Kish Airlines,705,Kish Island - Sharjah,Fokker F-50,EP-LCA,20273,46,43,0
+02/24/04,05:50,"Cagliari, Italy",City-Jet,706,Rome - Cagliari,Cessna Citation 500,OE-FAN,500-0289,6,6,0
+03/01/2004,17:50,"Trefoil Island, TAS, Australia",Air taxi,707,Trefoil Island - Smithton,Cessna 172G,VH-RPI,1725351,4,4,0
+03/04/2004,09:40,Somewhere,Azov Avia Airlines,708,Ankara - Baku - Kabul,Ilyushin II-76,UR-ZVA,63468036,7,3,0
+03/10/2004,20:42,"San Diego-Miramar NAS, California",Military - United States Marine Corps,709,Training,Cessna UC-35D Citation Encore,165938,560-0567,4,4,0
+07/12/2004,07:15,"Off Beef Island, British Virgin Islands",Dodita Air Cargo,710,San Juan - Saint Martten,Convair CV-440,N4826C,391,2,1,0
+03/16/04,04:01,"Tonopah, Nevada",Military - United States Air Force,711,Unknown,Beechcraft 1900C,N27RA,UB-37,5,5,0
+03/18/04,17:08,"Hamilton Island, QLD, Australia",Air Taxi,712,Hamilton Island - Lindeman Island,Piper PA-32-300,VH-MAR,32-40920,6,6,0
+03/21/04,02:20,"Pyote, Texas",Air Ambulance - Med-Trans Corp.,713,"Odessa, TX - Lubbock, TX",Bell 407,N502MT,53549,5,4,0
+05/02/2004,16:00,"Near Milpillas, Mexico",Procuradoria General de la Republica,714,Ciudad Juarez - Mexico City,Rockwell Gulfstream Jetprop 840,XC-JEH,11678,7,7,0
+05/04/2004,11:00,"Chimanta mountains, Venezuela",Venezuelian Government,715,Ciudad Bolí_var - Uonquí©n,Cessna 208 Grand Caravan I,YV-O-CBL-7,208B-0926,7,7,0
+05/05/2004,13:00,"Carepa, Colombia",Aerotransportes Petroleros,716,Bogota - Carepa,Swearingen SA227AC Metro III,HK-4275,AC-676,7,3,0
+05/06/2004,15:00,"Jiech, Sudan",Charter - Air Cush,717,Jiech - Ayod,Let 410UVP,9XR-DC,Unknown,10,6,0
+05/11/2004,12:00,"Dalang, Sudan",El Magal Aviation,718,Khartoum - Juba - El Obeid,Antonov AN-12,ST-SIG,1400101,7,7,0
+05/14/04,18:30,"Near Manaus, Brazil",Rico Linhas Aereas,719,Sao Paulo - Tefe - Manaus,Embraer 120ER Brasilia,PT-WRO,120070,33,33,0
+05/18/04,10:40,"Bozoy, Kazakhstan",Aray-Avia,720,Kyzyl-Orda - Bozoy - Vozrozhdenya Island,PZL-MieleAN-2R,UN-70276,1G139-35,12,1,0
+05/18/04,10:50,"Urumqi, China",AZAL Cargo Company,721,Taiyuan - Urumqi - Baku,Ilyushin II-76TD,4K-AZ27,53460827,7,7,0
+05/23/04,07:30,"Mwingi, Kenya",Blue Bird Aviation,722,Nairobi - Mogadiscio,Let 410UVP,5Y-VVD,872009,2,2,0
+05/25/04,13:56,"Near Lukla, Nepal",Yeti Airlines,723,Katmandou - Lukla,de Havilland DHC-6 Twin Otter 300,9N-AFD,651,3,3,0
+06/08/2004,09:38,"Off Libreville, Gabon",Gabon Express,724,Libreville - Franceville,BAe HS-748-232 Srs 2A,TR-LFW,1611/82,30,19,0
+06/11/2004,12:00,"Belo Horizonte, Brazil",Air taxi - Aero Air Taxi,725,Belo Horizxonte - Juiz de For a,EMB 820C Navajo,PT-EHH,Unknown,4,4,0
+06/28/04,09:17,"Near Yengema, Sierra Leone",United Nations -  UTair Charter,726,Freetown - Kailahun,Mi-8MTV-1,RA-27113,Unknown,24,24,0
+07/02/2004,13:38,"Panama City, Panama",Air Trek,727,"Panama City, Panama  - Washington DC",IAI 1124 Westwind,N280AT,247,6,6,1
+07/10/2004,09:00,"Ticonderoga, New York",Capital Airlines Inc.,728,"Waterbury,CN  - Oxford, CN",Piper PA-31-350 Navajo Chieftain,N45032,31-8052199,2,2,0
+07/22/04,08:30,"Off  Macaí© , Rio de Janeiro , Brazil",BHS - Brazilian Helicopter Service  Air Taxi,729,"Campos, Brazil  -  Off-shore oil rig",Sikorsky S 76,PP-MYM,Unknown,11,6,0
+07/29/04,10:30,"Ononge, Papua New Guinea",Airlines of PNG,730,Port Moresby - Ononge,de Havilland DHC-6 Twin Otter 300,P2-MBA,353,3,2,0
+08/13/04,00:50,"Cincinnati, Ohio",Air Taroma,731,Memphis - Cincinnati,Convair CV-580,N586P,68,2,1,0
+08/17/04,23:40,"Great Falls, Montana",Alpine Air Express,732,Billings - Kalispell,Beechcraft 99,N199GL,U-15,2,2,0
+08/18/04,11:10,"Near Goma, DemocratiRepubliCongo",Transworld Safaris,733,Goma - Walikale,Cessna 208B Grand Caravan,5Y-TWH,208B-0784,3,3,0
+08/21/04,16:28,"Near Maracay, Venezuela",Military - Venezuelan Air Force,734,La Orchila Air Base - Maracay,Shorts 360,FAV-1652,SH3123,25,25,0
+08/24/04,22:59,"Near Rostov-on-Don, Russia",Sibir Airlines,735,Moscow - Sochi,Tupolev 154B-2,RA-85556,82A-556,46,46,0
+08/24/04,22:56,"Near Toula, Russia",Volga-Avia Express,736,Moscow - Volograd,Tupolev 134A-3,RA-65080,60065,41,41,0
+08/27/04,16:30,"Near MGrath, Alaska",Mavrik Aire Transport,737,Kenai - McGrath - Kotzebue,de Havilland DHC-3 Otter,N197TT,197,3,1,0
+09/09/2004,06:50,"Villahermosa, Mexico",Jett Paqueteria SA,738,Mexico City - Villahermosa,Rockwell CT-39A Sabreliner,XA-TFD,265-10,2,2,0
+09/11/2004,11:10,"Off Mount Athos, Greece",Military - Greek Army,739,Athens - Mount Athos,CH-47D Chinook,Unknown,Unknown,17,17,0
+09/29/04,18:59,"Tortuguero lagoon, Puerto Rico",Air Flamence,740,Mayaguez - San Juan,Pilatus-Britten Norman BN-2A-27 Islander,N902GD,905,1,1,0
+10/05/2004,12:37,"Kaduqli, Sudan",Sarit Airlines,741,El Obeid - Juba,Antonov AN-12,ST-SAF,347606,4,4,0
+11/22/04,06:15,"Houston, Texas",Business Jet Services,742,Dallas - Houston,Grumman Gulfstream G3,N85VT,449,3,3,0
+11/27/04,11:20,"Near Bagram, Afghanstan",Presidental Airways Inc. - Air Taxi,743,"Bagram - Farah, Afghanstan",CASA 212-CC,N960BW,231,6,6,0
+10/14/04,22:15,"Jefferson City, Missouri",Pinnacle Airlines/Northwest Airlink,744,Little Rock - Minneapolis,Canadair CRJ200LR RegionalJet,N8396A,10161,2,2,0
+10/14/04,03:56,"Halifax, Nova Scotia, Canada",MK Airlines,745,"Windsor Locks - Halifax - Zaragoza, Spain",Boeing 747-244B-SF,9G-MKJ,22170,7,7,0
+10/15/04,07:46,"Near Medellin, Colombia",Aerovanguardia,746,Villavicencio - Medellin,Douglas DC-3C,HK-1503,34331,3,3,0
+10/16/04,15:00,"Coron Island, Philippines",PacifiAir,747,Coron Island - Manila,Pilatus Britten-Norman BN-2A-21 Islander,RP-C1325,593,2,2,0
+10/19/04,07:45,"Near Kirksville, Missouri",Corporate Airlines (American Connection),748,"St. Louis, MO - Kirkville, MO",Bae Jetstream 3201,N875JX,875,15,13,0
+10/24/04,16:30,"Martinsville, Virginia",Private - Hendrick Motorsports Inc.,749,"Concord, NC - Martinsville, VA",Beech 200 Super King Air,N501RH,BB-805,10,10,0
+10/24/04,00:30,"San Diego, California",Med Flight Air Ambulance - Private,750,"San Diego, CA - Albuquerque, NM",Learjet 35A,N30DK,35A-345,5,5,0
+11/18/04,13:02,"Caracas, Venezuela",Venezolana,751,El Vigia - Caracas,BAe 3101 Jetstream 31,YV-1083C,762,21,3,0
+11/21/04,08:20,"Baotou, Inner Mongolia, China",China Eastern Airlines,752,Baotou - Shanghai,Bambardier CRJ200,B-3072,7697,53,53,0
+11/28/04,09:55,"Montrose, Colorado",Glow Air/Air Castle - Charter,753,"Montrose, CO - South Bend, IN",Canadair CL-601-2A12 Challenger,N873G,3009,6,3,0
+11/30/04,18:14,"Solo, Indonesia",Lion Air,754,"Jakarta, Indonesia - Solo, Indonesia",McDonnell-Douglas MD-82,PK-LMN,49189/1173,154,26,0
+11/30/04,19:56,"Saint Louis, Missouri",Grand Aire,755,Saint Louis - Toledo,HBB HFB-320 Hansa Jet,N604GA,1037,2,2,0
+12/06/2004,10:23,"Bellevue, Idaho",Salmon Air - Air Taxi,756,"Salt Lake City, UT - Sun Valley, ID",Cesna 208 Caravan,N25SA,0208B-0866,2,2,0
+12/07/2004,10:45,"Near La Macarena, Colombia",SAVIARE S.A. - Air Taxi,757,Unknown,Cessna TU206G,HK-2882,Unknown,6,6,0
+12/10/2004,12:00,"El Junquito, Venezuela",Guardia Nacional de Venezuela,758,Puerto Ayacucho - La Carlota,PZL-MieleM28,GN-97121,AJE001-15,16,16,0
+12/11/2004,05:30,"Uberaba, Brazil",NHR Tíçxi-Aí©reo,759,Sao Paulo - Uberaba,Embraer EMB-110 Bandeirante,PT-WAK,110071,2,2,1
+12/11/2004,12:00,"Near Jeddah, Saudi Arabia",Airline Transport,760,Baku - Kabul,Ilyushin II-76TD,ER-IBW,33448390,7,1,0
+01/13/05,05:20,"Manguipayan, Colombia",Military - Colombian government,761,Unknown,Black Hawk helicopter,Unknown,Unknown,20,20,0
+01/13/05,13:20,"Tura,Siberia, Russia",Tura Air Enterprise,762,Vanavara - Tura,Antonov AN-2,RA-62597,1G177-44,9,9,0
+01/13/05,22:18,"Keene, New Hampshire",AirNow,763,"Bangor, ME - Concord, NH",Embraer EMB-110 Bandeirante,N49BA,110301,1,1,0
+01/26/05,01:20,"Rutbah, Iraq",Military - U.S. Marines,764,Ferrying troops,CH53E Sea Stallion,Unknown,Unknown,31,31,0
+01/27/05,08:10,"Lasi, Hungary",Farnair Hungary,765,Bucharest -Lasi,Let 410UVP-E4,HA-LAR,871923,2,2,0
+01/30/05,16:30,"Near Al Taji, Iraq",Military - Royal Air Force,766,Bagdad - Balad,Lockheed Hercules C.1,XV179,4195,10,10,0
+02/03/2005,17:00,"Near Peshawar, Pakistan",Kam Air,767,Herat - Kabul,Boeing B-737-200,EX-037,22075/630,104,104,0
+02/03/2005,08:07,"Near Khartoum, Sudan",Air West,768,Sharjah - Khartoum - Nyala,Ilyushin 76TD,ST-EWB,23438122,7,7,0
+02/10/2005,20:30,"Lebec, California",Action Air Express Inc. - Air Taxi,769,"Fresno, CA - Santa Monica, CA",Cessna P210N,N432AR,P21000098,2,2,0
+02/16/05,09:13,"Near Pueblo, Colorado",Circuit City Stores - Charter,770,"Richmond, VA - Saint Louis, MO  - Pueblo,CO - Irvine, CA",Cessna 560 Citation V,N500AT,560-0146,8,8,0
+02/22/05,13:22,"Bimin, Papua, New Guinea",Missionary Aviation Fellowship,771,Tabubil - Bimin,de Havilland DHC-6 Twin Otter 300,P2-MFQ,174,13,2,0
+02/22/05,07:15,Somewhere,Indonesian National Police,772,Jayapura - Sarmi,CASA 212 Aviocar,Unknown,Unknown,18,15,0
+03/08/2005,09:23,"Chrallave, Venezuela",Air Global,773,Maturin - Charallave,Cessna 500 Citation I,YV-21CP,500-0115,2,2,0
+03/15/05,00:15,"Off Campbeltown, United Kingdom",Loganair,774,Glasgow - Campbeltown,Pilatus-Britten Norman BN-2B-26 Islander,G-BOMG,2205,2,2,0
+03/16/05,13:57,"Varandey, Russia",Regional Airlines,775,Ufa - Usinsk - Perm - Varandey - Naryan Mar,Antonov 24,RA-46489,27308107,52,28,0
+03/23/05,23:07,"Off Mwanza, Tanzania",Air Transport,776,Mwanza - Khartoum - Zagreb,Ilyushin IL-76TD,ER-IBR,43454623,8,8,0
+03/26/05,10:15,"El Embrujo, Providencia Island, Colombia",West Caribbean Airways,777,Old Providence - San Andres,Let-410UVP-E,HK-4146,902426,14,8,0
+03/31/05,20:00,"Near Rovie, Albania",Military - U.S. Air Force,778,Training,Lockheed Hercules MC-130H,87-0127,5118,9,9,0
+04/12/2005,12:10,"Enarotali, Indonesia",GT Air,779,Timika - Enarotali,de Havilland Canada DHC-6 Twin Otter 100,PK-LTZ,23,18,18,0
+04/20/05,22:15,"Tehran, Iran",Saha Airline Services,780,Krish - Teran,Boeing B-707-3J9C,EP-SHE,21127/915,169,3,0
+04/28/05,11:28,"Pisco, Peru",Military - Fuerza Del Peru,781,Training,Let 410UVP,EP-830,790304,13,13,0
+05/02/2005,22:15,"Taranaki, New Zealand",Airwork,782,Auckland - Blenheim,Swearingen SA227AC Metro III,ZK-POA,AC-551B,2,2,0
+05/05/2005,13:30,"Near Kisangani, DemocratiRepubliCongo",Kisangani Airlift,783,Bangboka - Isiro,Antonov AN-26,EK-26060,17311107,11,10,0
+05/07/2005,11:45,"Lockhart River, Queensland, Australia",Aero-Tropics,784,Bamaga - Lockhart River,Swearingen SA-227AC Metro III,VH-TFU,DC-818B,15,15,0
+05/16/05,12:20,"El Portezulo, Argentina",Transportes Aereos Don Carlos - Charter,785,"Balmaceda, Argentina - Chile Chiro, Chile",Beech 65-A80 Queenaire,CC-CFS,LD-220,10,10,0
+05/18/05,13:27,"Mongu, Zambia",Military - Zambia Air Force,786,Lusaka - Livingstone - Mongu - Lusaka,Yunshuji Y-12,AF-216,89,13,13,0
+05/25/05,12:00,"Walungu, Congo",Charter - Maniema Union (owner Victoria Air),787,Goma - Kindu - Kongolo,Antonov AN-12BP,9Q-CVG,4342404,27,27,0
+06/02/2005,11:15,"Khartoom, Sudan",Marsland Aviation,788,Kartoom - El Obeid - El Fasher,Antonov AN-24B,ST-WAL,6991004,42,7,0
+07/16/05,10:00,"Baney, Equatorial Guinea",Ecuatair,789,"Malabala, Bioko Island - Bata",Antonov AN-24B,3C-VQR,79901104,60,60,0
+08/02/2005,16:04,"Toronto, Canada",Air France,790,"Paris, France - Toronto Canada",Airbus A-340,F-GLZQ,289,309,0,0
+08/06/2005,15:40,"Off Palermo, Italy",Tuninter,791,"Bari, Italy - Djerba, Tunisia",ATR-72-202,TS-LBB,258,39,16,0
+08/10/2005,12:43,"Off Talinn, Estonia",Copterline,792,"Talinn, Estonia - Helsinki, Finland",Sikorsky S-76C,OH-HCI,760508,14,14,0
+08/14/05,12:20,"Near Grammatikos, Greece",Helios Airways,793,"Larnaca, Cyprus - Athens, Greece - Prague, Czech Republic",Boeing 737-31S,5B-DBY,29099/2982,121,121,0
+08/16/05,03:30,"Near La Cucharita, Venezuela",West Caribbean Airways,794,"Panama City - Fort de France, Martinique",McDonnell Douglas MD-82,HK-4374X,49484/1315,160,160,0
+08/23/05,15:06,"Near Pucallpa, Peru",TANS Peru,795,Lima - Pucallpa - Iquitos,Boeing B-737-244,OB-1809,22580/87,98,40,0
+09/05/2005,07:30,"Isiro, DemoctratiRepubliCongo",Kavatshi Airlines,796,Beni - Isiro,Antonov 26B,ER-AZT,9005,11,11,0
+09/05/2005,09:40,"Medan, Indonesia",Mandala Airlines,797,Medan - Jakarta,Boeing 737-230,PK-RIM,22136/738,117,99,44
+09/09/2005,15:45,"Near Brazzaville, Congo",Air Kasai,798,Boende - Kinshasa,Antonov AN-26A,9Q-CFD,37312901,14,14,0
+09/15/05,14:55,"Alto da Boa Vista, Brazil",Viaí_ao Cometa,799,Rio de Janeiro - Jacarepagua,Cessna 525 CitationJet I,PT-WLX,525-0176,2,2,0
+09/16/05,09:00,"San Juan de Manapiare, Venezuela",Wayumi Air Taxi,800,San Juan de Manapiare - Puetro Ayacucho,Cessna 207 Skywagon,YV-412C,207-0508,4,4,0
+09/23/05,14:15,"Haena, Hawaii","Heli-USA Airways, In- Air Taxi",801,Sightseeing,Aerospatiale AS-350BA,N355NT,2053,6,4,0
+10/04/2005,12:00,"Aru, DemocratiRepubliCogo",Wimbi Dira Airways,802,Kisangani - Bunia,Antonov 12V,9Q-CWC,2400901,100,2,0
+10/06/2005,05:40,"Winnipeg, Canada",Morningstar Air Express,803,"Winnipeg - Thunder Bay, Ontario",Cessna 208B,C-FEXS,208B-0542,1,1,0
+10/22/05,20:40,"Lisa, Nigeria",Bellview Airlines,804,Lagos - Abuja,Boeing B-737-2L9,5N-BFN,22734/818,117,117,0
+11/19/05,22:30,"Stupino, Russia",Ivolga Avia,805,Voronezh - Moscow-Domodedovo,Cessna 208B Grand Caravan I,4P-OIN,208B-1052,8,8,0
+12/06/2005,14:15,"Tehran, Iran",Military - IslamiRepubliof Iran Air Force,806,Tehran - Bandar Abbas,Lockheed C-130B Hercules,May-12,4386,94,94,14
+12/08/2005,19:15,"Chicago, Illinois",Southwest Airlines,807,"Baltimore, Maryland - Chicago, Illinois - Las Vegas, Nevada",Boeing B-737-7H4,N471WN,32471/1535,103,0,1
+12/10/2005,14:08,"Near Port Harcourt, Nigeria",Sosoliso Airlines,808,Abuja - Port Harcourt,McDonnell DC-9-32,5NBFD,47562/685,109,108,0
+12/19/05,14:40,"Off Miami Beach, Florida",Chalk's Ocean Airways,809,"Miami, Florida - Bimini, Bahamas",Grumman G73T Turbo Mallard,N2969,J-27,20,20,0
+12/23/05,22:27,"Nardaran, Azerbaijan",Azerbaijan Airlines,810,"Baku, Azerbaijan - Aktau, Kazakhstan",Antonov AN-140-100,4K-AZ48,36525307036,23,23,0
+11/17/06,08:07,"Puncak Jaya, Indonesia",Trigana Air Service,811,Mulia - Ilaga,de Havilland Canada DHC-6 Twin Otter 300,PK-YPY,535,12,12,0
+12/28/05,14:05,"Truckee, California",Skyward Aviation,812,Twin Falls - Truckee - Carlsbad - Monterrey,Gates Learjet 35A,N781RS,35-218,2,2,0
+01/02/2006,11:11,Near Karkov,Evolga,813,Moscow - Karkov,British Aerospace BAe-125-700A,P4-AOD,257153,3,3,0
+01/08/2006,13:00,"Bukalaza, Uganda",Service Air,814,Entebbe - Kinshasa,Antonov 12,9Q-CIH,4341803,6,6,0
+01/09/2006,09:30,"Near Orumiyeh, Iran",Military - Iranian Revolutionary Guard Corps Air Force,815,Tehran - Orumiyeh,Dassault Falcon 20,15-2233,318,11,11,0
+01/19/06,19:30,"Near Telkibanya, Hungary",Military - Slovak Air Force,816,Pristina - Kosice,Antonov AN-24V,5605,97305605,43,42,0
+01/21/06,12:00,"Near Port Alberni, British Columbia, Canada",SoniBlue Airways,817,Tofino - Vancouver,Cessna 208B Grand Caravan,C-GRXZ,208B0469,8,3,0
+02/05/2006,16:53,"Near Watertown, Wisconson",Air Cargo Carriers,818,Unknown,Shorts 360-100 /Shorts 360-300,N3735W/N372AC,SH-3735/SH-3720,3,3,0
+02/08/2006,12:12,"Near Paris, Tennessee",TriCoastal Air,819,"Dayton, Ohio -",Swearingen SA.226TC Metro II,N629EK,TC-396,1,1,0
+03/07/2006,16:20,"Labiano, Spain",Aerovalles,820,Madrid - Pamplona,Cessna 421C Golden Eagle III,EC-JAX,421C0337,6,6,0
+03/09/2006,16:30,"Near La Paz, Bolivia",Military - Fuerza Aí©rea Argentina,821,La Paz - Sana Cruz,Learjet 35A,T-21,35-115,6,6,0
+03/18/06,14:48,"Butte, Montana",Ameriflight,822,Helena - Butte,Beechcraft C99,N54RP,U-218,2,2,0
+03/24/06,11:00,"Cuenca, Ecuador",ATESA,823,Cuenca - Macas,Cessna 208B Grand Caravan,HC-BXD,208B-0591,14,5,0
+03/31/06,17:35,"Rio Bonito, Brazil",Team Air,824,Macaí© - Rio de Janeiro,Let L410UVP-E20,PT-FSE,912532,19,19,0
+04/10/2006,10:00,"Marsabit, Kenya",Military - Kenya Air Force,825,Nairobi - Eastleigh AFB,Harbin Yunshuji Y-12-II,132,Unknown,17,14,0
+04/23/06,04:55,"Koussí©ri, Cameroon",Military - Lybian Arab Air Force,826,Sebha - N'Djamena,Antonov 74TK-200,UR-74038,36547097933,6,6,0
+04/23/06,20:50,"Near Tersky, Russia",Yug Avia,827,Unknown,Unknown,RF-30451,Unknown,5,4,0
+04/24/06,11:45,"Lashkar Gah, Afghanistan",U.S. Government (leased),828,Kabul - Kandahar - Lashkar Gah,Antonov AN-32B,ZS-PDV,3003,16,2,3
+04/28/06,06:47,"Peak Margarita, Uganda",King Air Charter,829,"Goma - Bunia, DCR",Cessna 208B Grand Caravan,ZS-ADL,208B-0381,3,3,0
+05/03/2006,02:15,"Off Sochi, Russia",Armavia,830,"Yerevan, Armenia - Sochi, Russia",Airbus A320-211,EK-32009,547,113,113,0
+05/14/06,12:32,"La Ronge, Saskatchewan",Saskatchewan Government Northern Air Operations,831,Training,Convair CV-580,C-GSKJ,202,3,1,0
+05/23/06,18:22,Off Sí£o Tomí© Island,Air Sí£o Tomí©,832,Training,de Havilland Canada DHC-6 Twin Otter 300,S9-BAL,648,4,4,0
+06/02/2006,14:40,"Groton, Connecticut",International Jet Charter,833,"AtlantiCity, NJ - Groton, CT",Learjet 35A,N182K,35A-293,5,2,0
+06/03/2006,16:00,"Yaocun, China",Military - Chinese Air Force,834,Unknown,KJ-2000,Unknown,Unknown,40,40,0
+06/08/2006,13:15,"Mullan, Idaho",Air Taxi - MajestiAlliance,835,"Coeur d'Alene, ID - Missoula, MT",Cessna TU206G,N5136X,U20605582,2,2,0
+06/11/2006,18:30,"Abí©chí©, Chad",Military - Chadian Air Force,836,N'djamena - Abí©chí©,Lockheed C-130 Hercules,TT-PAF,5141,7,5,0
+06/21/06,11:30,"Jumla, Napal",Yeti Airlines,837,Surkhet - Jumla,de Havilland Canada DHC-6 Twin Otter 300,9N-AEQ,708,9,9,0
+06/30/06,19:00,"Vilanculos, Mozambique",Naturelink,838,Polokwane - Vilanculos,Cessna 208B Grand Caravan,ZS-POG,208B-0396,3,1,0
+07/02/2006,11:00,"Hamburg, Germany",Himmelsschreiber,839,Sightseeing,de Havilland DHC-2 Beaver,D-FVIP,1512,6,5,1
+07/07/2006,15:35,"Sake, DemocratiRepubliCongo",Mango Airlines,840,Goma - Kisangani,Antonov AN-12B,9Q-CVT,3341506,5,5,0
+07/09/2006,07:44,"Irkutsk, Russia",Sibir (S7),841,Moscow - Irkutsk,Airbus A-310-324ET,F-OGYP,442,203,128,0
+07/10/2006,12:05,"Multan, Pakistan",Pakistan International Airlines,842,Multan - Lahore,Fokker F-27 Friendship 200,AP-BAL,10243,45,45,0
+08/03/2006,12:00,"Bukavu, DemocratiRepubliCongo",Tracep,843,Lugushwa - Bukavu,Antonov AN-28,9Q-COM,1AJ008-21,17,17,0
+11/18/06,21:00,"Near Leticia, Colombia",Aerosucre Colombia,844,Bogota - Leticia,Boeing 727-23F,HK-3667X,19430/366,5,5,0
+08/04/2006,09:30,"Near Pownal, Vermont",AirNow,845,"Binghamton, NY - Benningham, VT",Embraer 110 Bandeirante,N59BA,110-396,1,1,0
+08/13/06,20:15,"Near Piacenza, Italy",Air Algerie,846,"Algiers, Algeria - Frankfurt, Germany",Lockheed L-100-30 Hercules,7T-VHG,4880,3,3,0
+08/22/06,15:30,"Near Donetsk, Ukraine",Pulkovo Airlines,847,Anapa - St. Petersburg,Tupolev Tu-154M,RA-851857,894,170,170,0
+08/27/06,06:07,"Lexington, Kentucky",Comair,848,"Lexington, KY - Atlanta, GA",Canadair CRJ-200ER,N431CA,7472,50,49,0
+09/01/2006,13:45,"Mahad, Iran",Iran Air Tours,849,Bandar Abbas - Mashad,Tupolev Tu-154M,EP-MCF,88A788,148,29,0
+09/02/2006,16:30,"Near Kandahar, Afghanistan",Military - Royal Air Force,850,Unknown,British Aerospace Nimrod MR-2,XV-230,8005,14,14,0
+09/11/2006,17:30,"Vladikavkaz, Russia",Military - Russian Army,851,Gizel - Khankala,Mi-8 helicopter,Unknown,Unknown,15,12,0
+09/17/06,10:15,"Vandeikya, Nigeria",Military - Nigerian Air Force,852,Abuja - Obudu,Dornier 228,NAF033,8229,18,13,0
+09/29/06,15:59,"Near Sao Felix do Araguaia , Brazil",Gol Airlines / Private,853,Manaus - Brasilia,Boeing B-737-8EH /EMB-135JB,PR-GTD / N600XL,34653/2039 /14500965,161,154,0
+10/10/2006,07:35,"Stord, Norway",AtlantiAirways,854,Stavanger - Stord,BAe 146-200,OY-CRG,2075/75,16,4,0
+10/19/06,07:30,"Tashkent, Russia",Military - Russian Air Force/Uzbekistan Airways,855,Training/Aranchi,Antonov An-2,UK-70152,1G137-26Œæ,15,15,0
+10/29/06,11:30,"Near Abuja, Nigeria",ADC Airlines,856,Lagos - Abuja - Sokoto,Boeing 737-2B7,5N-BFK,22891/998,105,96,0
+11/27/06,07:20,"Tehran, Iran",Military - Iranian Revolutionary Guard Corps Air Force,857,Tehran - Shiraz,Antonov 74T-200,15-2255,470991045/2010,38,38,0
+12/10/2006,02:00,"Cajon Pass, California",Air ambulance - Mercy Air Services,858,Loma Linda - Victorville,Bell 412,N410MA,33125,3,3,0
+12/14/06,18:32,"Near Port Heiden, Alaska",PenAir,859,Port Heiden - King Salmon,Piper PA-32-301 Cherokee,N8361Q,32-8106055,2,2,0
+12/16/06,03:54,"Mbeya, Tanzania",Air Charter - Tanzanian Air Services,860,Mbeya - Dar es Salaam,Cessna 310R,5H-TZAŒæ,310R-1333,6,3,0
+01/01/2007,14:07,"Off Parepare, Indonesia",Adam Air,861,"Surabaya, East Java - Manado, Indonesia",Boeing B-737-4Q8,PK-KKW,24070,102,102,0
+01/05/2007,12:02,"Matabwe, Tanzania",DJB Air Charter,862,Dar es Salaam - Matabwe,Piper PA-31-310,5H-MUX,31-627,10,1,0
+01/09/2007,12:00,"Near Balad Air Base, Iraq",Moldovan Aeriantur-M Air Cargo,863,"Adana, Turkey - Balad Air Base, Iraq",Antonov 26B-100,ER-26068,11308,35,34,0
+01/10/2007,23:15,"Zapotlanejo, Mexico",Ameristar Jet Charter,864,"Laredo, TX - Guadalajara, Mexico",Learjet 24F,N444TW,348,2,2,0
+01/12/2007,11:00,"Van Nuys, California",SunQuest Executive Air Charter,865,Van Nuys - Long Beach,Cessna Citation 525,N77215,525-0149,2,2,0
+01/20/07,12:00,"Near Baghdad, Iraq",Military - US Army,866,Unknown,Sikorsky UH-60L Black Hawk,Unknown,Unknown,12,12,0
+01/25/07,11:15,"Pau, France",Regional Compagnie Aerienne Europeenne,867,Pau - Paris,Fokker 100,F-GMPGŒæ,11362,54,0,1
+02/06/2007,19:20,"East Bay Cay, Turks & Caicos Islands",Air Turks & Caicos,868,North Caicos - Grand Turk,Beechcraft Super King Air B200,VQ-TIU,BL-131,6,1,0
+02/07/2007,04:01,"Belgrade, Montana",Metro Aviation,869,Great Falls - Bozeman,Beechcraft Super King Air B200,N45MF,BB-234,3,3,0
+03/07/2007,07:14,"Yogyakarta, Indonesia",Garuda Indonesia Airlines,870,Jakarta - Yogyakarta,Boeing B-737-497,PK-GZC,25664/2393,140,22,0
+03/08/2007,15:00,"Princeville, Hawaii",Heli-USA Airways,871,Sightseeing,Aerospatiale AS350BA Rotocraft,N354NT,1168,7,4,0
+03/11/2007,23:20,"Hanea, Kauai, Hawaii",Inter-Island,872,Unknown,MDonnell Douglas 369FF Rotocraft,N911VC,0049FF,5,1,0
+03/14/07,12:00,"Fazenda Nossa Senhora de Lourdes, Brazil",Dummy Air,873,Petrolina - Salvador,Rockwell 500S Shrike Commander,PP-SEC,Unknown,4,4,0
+03/17/07,11:40,"Samara, Russia",UTAir Airlines,874,Surgut - Samara,Tupelov 134AK,RA-65021,48390,57,6,0
+03/23/07,17:00,"Mogadishu, Somalia",Transaviaexport Airlines,875,Mogadishu - Djibouti,Ilushin Il-76TD,EW-78849Œæ,1013405192,11,11,0
+04/25/07,14:05,"Near Kopinang, Guyana",Air Services,876,Kato - Kopinang,Pilatus Britten Norman BN-2A-27 Islander,8R-GET,484,5,3,0
+04/27/07,11:34,"Shatoi, Chechnya",Military - Russian,877,Unknown,Mi 8,Unknown,Unknown,18,18,0
+05/05/2007,12:00,"Near Dizangue, Cameroon",Kenya Airways,878,"Abidjan, Ivory Coast - Douala, Cameroon - Nairobi, Kenya",Boeing B-737-8AL,5Y-KYA,35071/2079,114,114,0
+05/06/2007,09:10,"Near El-Thamad, Egypt",Military - French Air Force,879,El-Gora - Santa Katarina,de Havilland Canada DHC-6 Twin Otter,742/CB,742,9,9,0
+05/17/07,11:00,"Walikale Airstrip, Congo",Safe Air Complany,880,Walikale - Goma,Let 410UVP,TN-AHE,851335,3,3,0
+05/24/07,17:45,"Near Pampa Hermosa, Peru",Military - Peruvian Air Force,881,Iquitos - Pucallpa,de Havilland Canada DHC-6 Twin Otter 300,FAP-303,483,20,13,0
+06/03/2007,20:30,"Freetown, Sierra Leone",Paramount Airlilnes,882,Shuttle,Mi-8,Unknown,Unknown,22,21,0
+06/04/2007,16:04,"Near Milwaukee, Wisconson",University of Michigan Health System,883,"Milwaukee, WI - Detroit, MI",Cessna 550 Citation II,N550BP,550-0246,6,6,0
+06/13/07,12:00,"Selenge province, Mongolia",Mongolian Defense Ministry,884,Unknown,Mi-8,Unknown,Unknown,22,15,0
+06/16/07,12:00,"Vungano Hills, Malawi",Nyika Safaris,885,Lilongwe to Rumchi,Cessna 206,Unknown,Unknown,6,6,0
+06/21/07,12:00,"Near Kamina, Congo",Karibu Airways,886,Kamina - Lubumbashi,Let 410UVP,9Q-CEU,841217,25,1,0
+06/25/07,10:40,"Near Sihanoukville, Cambodia",PMT Air,887,Siem Reap - Sihanoukville,Antonov AN-24V,XU-U4A,99901908,22,22,0
+06/28/07,13:40,"M'Banza Congo, Angola",TAAG Angola Airlines,888,Luanda - M'Banza,Boeing 737-2M2,D2-TBP,23220/1084,78,5,0
+07/05/2007,09:30,"Culiacan, Mexico",Jett Paqueteria SA,889,Unknown,North American CT-39A Sabreline,XA-TFL,265-48,3,3,6
+07/05/2007,14:45,"Connemara, Ireland",Charter - Private,890,Inishmaan - Connemara,Cessna 208B Grand Caravan,N208EC,208B-1153,9,2,0
+07/08/2007,13:00,"Muncho Lake, British Columbia, Canada",Liard Air,891,Muncho Lake - Vancouver,de Havilland DHC-6 Twim Otter 100,C-FAWC,108,5,1,0
+07/17/07,18:52,"Sao Paulo, Brazil",TAM (Brazil),892,Porto Alegre - Sao Paulo,Airbus A-320-233,PR-MBK,789,187,187,12
+07/23/07,13:00,"Near Shinile, Ethiopia",Djibouti Airlines,893,Dire Dawa - Djibouti,Antonov AN-26V,EX-030,7306103,9,1,0
+07/24/07,14:05,"Rudyerd Bay, Alaska",Taquan Air Service,894,Sightseeing,de Havilland DHC-2 MK.1 Beaver,N995WA,1100,5,5,0
+07/29/07,04:22,"Moscow, Russia",Atran,895,Sightseeing,Antonov AN-12BP,RA-93912,4341709,9,9,0
+08/05/2007,22:30,"Near Ruidoso, New Mexico",Southwest Medivac,896,Ruidoso - Albuquerque,Beechcraft King Air E-90,N369CD,LW-182,5,5,0
+08/09/2007,12:00,"Off Moorea, French Polynesia",Air Moorea,897,Moorea - Papeete,de Havilland Canada DHC-6 Twin Otter 300,F-OIQ,608,20,20,0
+08/16/07,23:16,"Near Ketchikan, Alaska",SeaWind Aviation,898,Sightseeing,de Havilland Canada DHC-2 Beaver,N345KA,1306,10,6,0
+08/22/07,12:00,"Near Kirkuk, Iraq",Military - U.S. Army,899,Transporting troops,UH-60 Blackhawk helilcopter,Unknown,Unknown,14,14,0
+08/22/07,00:36,"Near Curitiba, Brazil",Two Taxi Aero,900,Curitiba - Jundiai,Embraer EMB-110P1 Bandeirant,PT-SDB,110323,2,2,0
+08/26/07,16:00,"Kongolo, DemocratiRepubliCongo",Great Lakes Business Complany,901,Kongolo - Goma,Antonov AN-32,9Q-CAC,14-Jul,15,14,0
+09/07/2007,12:00,"Goma, DemocratiRepubliCongo",Galaxy Kavatsi Airlines,902,Kisangi - Goma - Bukavu,Antonov AN-12BP,4L-SAS,3341108,8,8,0
+01/12/2008,12:00,"Blace, Macedonia",Military - Macedonian Air Force,903,"Bosnia - Skopje, Macedonia",Mi-17 Helicopter,Unknown,Unknown,11,11,0
+09/16/07,15:35,"Phuket, Thailand",One-Two-Go Airlines,904,Bangkok - Phuket,McDonnell Douglas MD-82,HS-OMG,49183/1129,130,90,0
+09/24/07,12:00,"Malemba Nkulu, DR Congo",Karibu Airways,905,Lubumbashi - Malemba Nkulu,Let 410,9Q-CVL,Unknown,6,1,0
+10/04/2007,10:40,"Kinshasa, DR Congo",Africa One Congo,906,Kinshasa - Tshikapa,Antonov AN-26,9Q-COS,47302001,22,21,30
+10/04/2007,22:20,"Alamosa, Colorado",SceniAir Tours,907,Unknown,Beechcraft King Air C90A,N590GM,LJ-1594,3,3,0
+10/07/2007,20:00,"White Pass, Washington",Kapowsin Air Sports,908,"Star, ID - Shelton, WA",Cessna 208 Caravan,N430A,208B0415,10,10,0
+10/08/2007,15:30,"Near Cubarral, Colombia",Nacional de Aviacion,909,Villavicencio - Uribe,Let 410 UVP-E10A,HK-4055,902521,18,18,0
+11/04/2007,14:10,"Sao Paulo, Brazil",Reali Taxi Aereo,910,Sao Paulo - Rio de Janeiro,Learjet 35A,PT-OVC,35A-339,2,2,6
+11/08/2007,08:00,"Khartoum, Sudan",Juba Air Cargo,911,Khartoum - Juba,Antonov 12,ST-JUA,3341110,4,0,2
+11/30/07,01:36,"Near Isparta, Turkey",Atlasjet Airlines,912,Istanbul - Isparta,McDonnell Douglas MD-83,TC-AKM,53185/2090,57,57,0
+12/03/2007,17:18,"Off Whittier, Alaska","Evergreen Alaska Helicopters, Inc.",913,Cordova - Ancorage,Eurocopter Deutschland BK117C1,N141LG,Unknown,4,4,0
+12/05/2007,06:48,"Columbus, Ohio",Castle Aviation,914,"Columbus, OH - Buffalo, NY",Cessna 208B Caravan I Super Cargomaster,N28MG,208B-0732,2,2,0
+12/09/2007,17:00,"Kiev, Ukraine",Fun Air,915,HradeKríçloví© - Kiev,Beechcraft King Air C90B,D-IBDH,LJ-1307,5,5,0
+01/04/2008,09:48,"Los Roques, Venezuela",Transaven,916,Los Rogues - Carac,Let 410 UVP-E3,YV2081,872051,18,18,0
+01/05/2008,13:43,"Kodiak, Alaska",Servant Air,917,Kodiak - Homer,Piper PA-31-350 Navajo,N509FN,31-7952162,10,6,0
+01/14/08,05:08,"Off Lihu, Hawaii",Apline Aviation,918,Lihu - Kauai,Beechcraft 1900C-1,N410UBŒæ,UC-70,1,1,0
+01/17/08,12:43,"London, England",British Airways,919,"Bejing, China - London, England",Boeing 777-236ER,G-YMMM,30314/342,152,0,0
+01/19/08,08:00,"Near Huambo, Angola",Gira Globo Charter,920,"Luanda, Angola - Huambo, Angola",Beechcraft King Air B200,D2-FFK,BB-1026,13,13,0
+01/23/08,19:00,"Miroslawiec, Poland",Military - Polish Air Force,921,Warsaw - Miroslawiec,CASA C-295M,19,S-043,20,20,0
+01/26/08,09:35,"Near Malinau, Indonesia",Dirgantara Air Service,922,Tarakan - Long Apung,CASA NC-212-200,PK-VSEŒæ,92N/412,3,3,0
+02/21/08,17:00,"Merida, Venezuela",Santa Barbara Airlines,923,Merida - Caracas,ATR-42-300,YV-1449,28,46,46,0
+02/26/08,16:16,"Off Macae , Rio de Janeiro , Brazil",BHS - Brazilian Helicopter Service Air Taxi,924,Oil Rig P18 - Macae,Eurocopter  AS332L2 Super Puma,PP-MUM,2570,20,5,0
+03/03/2008,16:00,"Near Bethani, Nepal",United Nations Mission,925,Unknown,Mi-17,Unknown,Unknown,10,10,0
+03/15/08,08:15,"Nbagu, Nigeria",Trade Wings Aviation Ltd.,926,Lagos - Bebi Air Strip,Beechcraft 1900D,5N-JAH,UE-322,3,3,0
+04/03/2008,11:00,"Lawa, Suriname",Blue Wing Airlines,927,Paramaribo - Lawa,Antonov An-28,PZ-TSO,1AJ007-17,19,19,0
+04/09/2008,23:27,"Bundeena, Australia",Avtex Air Services,928,Sydney - Brisbane,Swearingen SA227AC Metroliner III,VH-OZA,AC-600,1,1,0
+04/11/2008,22:15,"Chrisinau, Moldova",Kata Transportation,929,"Chrisinau, Moldova - Antalya, Turkey - Sudan",Antonov An-32,ST-AZL,3009,8,8,0
+04/15/08,14:30,"Goma, Congo",Hewa Bora Airways,930,Goma - Kisangani - Kinshasa,McDonnell Douglas DC-9-51,9Q-CHN,47731,85,0,47
+04/16/08,14:23,"Off Annobon Island, Equatorial Guinea",Military - Government of Equatorial Guinea,931,Bata - Annobon Island,Antonov An-32B,3C-5GE,1609,13,13,0
+04/28/08,09:38,"Off Crimea, Black Sea",Naftogaz,932,Unknown,Mil Mi-8T,UR-24275,98734295,20,20,0
+05/02/2008,10:10,"Near Rumbek, Sudan",Southern Sudan Air Connection,933,Wau - Rumbek - Juba,Beechcraft 1900C,5Y-FLX,UC-65,24,24,0
+05/17/08,16:30,"Stehekin, Washington",Chelan Air Service,934,Chelan - Stehekin,de Havilland Canada DHC-2 Mark I Beaver,N5998Q,1151,5,2,0
+05/23/08,01:25,"Billings, Montana",Alpine AviationŒæ,935,Billings - Great Falls,Beechcraft 1900C,N195GA,U-65,1,1,0
+05/24/08,09:30,"Two Harbors, Catalina Island, California",Island Express Helicopter Service,936,Long Beach - Two Harbors,Eurocopter AS350D Astar,N67GE,1604,6,4,0
+05/26/08,18:15,"Near Chelyabinsk, Russia",Moskovia Airlines,937,Chelyabinsk - Perm,Antonov An-12,RA-12957,8345508,9,9,0
+05/29/08,14:13,"Panama City, Panama",Military - Servicio Aereo Nacional,938,Tocumen - Colon,Bell UN-1N Huey,SAN-100,Unknown,12,11,0
+05/30/08,09:40,"Tegucigalpa, Honduras",TACA International Airlines,939,"San Salvador, El Salvador - Tegucigalpa, Honduras - Miami",Airbus A-320-233,EI-TAF,1374,136,3,2
+06/07/2008,14:00,"Yeco, Chile",Patagonia Airlines,940,Puerto Montt - La Junta,Cessna 208 Grand Caravan,CC-CTR,208B-1137,10,10,0
+06/08/2008,07:45,"Huntsville, Texas",PHI Air Medical,941,Huntsville-Houston,Bell 407,N416PH,53276,4,4,0
+06/10/2008,20:45,"Khartoum, Sudan",Sudan Airways,942,"Aman, Jordan - Damascus, Syria - Khartoum, Sudan",Airbus A-310-324,ST-ATN,548,214,32,0
+06/18/08,10:03,"Hyannis, Massachusetts",Wiggins Airways,943,Hyannis - Nantucket,de Havilland Canada DHC-6 Twin Otter 100,N656WA,47,1,1,0
+06/20/08,12:00,"Bannang Sata, Thailand",Military - Thai Army,944,Unknown,Bell UH-1N,Unknown,Unknown,10,10,0
+06/26/08,15:03,"Near Salak Mountain, Indonesia",Military - Indonesian Air Force,945,Jakarta - aerial survelliance,CASA NC-212,A-2106,228/N68,18,18,0
+06/27/08,07:05,"Near Malakal, Sudan",Juba Air Cargo,946,Khartoum - Juba,Antonov 12BK,ST-ARN,8346010,8,7,0
+06/29/08,15:48,"Flagstaff, Arizona",Air Methods / ClassiHelicopters,947,Medical flight,Bell 407 / Bell 407,N407GA / N407MJ,53104 / 53079,7,6,0
+06/30/08,07:00,"Near Khartoum, Sudan",Ababeel Aviaition,948,Khartoum - Juba,Ilysushin Il-76TD,ST-WTB,1003499994,4,4,0
+07/06/2008,02:15,"Saltillo, Mexico",USA Jet Airlines,949,"Hamilton, Ont, Can.- Shreveport, LA - Saltillo, Mexico",Douglas DC9-15F,N199US,47153/185,2,1,0
+07/07/2008,03:50,"Near Bogota, Colombia",Centurian Air Cargo,950,"Bogota, Colombia - Miami, FL",Boeing B-747-209BSF,N714CK,22446/519,8,0,3
+07/10/2008,10:30,"Puerto Montt, Chile",Aerocord,951,Puerto Montt - Melinka Island,Beechcraft 99A,CC-CFM,U-145,9,9,0
+07/31/08,09:53,"Owatonna, Minnesota",East Coast Jets,952,"AtlantiCity, NJ- Owatonna,MN",British Aerospace BAe-125-800A,N818MV,258186,8,8,0
+08/03/2008,07:00,"North Vancouver Island, British Colombia, Canada",PacifiCoast Airlines,953,"Port Hardy - Chamiss Bay, Vancouver Island",Grumman G-21A Goose,C-GPCD,B-76,7,5,0
+08/05/2008,19:30,"Near Junction City, California",Junction City Fire Department,954,Ferrying fire fighters,Sikorsky S-61N,N612AZ,61297,13,9,0
+08/06/2008,11:40,"Sunat Tanon, Thailand",Military - Royal Thai Air Force,955,Betong - ,Bell Huey UH-1H,Unknown,Unknown,10,10,0
+08/13/08,07:30,"K-50 Airport, Somalia",Fly 540,956,Kenya - Somalia,Fokker F-27 Friendship 500,5Y-BVF,10627,3,3,0
+08/20/08,14:45,"Madrid, Spain",Spanair,957,"Madrid - Las Palmas, Canary Islands",McDonnell Douglas MD-82,EC-HFPŒæ,53148/2072,172,154,0
+08/24/08,09:40,"Near Cabaí±as, Guatemala",Aí©reo Ruta Maya,958,Guatemala City - El Estor,Cessna 208B Grand Caravan,TG-JCSŒæ,208-00327,14,11,0
+08/24/08,20:30,"Bishkek, Kyrgyzstan",Itek Air,959,"Bishkek - Tehran, Iran",Boeing B-737-219,EX-009,22088,90,68,0
+08/30/08,21:50,"Near Toacaso, Ecuador",Conviasa,960,Caracas - Latacunga,Boeing B-737-291,YV-102T,21545/525,3,3,0
+09/01/2008,16:00,"Near Bukavu, Congo",Air Serv Internatiional/CemAir,961,Kisangani - Bukavu - Goma,Beechcraft 1900C-1,ZS-OLD,UC-137,17,17,0
+09/01/2008,12:10,"Columbus, Ohio",Air Tahoma,962,Colombus - Mansfield,Convair CV-580,N587X,361,3,3,0
+09/03/2008,20:20,"Off Dubai, United Arab Emirates",Aerogulf,963,Unknown,Bell 212,A6-AVL,Unknown,7,7,0
+09/14/08,03:15,"Perm, Russia",Aeroflot,964,Moscow - Perm,Boeing B-737-505,VP-BKO,25792/2353,88,88,0
+09/19/08,23:53,"Columbia, South Carolina",Global Executive Aviation,965,"Colombia, SC - Los Angeles, CA",Learjet 60,N999LJ,314,6,4,0
+09/27/08,03:57,"Camp Springs, Maryland",Maryland State Police,966,Medical evacuation flight,Aerospatiale SA365N-1 Dauphin II,N92MD,6311,5,4,0
+10/08/2008,07:31,"Lukla, Nepal",Yeti Airlines,967,Katmandu - Lukla,de Havilland Canada DHC-6 Twin Otter 300,9N-AFEŒæ,720,19,18,0
+10/15/08,23:58,"Aurora, Illinois",Air Angles Inc.,968,Sandwich - Chicago,Bell 222,N992AA,47062,4,4,0
+11/04/2008,18:40,"Mexico City, Mexico",Mexican Government,969,San Luis Potosi - Mexico City,Learjet 45,XC-VMC,45-028,8,8,8
+11/08/2008,11:00,"Between Kibo & Mawenzi Peaks of Mt. Kilimanjaroi, Tanzania",East African Air Charters,970,Kampi ya Kanzi Airstrip - Loitokitok,Cessna 206,5Y-AOO,206-01710,5,4,0
+11/13/08,11:35,"Fallujah, Iraq",Falcon Aviation Group,971,al-Asad air base - Baghdad,Antonov An-12,S9-SAO,346908,7,7,0
+11/16/08,10:32,"Thormanby Island, British Columbia, Canada",PacifiCoastal Airlines,972,Vancouver - Powell River - Toba Inlet,Grumman G-21A Goose,C-FPCK,1187,8,7,0
+11/27/08,17:00,"Off Perpignan, France",XL Airways leased from Air New Zealand,973,Training,Airbus A320-232,D-AXLA,2500,7,7,0
+12/03/2008,12:13,"San Juan, Puerto Rico",Webstas Aviation Services Inc.,974,"Tortola Virgin Islands - San Juan, PR",Rockwell International 690B,N318WAŒæ,11444,3,3,0
+12/11/2008,06:25,"Off Sabine Pass, Texas",Rotorcraft Leasing Co,975,Sabine Pass - Oil Platform,Bell 206-L4 Jet Ranger III,N180AL,52104,3,3,0
+12/15/08,16:40,Off Turks and Caicos Islands,Alantis Aviation,976,"Santiago, Dominican Republi- Providenciales",Britten Norman BN-2A Trislander Mk3,N650LP,1029,12,12,0
+01/04/2009,15:30,Near Houma Louisiana,Petroleum Helicopters Inc,977,Bayou Penchant - Off shore oil fields,Sikorsky S-76C,N748P,760629,9,8,0
+01/15/09,15:06,"New York, New York",US Airways,978,"New York, NY- Charlotte, NC",Airbus A320-214,N106US,1044,155,0,0
+02/07/2009,14:00,"Manacapuru, Brazil",Aerotaxi Manaus,979,Coari - Manus,Bandeirante EMB-110P1,PT-SEA,110352,28,24,0
+02/07/2009,06:30,"Trigoria, Italy",Air One Executive,980,Rome - Bologna,Cessna 650 Citation III,I-FEEV,650-0105,2,2,0
+02/12/2009,22:17,"Clarence Center, New York",Continental Connection/Colgan Air,981,"Newark, N.J. - Buffalo, NY",Bombardier DHC-8-402 Q400,N200WQ,4200,49,49,1
+02/15/09,16:05,"Chanco, Chile",Flight Service,982,Unknown,Bell UH-1H,Unknown,Unknown,13,13,0
+02/20/09,04:10,"Luxor, Egypt",Aerolift,983,"Entebbe, Uganda - Luxor, Egypt - Niklaev, Ukraine",Antonov 12V,S9-SVN,6344310,5,5,0
+02/25/09,10:31,"Amsterdam, Netherlands",Turkish Airlines,984,"Istanbul, Turkey - Amsterdam, Netherlands",Boeing 737-8F2,TC-JGE,29789/1065,134,9,0
+03/09/2009,05:40,"Lake Victoria, Uganda",Aerolift,985,"Entebbe, Uganda - Mogadishu, Somalia",Ilyushin Il-76T,S9-SAB,73410301,11,11,0
+03/12/2009,09:48,"Off St. Johns, Newfoundland",Cougar Helicopters,986,St. Johns - Hibernia platform,Sikorsky S-92A,C-GZCH,920048,18,17,0
+03/22/09,14:28,"Butte, Montana",Eagle Cap Leasing,987,"Oroville, CA - Butte, MT",Pilatus PC-12/45,N128CM,403,14,14,0
+03/23/09,06:48,"Tokyo, Japan",FedEx,988,"Guangzhou, China - Tokyo, Japan",McDonnell Douglas MD-11,N526FE,48600/560,2,2,0
+04/01/2009,14:00,"Off Crimond, Scotland",Bond Offshore Helicopters,989,Miller field - Aberdeen,Eurocopter AS 332L2 Super Puma 2,Unknown,Unknown,16,16,0
+04/06/2009,12:30,"Bandung, Indonesia",Military - Indonesian Air Force,990,Militiary training,Fokker F-27 Friendship 400M,A-2703,10538,24,24,0
+04/09/2009,07:00,"Near Wamena, Indonesia",Aviastar Mandiri,991,Jayapura - Wamena,British Aerospace BAe-146-300,PK-BRD,E3189,6,6,0
+04/17/09,10:30,"Mount Gergaji, Indonesia",Mimika Air,992,Ilaga - Mulia,Pilatus PC-6,PK-LTJ,959,11,11,0
+04/17/09,15:32,"Canaima National Park, Venezuela",Aerotuy airline,993,Canaima - Porlamar,Cessna 208B Grand Caravan,YV-1181,208B-0695,11,1,0
+04/29/09,06:00,"Massamba, DemocratiRepubliof Congo",Bako Air,994,"Bangui, CAR- Brazzaville, Congo - Harare, Zimbabwe",Boeing B-737-200,TL-ADMŒæ,22264/753,7,7,0
+05/03/2009,12:00,"Near El Alto de Rubio, Venezuela",Military - Venezuelan Army,995,Patrol,Mi-35,EV08114Œæ,Unknown,18,18,0
+05/20/09,06:30,"Near Madiun, Indonesia",Military - Indonesian Air Force,996,Jakarta - Maduin,Lockheed C-130 Hercules,A-1325,1982,112,98,2
+05/26/09,12:00,"Near Isiro, DemocratiRepubliCongo",Service Air,997,Goma - Isiro,Antonov An-26,9Q-CSA,5005,4,4,
+06/01/2009,00:15,"AtlantiOcean, 570 miles northeast of Natal, Brazil",Air France,998,Rio de Janeiro - Paris,Airbus A330-203,F-GZCP,660,228,228,0
+06/07/2009,08:30,"Near Port Hope Simpson, Newfoundland, Canada",Strait Air,999,Lourdes de BlanSablon - Port Hope Simpson,Britten-Norman BN-2A-27 Islander,C-FJJRŒæ,424,1,1,0
+06/08/2009,12:00,"State of Arunachal Pradesh, India",Military - Indian Air Force,1000,Mechuka for Jorhat,Antonov An-32,Unknown,Unknown,13,13,0

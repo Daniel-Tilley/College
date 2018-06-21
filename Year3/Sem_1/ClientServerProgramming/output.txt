@@ -1,0 +1,12 @@
+//Daniel Tilley
+//C14337041
+
+Reading: 10
+Written: Units: 10 , Cost: 13.00
+
+Reading: 20
+Written: Units: 20 , Cost: 26.00
+
+Reading: 1234
+Written: Units: 1234 , Cost: 1604.20
+

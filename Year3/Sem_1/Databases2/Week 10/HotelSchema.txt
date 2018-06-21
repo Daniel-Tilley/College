@@ -1,0 +1,18 @@
+{
+   _id: EVENT_ID
+   title: 'TITLE_OF_EVENT', 
+   description: 'EVENT_DESCRIPTION',
+   cost: COST_PER_PERSON,
+   participants: [	
+      {
+         name:'COMMENT_BY',
+         email: 'PARTICIPANT_EMAIL',
+		 extras: [extra1, extra2, extra3]
+      },
+      {
+         name:'COMMENT_BY',
+         email: 'PARTICIPANT_EMAIL',
+		 extras: [extra1, extra2, extra3]
+      }
+   ]
+}
