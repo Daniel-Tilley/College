@@ -1,0 +1,23 @@
+Question: What does it mean for a data structure to be described as a functor? Give a code example in Javascript in your explanation.
+
+Answer: A functor is a data object that can hold elements of any data type which implements the map operation (a function).
+The functor's map() function takes, as an argument, another function and calls that function for each element of the functor,
+resulting in a new functor.
+
+e.g
+
+['123','456','789']
+  .map(s => parseInt(s))
+  .map(n => n / 10)
+
+will output:
+
+[12.3, 45.6, 78.9]
+
+
+Question: Describe how the flexbox model works in CSS.
+
+Answer: The flex box model is a layout mode in CSS 3. By using the flexbox model, a developer can ensure that elements behave in
+a predictable manner when the size of a screen varies from one device to another. This is achieved by creating a container
+and placing all other elements within in, Each element within the container is assigned a set of rules for its width, height
+and order and the browser works to scale the items accordingly.

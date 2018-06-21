@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<Order>
+  <Person>John Smith</Person>
+  <ShipTo>
+    <Name>Ola Nordmann</Name>
+    <Address>Langgt 23</Address>
+    <City>4000 Stranger</City>
+    <Country>Norway</Country>
+  </ShipTo>
+  <Item>
+    <Name>Item 1</Name>
+    <Title>Empire Berlesque</Title>
+    <ID>001</ID>
+	<Note>Special Edition</Note>
+    <Quantity>1</Quantity>
+    <Price>10.90</Price>
+  </Item>
+  <Item>
+    <Name>Item 2</Name>
+    <Title>Hide Your Heart</Title>
+    <ID>002</ID>
+    <Quantity>2</Quantity>
+    <Price>9.90</Price>
+  </Item>
+</Order>

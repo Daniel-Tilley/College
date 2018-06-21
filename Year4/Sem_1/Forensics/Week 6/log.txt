@@ -1,0 +1,28 @@
+
+DOC SCRUBBER v1.2 
+Analysis Performed at 11:24:10 on 19/10/2017
+File Analyzed: C:\Users\Daniel\Google Drive\Year 4\Semester 1\Forensics\Week 6\MasterDoc.doc
+
+
+Title: Not A Virus
+Author: CiaranLaptop
+Company: CiaranCorp
+Keywords: Scrubbing, Forensics, Tags; Virus
+Subject: Forensics Lab
+Comments: Here's a Comment I left, I wonder will it get scrubbed, des added to it... here. This is deffo not a virus!!!!!
+Template Used: Normal
+Application: Microsoft Office Word
+Created: 18/10/2017 09:58:00
+Last Saved: 19/10/2017 11:23:00
+Last Edited By: Daniel
+Last Printed: 
+Page Count: 2
+Word Count: 47
+Character Count: 270
+Revision Count: 6
+Total Editing Time (minutes): 4
+
+Unique Identifier (GUID): Not Found.
+Recent Hyperlinks List: Not Found.
+
+Revision Log: None Found.

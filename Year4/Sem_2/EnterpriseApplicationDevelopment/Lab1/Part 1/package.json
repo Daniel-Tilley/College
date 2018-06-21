@@ -1,0 +1,19 @@
+{
+  "name": "lab1_part1",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "express": "^4.16.2",
+    "massive": "^4.6.4",
+    "nodemon": "^1.14.12",
+    "pg-hstore": "^2.3.2"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}

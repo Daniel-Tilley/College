@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+
+<order orderid="889923" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="order.xsd">
+
+  <date>2018-02-15</date>
+  <currency>Euro</currency>
+  <payment_information>30 days</payment_information>
+  <shipto>
+    <name>John Smith</name>
+    <address>23 Zander Street</address>
+    <city>St. Davids</city>
+    <country>Wales</country>
+  </shipto>
+  <billto>
+    <name>Jane Doe</name>
+    <address>56 Wellman Street</address>
+    <city>Dublin 2</city>
+    <country>Ireland</country>
+  </billto>
+  <item>
+    <name>USB 3.0 Key 64GB</name>
+    <product_id>001</product_id>
+    <note>Alienware Edition</note>
+    <quantity>1</quantity>
+    <price>19.99</price>
+  </item>
+  <item>
+    <name>HDMI Cable</name>
+    <product_id>002</product_id>
+    <quantity>2</quantity>
+    <price>9.90</price>
+  </item>
+</order>

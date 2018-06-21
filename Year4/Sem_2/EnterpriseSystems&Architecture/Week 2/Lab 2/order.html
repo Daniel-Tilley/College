@@ -1,0 +1,75 @@
+<!DOCTYPE html>
+<html>
+<script type = 'text/javascript'>
+
+//Load XML File
+var doc = new ActiveXObject("Microsoft.XMLDOM");
+doc.async = false;
+doc.load("order.xml");
+
+var error = doc.parseError;
+if (error !== ""){
+  console.log(error.reason);
+}
+
+//Write HTML Output
+document.write("<b>XML Root Tag Name: " + doc.documentElement.tagName + "<br/><br/></b>");
+
+var rootChildren = doc.documentElement.childNodes;
+var orderTotal = 0.00;
+var html = "<div>";
+
+//Loop through Child Nodes
+for (i = 0; i < rootChildren.length; i ++){
+	var quantity = 0;
+	var price = 0;
+	
+	var curNode = rootChildren[i];
+	var	curNodeChildren = curNode.childNodes;
+	
+	if (curNodeChildren.length == 1){
+		html += "<p>" + curNode.tagName;
+	}
+	else{
+		html += "<p>" + curNode.tagName + ":</p><ul>";
+	}
+	
+	// Loop through text / further child nodes
+	for (j = 0; j < curNodeChildren.length; j ++){
+		if (CheckIfTextNode(curNodeChildren[j])){
+			html += ": <i><b>" + curNodeChildren[j].nodeValue + "</b></i></p>";
+		}
+		else{
+			html += "<li>" + curNodeChildren[j].tagName + ": <i><b>" + curNodeChildren[j].firstChild.nodeValue + "</b></i></li>";
+			
+			if (curNodeChildren[j].tagName == "Quantity"){
+				quantity = curNodeChildren[j].firstChild.nodeValue;
+			}
+			
+			if (curNodeChildren[j].tagName == "Price"){
+				price = curNodeChildren[j].firstChild.nodeValue;
+			}
+			
+			if (j == curNodeChildren.length - 1){
+				html += "</ul>";
+			}
+		}
+	}
+	
+	orderTotal += quantity * price;
+}
+
+function CheckIfTextNode(node){
+	if (node.nodeType == 3){
+		return true;
+	}
+	else{
+		return false;
+	}
+}
+
+html += "</div>";
+document.write(html);
+document.write("<br/><br/><i><b>Order Total: " + orderTotal.toFixed(2) + "</b></i>");
+</script>
+</html>

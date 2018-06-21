@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width">
+  <title>Index</title>
+  <link rel="stylesheet" type="text/css" href="index.css">
+  <script src = "App.js"></script>
+</head>
+<body>
+  <div id = "appContainer">
+    <header>
+      <input  id = "usernameSearchInput" type = "text" placeholder="Username"></input>
+      <button id = "usernameSearchButton">Search</button>
+    </header>
+
+    <div class = "columnsContainer">
+      <section>
+        <h4>User Profile</h4>
+        <div id = "nonScrollable">
+          <img id = "profileImage"    alt = "No Profile Logo" src = ""></img>
+          <p id = "profileName"       class = "flexUserRowItem">Name:</p>
+          <p id = "profileUsername"   class = "flexUserRowItem">Username:</p>
+          <p id = "profileEmail"      class = "flexUserRowItem">Email:</p>
+          <p id = "profileLocation"   class = "flexUserRowItem">Location:</p>
+          <p id = "profileGistsCount" class = "flexUserRowItem">Number of Gists:</p>
+        </div>
+      </section>
+
+      <section>
+        <h4>User Repos</h4>
+        <div id = "scrollable">
+        </div>
+      </section>
+    </div>
+</div>
+  <script>
+    app.run();
+  </script>
+</body>
+</html>

@@ -1,0 +1,134 @@
+# Question 2
+
+{
+  query{
+    allCustomers(first: 5){
+      nodes{
+        customerid
+      	fullName
+      	email
+      	phone
+      	username
+      	password
+      	address1
+      	address2
+      	city
+      	state
+      	zip
+      	country
+      	region
+      	creditcardtype
+      	creditcard
+      	creditcardexpiration
+      	age
+      	income
+      	gender
+      }
+    }
+  }
+}
+
+# Question 3
+
+{
+  query {
+    allCustomers(first: 20) {
+      nodes {
+        customerid
+        fullName
+        username
+        gender
+        ordersByCustomerid {
+          nodes {
+            orderdate
+            totalamount
+            orderlinesByOrderid {
+              nodes {
+                quantity
+                productByProdId {
+                  title
+                }
+              }
+            }
+          }
+        }
+      }
+    }
+  }
+}
+
+# Question 4
+
+mutation {
+  createOrder(input: {
+    clientMutationId: "test1"
+    order: {
+      orderid: 20001
+      orderdate: "2018-10-03"
+      customerid: 1
+      netamount: "10.99"
+      tax: "3.50"
+      totalamount: "13.49"
+    }
+  }) {
+    clientMutationId: clientMutationId
+  }
+
+  createOrderline(input:{
+    clientMutationId: "test2"
+    orderline:{
+      orderlineid: 20001
+      orderid: 20001
+      prodId: 10000
+      quantity:1
+      orderdate: "2018-10-03"
+    }
+  }) {
+    clientMutationId: clientMutationId
+  }
+
+  createCustHist(input: {
+    clientMutationId: "test3"
+    custHist: {
+      customerid: 20000
+      orderid: 20001
+      prodId: 10000
+    }
+  }) {
+    clientMutationId: clientMutationId
+  }
+}
+
+# Question 5
+
+# Graphiql
+
+query{
+    customers(first: 5){
+      customerid
+      fullName
+      email
+      phone
+      username
+      password
+      address1
+      address2
+      city
+      state
+      zip
+      country
+      region
+      creditcardtype
+      creditcard
+      creditcardexpiration
+      age
+      income
+      gender
+     }
+  }
+
+# Postman
+
+{
+	"query" : "{customers(first: 5) {customerid fullName email phone username}}"
+}

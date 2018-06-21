@@ -1,0 +1,104 @@
+<?xml version="1.0"?>
+<xs:schema	xmlns:xs="http://www.w3.org/2001/XMLSchema" 
+			targetNamespace="http://www.dit.ie"
+			xmlns="http://www.dit.ie"
+			elementFormDefault="qualified">
+			
+	<xs:element name="invoice_document">
+		<xs:complexType>
+			<xs:sequence>
+				<xs:element name="order_info">			<!-- Specific Order Information -->
+					<xs:complexType>
+						<xs:sequence>
+							<xs:element name="order_id" type="xs:string"/>
+							<xs:element name="order_date" type="xs:date"/>
+							<xs:element name="currency" type="xs:string"/>
+						</xs:sequence>
+					</xs:complexType>						
+				</xs:element>
+				
+				<!-- These are the various stakeholders involved -->
+				<xs:element name="parties">
+					<xs:complexType>
+						<xs:sequence>				
+							<xs:element name="bill_to">
+								<xs:complexType>
+									<xs:sequence>
+										<xs:element name="name" type="xs:string"/>
+										<xs:element name="address">
+											<xs:complexType>
+												<xs:sequence>
+													<xs:element name="address_line_1" type="xs:string"/>
+													<xs:element name="city" type="xs:string"/>
+													<xs:element name="country" type="xs:string"/>
+												</xs:sequence>
+											</xs:complexType>
+										</xs:element>
+									</xs:sequence>
+								</xs:complexType>
+							</xs:element>				
+						</xs:sequence>
+					</xs:complexType>
+				</xs:element>
+				
+				<!-- Invoice / Order Items -->
+				<xs:element name="items">
+					<xs:complexType>
+						<xs:sequence>				
+							<xs:element name="item" maxOccurs="unbounded" minOccurs="1">
+								<xs:complexType>
+									<xs:sequence>
+										<xs:element name="product_id" type="xs:string"/>
+										<xs:element name="product_name" type="xs:string"/>
+										<xs:element name="price" type="xs:decimal"/>
+										<xs:element name="quantity" type="xs:positiveInteger"/>
+										<xs:element name="note" type="xs:string" minOccurs="0"/>
+									</xs:sequence>
+								</xs:complexType>
+							</xs:element>							
+						</xs:sequence>
+					</xs:complexType>	
+				</xs:element>
+				
+				<xs:element name="payment_info" type="xs:string"/>
+				
+				<!-- The total of the quantities for all items -->
+				<xs:element name="quantity_total">
+					<xs:simpleType>
+						<xs:restriction base="xs:decimal">
+							<xs:minExclusive value="0"/>
+						</xs:restriction>
+					</xs:simpleType>
+				</xs:element>
+
+				<!-- The total value of the invoice (total price * quantity for all items) -->
+				<xs:element name="invoice_total">
+					<xs:simpleType>
+						<xs:restriction base="xs:decimal">
+							<xs:minExclusive value="0"/>
+						</xs:restriction>
+					</xs:simpleType>
+				</xs:element>				
+				
+			</xs:sequence>
+		</xs:complexType>							
+	</xs:element>
+</xs:schema>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

@@ -1,0 +1,20 @@
+
+-- CREATE MODELS --
+node_modules/.bin/sequelize model:generate --name users --attributes email:string,password:string,details:string --underscored
+node_modules/.bin/sequelize model:generate --name products --attributes title:string,price:float,tags:array:string --underscored
+node_modules/.bin/sequelize model:generate --name purchases --attributes name:string,address:string,state:string,zipcode:integer --underscored
+node_modules/.bin/sequelize model:generate --name purchase_items --attributes price:float,quantity:integer,state:string --underscored
+
+
+-- RUN MIGRATION --
+node_modules/.bin/sequelize db:migrate
+
+
+-- CREATE SEEDS --
+node_modules/.bin/sequelize seed:generate --name demo-user
+node_modules/.bin/sequelize seed:generate --name demo-product
+node_modules/.bin/sequelize seed:generate --name demo-purchase
+node_modules/.bin/sequelize seed:generate --name demo-purchase-items
+
+-- RUN SEEDS --
+node_modules/.bin/sequelize db:seed:all

@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<invoice_document xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="invoice.xsd">
+	<order_info>
+		<order_id>889923</order_id>
+		<currency>Euro</currency>
+	</order_info>
+	
+	<parties>
+		<bill_to>
+			<name>Jane Doe</name>
+			<address>
+				<address_line1>56 Wellman Street</address_line1>
+				<city>Dublin 2</city>
+				<country>Ireland</country>
+			</address>
+		</bill_to>
+	</parties>
+	
+	<items>
+		<item>
+			<product_id>001</product_id>
+			<product_name>USB 3.0 Key 64GB</product_name>
+			<price>19.99</price>
+			<quantity>1</quantity>
+			<note>Alienware Edition</note>
+		</item>
+		
+		<item>
+			<product_id>002</product_id>
+			<product_name>HDMI Cable</product_name>
+			<price>9.90</price>
+			<quantity>2</quantity>
+			<note/>
+		</item>
+	</items>
+	
+	<payment_info>30 days</payment_info>
+	<quantity_total>30 days<quantity_total/>
+	<invoice_total>30 days<invoice_total/>
+</invoice_document>

@@ -1,0 +1,23 @@
+{
+  "development": {
+    "username": "daniel",
+    "password": "Daniel1996",
+    "database": "dellstore2",
+    "host": "127.0.0.1",
+    "dialect": "postgres"
+  },
+  "test": {
+    "username": "daniel",
+    "password": "Daniel1996",
+    "database": "dellstore2",
+    "host": "127.0.0.1",
+    "dialect": "postgres"
+  },
+  "production": {
+    "username": "daniel",
+    "password": "Daniel1996",
+    "database": "dellstore2",
+    "host": "127.0.0.1",
+    "dialect": "postgres"
+  }
+}

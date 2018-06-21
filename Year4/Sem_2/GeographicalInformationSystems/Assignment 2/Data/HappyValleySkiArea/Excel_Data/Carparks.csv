@@ -1,0 +1,8 @@
+﻿Carpark #,Name,Capacity,Charge
+1,North,500,$4/day
+2,Loop,1000,Free
+3,Powder Bowl Junction,400,Free
+4,Powder Bowl Lift,650,Free
+5,South,450,$3.50/day
+6,Central,50,Free
+7,Village,140,$3.50/day
