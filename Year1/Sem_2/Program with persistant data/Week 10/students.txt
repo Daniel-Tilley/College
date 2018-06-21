@@ -1,0 +1,64 @@
+Name: Ahmad  Alsaqri
+Address: 21 Pickwick St,Sutton cum Duckmanton
+
+Student Number: 1
+Tutor Group: 1
+
+Name:  Kandis 
+Address: Alsbury
+Student Number: 2
+Tutor Group: 2
+
+Name: 70 Rose Vale,Re ydon
+Address: 
+Student Number: 3
+Tutor Group: 3
+
+Name: Luther  Alsman
+Address: 227 Albert Terrace,Belvedere Ward
+
+Student Number: 4
+Tutor Group: 4
+
+Name:  Janella 
+Address: Altobell
+Student Number: 5
+Tutor Group: 5
+
+Name: 3768 Hey Green  Rd,Hartshill
+Address: 
+Student Number: 6
+Tutor Group: 6
+
+Name: France  Andrade
+Address: 8 Moor Place,East Southbourne and Tuckton W
+
+Student Number: 7
+Tutor Group: 7
+
+Name:  Alyssa 
+Address: Ansbro
+Student Number: 8
+Tutor Group: 8
+
+Name: 85 Hero St,Stan hope
+Address: 
+Student Number: 9
+Tutor Group: 9
+
+Name: Narcisa  Araiza
+Address: 8783 High St,Milton
+
+Student Number: 10
+Tutor Group: 10
+
+Name:  Remedios 
+Address: Arlinghaus
+Student Number: 11
+Tutor Group: 11
+
+Name: 9 Duckenfield S t,Aldbrough
+Address: 
+Student Number: 12
+Tutor Group: 12
+

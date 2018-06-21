@@ -1,0 +1,12 @@
+#box{
+	width:500px;
+	height:400px;
+	margin:50px auto;
+	position:absolute;
+	background-color:black;
+	box-shadow: 10px 10px 5px #F77D2C;
+	right: 385px;
+    top: 245px;
+	-webkit-transform: skew(2deg,2deg);
+	z-index:-1;
+}

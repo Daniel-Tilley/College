@@ -1,0 +1,41 @@
+Num1 DCD 0x7fffffff 	int num1=0x7fffffff 
+Num2 DCD 2		int num2=2
+Reset_Handler
+	LDR R1,=Num1 	r1=&num1
+	LDR R2,=Num2
+	LDR R0,[R1]	r0=*r1
+	LDR R1,[R2]
+	ADDS R0,R0,R1	r0=r0+r1
+	LDR R1,=Result	r1=*result
+	STR R0,[R1]	*r1(result)=*r0
+stopB stop		return
+end
+
+
+X DCD 0			int x =0
+Y DCD 0
+:
+Y=0; 	LDR R0,=0	r0=0
+	LDR R1,=Y	r1=&y
+	STR R0,[R1]	*r1(y)=r0
+;;for (X=0;X<10;X++)
+(X=0)
+	LDR R0,=0
+	LDR R1,=X
+	STR R0,[R1]
+;Y=Y+X
+Loop_Start:
+	LDR R1,=Y	r1=&y
+	LDR R2,[R1]	R2=*r1
+	ADDS R2,R2,R0	r2=r2+r0
+	STR R2,[R1]	*r1=r0
+; (X++)
+	LDR R1,=X	r1=&x
+	LDR R0,[R1]	r0=*r1
+	ADDS R0,R0,#1	r0=r0+1
+	STR R0,[R1]	*r1=r0
+; (X<10)
+	LDR R1,=X	r1=&x
+	LDR R0,[R1]	r0=*r1
+	CMP R0,#10	if(*r0(x)<10)
+	BLT Loop_Start	branch if less than

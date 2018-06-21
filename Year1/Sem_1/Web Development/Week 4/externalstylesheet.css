@@ -1,0 +1,26 @@
+body {
+    background-color: lightblue;
+}
+
+h1 {
+    color: Red;
+    margin-left: 10px;
+}
+
+h2 {
+    color: Green;
+    margin-left: 15px;
+}
+
+h3 {
+    color: Blue;
+    margin-left: 20px;
+}
+
+div {
+	position: absolute;
+    left: 0px;
+    top: 0px;
+    z-index: -1;
+}
+

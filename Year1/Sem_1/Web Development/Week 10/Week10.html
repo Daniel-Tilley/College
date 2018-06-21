@@ -1,0 +1,119 @@
+<!DOCTYPE html>
+<html>
+
+	<head>
+		<script>
+			function getFormName() 
+			{
+				alert(document.forms[0].name);
+			}
+	
+			function getFormMethod() 
+			{
+				alert(document.forms[0].method);
+			}
+	
+			function getFormLength() 
+			{
+				alert(document.forms[0].length);
+			}
+	
+			function getTextValue() 
+			{
+				alert(document.forms[0].textBox1.value);
+			}
+	
+			function alertonFocus() 
+			{
+				alert("alert");
+			}
+	
+			function alertonBlur() 
+			{
+				alert("alert");
+			}
+	
+			function alertCheckBox() 
+			{
+				if (document.forms[0].checkbox1.checked == true)
+				{
+					alert("Checked");
+				}
+				else
+				{
+					alert("Not checked");
+				}
+			}
+	
+			function sayHello() 
+			{
+				document.forms[0].button2.focus();
+			}
+	
+			function getSelectedIndex() 
+			{
+				alert(document.forms[0].selectBox1.selectedIndex);
+			}
+		</script>
+	</head>
+
+	<body>
+	
+		<form name="My form" method="POST">
+			<p>
+			Display the name of the example form:
+			<input type="button" onclick="getFormName()" value="Get form name" />
+			</p>
+			
+			<p>
+			Display the method of the example form:
+			<input type="button" onclick="getFormMethod()" value="Get form method" />
+			</p>
+			
+			<p>
+			Display the number of elements in the form:
+			<input type="button" onclick="getFormLength()" value="Get form length" />
+			</p>
+		
+			<p>
+			<input type=text name="textBox1">
+			<input type="button" onclick="getTextValue()" value="Get Text-box value" />
+			type something into the text-box, then click here to see this code in operation
+			</p>
+			
+			<p>
+			Event signal generated when a user clicks in a text-box or area. For example, here is a simple text-box:
+			<input type=text name="textBox2" onfocus="alertonFocus()"> 
+			</p>
+			
+			<p>
+			Event signal generated when a user clicks outside a text-box or text-area having previously clicked inside it. For example, here is a text-box:
+			<input type=text name="textBox3" onblur="alertonBlur()">
+			</p>
+			
+			<p>
+			We can determine whether it has been selected or net using the followaing code:
+			<input type="checkbox" name="checkbox1" />
+			Try clicking on the check-box to select and un-select it, then click here:
+			<input type="button" onclick="alertCheckBox()" value="Show check-box status" />
+			</p>
+			
+			<p>
+			Give the button focus:
+			<input type=button name="button2" value="Hello" onClick="sayHello()">
+			</p>
+			
+			<p>
+			Returns an integer indicating which of a group of options has been selected by the user:
+			<select name="selectBox1">
+			<Option>Something or other</option>
+			<Option>Something else</option>
+			<Option>Something completely different
+			</option></select>
+			<input type=button name="get_selection" value="Get Selection" onclick="getSelectedIndex()">
+		
+		</form>
+		
+	</body>
+
+</html>

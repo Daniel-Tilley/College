@@ -1,0 +1,39 @@
+.MenuTab{
+	border: solid 5px grey;
+}
+
+#MenuInfo{
+	background-color: #494747;
+	border-top: 5px solid grey;
+	border-bottom: 5px solid grey;
+	box-shadow: 2px 2px 5px #F77D2C;
+    padding:5px;
+}
+
+#MenuLink{
+	list-style-type: none;
+    margin: 0;
+    padding: 0;
+}
+
+.MenuLinkLi{
+	font-size: 16px;
+	display: inline;
+}
+
+.MenuLinkA:link, .MenuLinkA:visited {
+	font-weight: bold;
+	color: #FFFFFF;
+	background-color: #494747;
+	text-align: center;
+	text-decoration: none;
+	text-transform: uppercase;
+	border-left: solid 5px #F77D2C;
+	border-right: solid 5px #F77D2C;
+	padding: 2px;
+}
+	
+.MenuLinkA:hover, .MenuLinkA:active {
+	background-color: #F77D2C;
+	text-decoration: underline;
+}

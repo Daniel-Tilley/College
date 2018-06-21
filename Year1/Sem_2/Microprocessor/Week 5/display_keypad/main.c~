@@ -1,0 +1,197 @@
+/* This program interfaces with a display and a keypad.  The program
+ * reads the keypad and displays the ASCII code for the key pressed.
+ *  
+ * Wiring.
+ * The display is wired to Port 0.  Segments are wired to bits 5-11
+ * and digits are wired to bits 1-4.  The display in question is a 
+ * 4 digit common cathode device.  In order to place a number on a 
+ * digit the segments must be driven high (through a resistor to limit
+ * current) and the common cathode for that display must be driven
+ * low.  
+ * 
+ * The keypad is wired to Port 1 bits 1-5,8,9.  The keypad is arranged
+ * in rows and columns
+ */
+
+#include "lpc111x.h"
+// Association of bits to segments due to wiring
+// Display is on Port 0
+#define SEG_A BIT5
+#define SEG_B BIT6
+#define SEG_C BIT7
+#define SEG_D BIT8
+#define SEG_E BIT9
+#define SEG_F BIT10
+#define SEG_G BIT11
+#define DIG_1 BIT1
+#define DIG_2 BIT2
+#define DIG_3 BIT3
+#define DIG_4 BIT4
+
+// Keypad is on Port 1
+#define COL_1	BIT5	
+#define COL_2	BIT9
+#define COL_3	BIT3
+#define ROW_1	BIT8
+#define ROW_2	BIT1
+#define ROW_3	BIT2
+#define ROW_4	BIT4
+
+void initSysTick(void);
+
+// Digit segment definitions
+const short digits[]={SEG_A | SEG_B | SEG_C | SEG_D | SEG_E | SEG_F        ,\
+					          SEG_B | SEG_C                                ,\
+					  SEG_A | SEG_B |         SEG_D | SEG_E |         SEG_G,\
+					  SEG_A | SEG_B | SEG_C | SEG_D |       	      SEG_G,\
+					          SEG_B | SEG_C |                 SEG_F | SEG_G,\
+					  SEG_A |         SEG_C | SEG_D |         SEG_F | SEG_G,\
+					  SEG_A |         SEG_C | SEG_D | SEG_E | SEG_F | SEG_G,\
+					  SEG_A | SEG_B | SEG_C                                ,\
+					  SEG_A | SEG_B | SEG_C | SEG_D | SEG_E | SEG_F | SEG_G,\
+					  SEG_A | SEG_B | SEG_C | SEG_D |         SEG_F | SEG_G \
+					  };
+int DisplayMemory[4];
+
+void SysTick(void)
+{
+	static int DigitNumber=1;
+	switch (DigitNumber) 
+	{
+		case 1: {
+			// Turn on (make low) the desired digit and blank all segments
+			GPIO0DATA = DIG_1 | DIG_2 | DIG_3;
+			// Set the relevant segment bits
+			GPIO0DATA |= DisplayMemory[0];
+			// Wait for display to light up
+			break;
+		}
+		case 2: {
+			// Turn on (make low) the desired digit and blank all segments
+			GPIO0DATA = DIG_1 | DIG_2 | DIG_4;
+			// Set the relevant segment bits
+			GPIO0DATA |= DisplayMemory[1];
+			// Wait for display to light up
+			break;
+		}
+		case 3: {
+			// Turn on (make low) the desired digit and blank all segments
+			GPIO0DATA = DIG_1 | DIG_3 | DIG_4;
+			// Set the relevant segment bits
+			GPIO0DATA |= DisplayMemory[2];
+			// Wait for display to light up
+			break;
+		}
+		case 4: {
+			// Turn on (make low) the desired digit and blank all segments
+			GPIO0DATA = DIG_2 | DIG_3 | DIG_4;
+			// Set the relevant segment bits
+			GPIO0DATA |= DisplayMemory[3];
+			// Wait for display to light up
+			break;
+		}
+	}
+	DigitNumber++;
+	if (DigitNumber > 4)
+		DigitNumber = 1;
+}
+void initSysTick()
+{
+	
+	// The systick timer is driven by a 48MHz clock
+	// Divide this down to achieve a 1ms timebase
+	// Divisor = 48MHz/1000Hz
+	// Reload value = 48000-1
+	// enable systick and its interrupts
+	SYST_CSR |=(BIT0+BIT1+BIT2); 
+	SYST_RVR=48000-1; // generate 1 second time base
+	SYST_CVR=5;
+	enable_interrupts();
+}
+void delay(int dly)
+{
+  while (dly--);
+}
+
+void DisplayNumber(int Number)
+{
+	DisplayMemory[0]=digits[Number % 10];
+	Number = Number / 10;
+	DisplayMemory[1]=digits[Number % 10];
+	Number = Number / 10;
+	DisplayMemory[2]=digits[Number % 10];
+	Number = Number / 10;
+	DisplayMemory[3]=digits[Number % 10];
+}
+
+void ConfigPins()
+{
+	SYSAHBCLKCTRL |= BIT6 + BIT16; // Turn on clock for GPIO and IOCON 
+	// Make all of the segment and digit bits outputs
+	GPIO0DIR = SEG_A | SEG_B | SEG_C | SEG_D | SEG_E | SEG_F | SEG_G | DIG_1 | DIG_2 | DIG_3 | DIG_4;
+	// Turn off (make high) all display digits
+	GPIO0DATA = DIG_1 | DIG_2 | DIG_3  | DIG_4;
+	// Make Port 0 bit 5 behave as a generic output port (open drain)
+	IOCON_PIO0_5 |= BIT8;
+	// Make Port 0 bit 10 behave as a generic I/O port
+	IOCON_SWCLK_PIO0_10  = 1; 
+	// Make Port 0 bit 11 behave as a generic I/O port
+	IOCON_R_PIO0_11  = 1; 
+	
+	// select gpio mode with pull-ups for keypad pins
+	IOCON_R_PIO1_0 |= 1+BIT4;
+	IOCON_R_PIO1_1 |= 1+BIT4;
+	IOCON_R_PIO1_2 |= 1+BIT4;
+	IOCON_SWDIO_PIO1_3 |= 1+BIT4;
+	
+	GPIO1DATA = 0xfff;
+	GPIO1DIR |= COL_1 | COL_2 | COL_3;
+	GPIO1DIR &= ~(ROW_1 | ROW_2 | ROW_3);
+
+}
+char ScanKeys()
+{
+	GPIO1DATA |= COL_1 | COL_2 | COL_3;
+	GPIO1DATA &= ~COL_1;
+	if ((GPIO1DATA & ROW_1) == 0)
+		return '1';
+	if ((GPIO1DATA & ROW_2) == 0)
+		return '4';
+	if ((GPIO1DATA & ROW_3) == 0)
+		return '7';
+	if ((GPIO1DATA & ROW_4) == 0)
+		return '*';
+
+	GPIO1DATA |= COL_1 | COL_2 | COL_3;
+	GPIO1DATA &= ~COL_2;
+	if ((GPIO1DATA & ROW_1) == 0)
+		return '2';
+	if ((GPIO1DATA & ROW_2) == 0)
+		return '5';
+	if ((GPIO1DATA & ROW_3) == 0)
+		return '8';
+	if ((GPIO1DATA & ROW_4) == 0)
+		return '0';
+		
+	
+			
+	return 0;
+}
+int main()
+{	
+	initSysTick();
+	ConfigPins();
+	int i=0;
+	
+	while(1) 
+	{
+	
+		DisplayNumber(ScanKeys());
+		if (i > 9999)
+			i=0;
+		
+	}    
+}
+
+
+

@@ -1,0 +1,19 @@
+Exercise 1 (8 marks)
+
+
+Given a file, in which the first line contains the number of lines, 
+and every subsequent line is of the form:
+
+
+Firstname Surname Address
+
+
+where names are non-spaced strings of up to 16 characters and Address is a string not exceeding 48 characters. 
+
+create a program to sort the records by surname and then first name.
+
+
+
+Exercise 2 (2 marks)
+
+Make your program run faster by using a different sorting algorithm

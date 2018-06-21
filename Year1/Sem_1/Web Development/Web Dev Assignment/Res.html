@@ -1,0 +1,193 @@
+<!--DOCTYPE html-->
+<html>
+	<head>
+		<link rel="stylesheet" type="text/css" href="StyleSheets/StyleSheetMain.css">
+		<link rel="stylesheet" type="text/css" href="StyleSheets/StyleSheetRes.css">
+		<link href="http://ajax.googleapis.com/ajax/libs/jqueryui/1.8/themes/base/jquery-ui.css" rel="stylesheet" type="text/css"/>
+		<title>La Toscana Restaurant & Pizzeria</title>
+		<link rel="shortcut icon" href="Pictures/Logo.ico"/>
+		<script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jquery/1.6.2/jquery.min.js"></script>
+		<script src="http://ajax.googleapis.com/ajax/libs/jqueryui/1.8/jquery-ui.min.js"></script>
+		<script>
+			$(document).ready(function() 
+			{
+				$("#datepicker").datepicker();
+			});
+			
+			function DisplayMessage()
+			{
+				alert("Thank you for signing up to our special offers, we will e-mail you shortly.");
+			}
+			
+			function DisplayMessage1()
+			{
+				alert("Thank you for making an appointment with us, we will send you a confirmation e-mail shortly.");
+			}
+		</script>	
+		<a name="Top"></a>
+	</head>
+	
+	<body>
+	
+		<div class="logo">
+			<a href="Homepage.html"><img src="Pictures/Logo.jpg"></a>
+		</div>
+		
+		<div class="NavHorDiv">
+			<ul class="NavHor" align="center">
+				<li class="NavHorLi"><a class="NavHorA" href="Homepage.html">HOME</a></li>
+				<li class="NavHorLi"><a class="NavHorA" href="About.html">ABOUT</a></li>
+				<li class="NavHorLi"><a class="NavHorA" href="Menu.html">MENU</a></li>
+				<li class="NavHorLi"><a class="NavHorA" href="Cont.html">CONTACT</a></li>
+				<li class="NavHorLi"><a class="NavHorA" href="HowToGetThere.html">LOCATION</a></li>
+				<li class="NavHorLi"><a class="NavHorA" href="Res.html">RESERVATIONS</a></li>
+			</ul>
+		</div>
+		
+		<hr>
+		
+		<div>
+			<h1 align="center">Make a reservation</h1>
+		</div>
+		
+		<hr>
+		
+		<div id="ResInfo">
+			<p>There are many way to make a reservation with us. You can 
+			use the form below, or alternatively you can contact us by:</br></br>
+			Phone: 01 7499238</br>
+			E-mail: Reservations@LaToscana.ie</br></br>
+			La Toscana Restaurant,</br> 
+			18 Dame Street,</br>
+			Dublin 2
+			</p>
+		</div>
+		
+		<hr>
+		
+		<div id="form">
+			<form name="Contact form" method="post" align="center">
+				
+				<h3>Please enter your details:</h3>
+				Title:</br>
+				<input type="text" name="Title" style="color: #494747; font-weight: bold; border: 2px solid #F77D2C;" size="3"/></br></br>
+				First Name:</br>
+				<input type="text" name="firstname" style="color: #494747; font-weight: bold; border: 2px solid #F77D2C;" size="10"/></br></br>
+				Last Name:</br>
+				<input type="text" name="lastName" style="color: #494747; font-weight: bold; border: 2px solid #F77D2C;" size="10"/></br></br>
+				Email Address:</br>
+				<input type="email" name="address" style="color: #494747; font-weight: bold; border: 2px solid #F77D2C;" size="25"/></br></br>
+				Phone Number:</br>
+				<input type="number" name="phonenumber" style="color: #494747; font-weight: bold; width: 100px; border: 2px solid #F77D2C;"/><br></br>
+				Number of Seats:</br>
+				<input type="number" name="numberofseats" style="color: #494747; font-weight: bold; width: 40px; border: 2px solid #F77D2C;"/></br></br>
+				Date:</br>
+				<input id="datepicker" style="color: #494747; font-weight: bold; border: 2px solid #F77D2C;"/></br></br>
+				Time: (Please specify pm or am e.g: 1pm or 13.00)</br>
+				<input name="time" style="color: #494747; font-weight: bold; border: 2px solid #F77D2C; width: 60px;"/></br></br>
+				
+				If you have any special requirements, please state them below.</br>
+				<textarea name="contact text area" rows="5" cols="52" wrap="soft" style="color: #494747; font-weight: bold; border: 2px solid #F77D2C;"></textarea></br></br>
+				
+				<input type="submit"  onclick="DisplayMessage1()" name="submitButton" value="Send"/>
+				<input type="reset"  name="resetButton" value="Erase"/>
+	
+			</form>
+		</div>
+		
+		<hr>
+		
+		<div class="QuickBar">
+			<div class="DivInline" align="center" style="width: 200px;">
+				<h3 style="border-bottom: dotted 1px white;">Opening Hours</h3>
+				<table class="tableall">
+					<tr>
+						<th colspan="2" class="tableall"><th>
+					</tr>
+				
+					<tr>
+						<td class="tablealltd">Monday</td>
+						<td class="tablealltd">12:00 - 24:00</td>
+					</tr>
+				
+					<tr>
+						<td class="tablealltd">Tuesday</td>
+						<td class="tablealltd">12:00 - 24:00</td>
+					</tr>
+				
+					<tr>
+						<td class="tablealltd">Wednesday</td>
+						<td class="tablealltd">12:00 - 24:00</td>
+					</tr>
+				
+					<tr>
+						<td class="tablealltd">Thursday</td>
+						<td class="tablealltd">12:00 - 24:00</td>
+					</tr>
+				
+					<tr>
+						<td class="tablealltd">Friday</td>
+						<td class="tablealltd">12:00 - 24:00</td>
+					</tr>
+				
+					<tr>
+						<td class="tablealltd">Saturday</td>
+						<td class="tablealltd">12:00 - 24:00</td>
+					</tr>
+				
+					<tr>
+						<td class="tablealltd">Sunday</td>
+						<td class="tablealltd">12:00 - 24:00</td>
+					</tr>
+				</table>
+			</div>
+		
+			<div class="DivInline" align="center" style="width: 200px;">
+				<h3 style="border-bottom: dotted 1px white;">Toscana Mailing list</h3>
+			
+				<p> If you would like to sign up to the Toscana mailing list</br> 
+				and avail of our monthly newsletter and special offers,</br> 
+				please enter your information below.</p>
+
+				<form name="MailingList" method="post" align="center">
+					
+					Name:</br>
+					<input type="text" name="firstname" style="color: #494747; font-weight: bold; border: 2px solid #F77D2C;" size="22"/></br></br>
+					Email Address:</br>
+					<input type="email" name="address" style="color: #494747; font-weight: bold; border: 2px solid #F77D2C;" size="22"/></br></br>
+				
+					<input type="submit"  onclick="DisplayMessage()" name="submitButton" value="Sign Up"/>
+				
+				</form>
+			</div>
+			
+			<div class="DivInline" align="center" style="width: 200px;">
+				<h3 style="border-bottom: dotted 1px white;">Make A Reservation</h3>
+				
+				<p>To make a reservation call 01 7499238 or</br>
+				click on the link below</p>
+				
+				<a class="LinkResA" href="Res.html">Make A Reservation</a>
+				
+			</div>
+		</div>
+		
+		<hr>
+		
+		<footer>
+			<p align="center">
+				<a href="Homepage.html" class="FooterA">Toscana Italian Restaurant</a> - 
+				Web page designed by BlueDragon Media Design - 
+				<a href="#Top" class="FooterA">Back To Top</a>
+			</p>
+		
+			<p align="center">
+				<a href="https://www.facebook.com/" class="FooterA"><img src="Pictures/Facebook.png" height="25" width="25"></a>
+				<a href="https://www.twitter.com" class="FooterA"><img src="Pictures/Twitter.png" height="25" width="25"></a>
+				<a href="https://plus.google.com/" class="FooterA"><img src="Pictures/GooglePlus.png" height="25" width="25"></a>
+			</p>
+		</footer>
+	
+	</body>
+</html>
+		

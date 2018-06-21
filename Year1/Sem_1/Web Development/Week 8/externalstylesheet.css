@@ -1,0 +1,51 @@
+body {
+background-color: cyan;
+}
+
+h1 {
+    color: Black;
+    margin-left: 10px;
+	-webkit-animation: myfirst 5s linear 2s infinite alternate; 
+    animation: myfirst 5s linear 2s infinite alternate;
+	font: harrington;
+	border-style: solid;
+	border-width: 5px;
+}
+
+h2 {
+    color: Black;
+    margin-left: 15px;
+	text-shadow: 5px 5px 5px blue;
+}
+
+h3 {
+    color: Black;
+    margin-left: 15px;
+}
+
+table{
+    margin-left: 15px;
+}
+
+form{
+    margin-left: 15px;
+}
+
+a{
+    margin-left: 15px;
+}
+
+@-webkit-keyframes myfirst {
+    0%   {background:cyan;}
+    25%  {background:light blue;}
+    50%  {background:red;}
+    75%  {background:light blue;}
+    100% {background:cyan;}
+
+
+
+
+
+	
+
+

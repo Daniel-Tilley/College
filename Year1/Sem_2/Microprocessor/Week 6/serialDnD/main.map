@@ -1,0 +1,250 @@
+Archive member included because of file (symbol)
+
+C:\Program Files\arm_sdk\lib\gcc\arm-none-eabi\4.8.3\armv6-m\libgcc.a(_udivsi3.o)
+                              dnd.o (__aeabi_uidivmod)
+C:\Program Files\arm_sdk\lib\gcc\arm-none-eabi\4.8.3\armv6-m\libgcc.a(_dvmd_tls.o)
+                              C:\Program Files\arm_sdk\lib\gcc\arm-none-eabi\4.8.3\armv6-m\libgcc.a(_udivsi3.o) (__aeabi_idiv0)
+
+Allocating common symbols
+Common symbol       size              file
+
+theDungeon          0x190             dnd.o
+thePlayer           0x1c              dnd.o
+
+Memory Configuration
+
+Name             Origin             Length             Attributes
+flash            0x00000000         0x00008000
+ram              0x10000000         0x00002000
+*default*        0x00000000         0xffffffff
+
+Linker script and memory map
+
+LOAD init.o
+LOAD dnd.o
+LOAD uart.o
+LOAD main.o
+LOAD C:\Program Files\arm_sdk\lib\gcc\arm-none-eabi\4.8.3\armv6-m\libgcc.a
+                0x00000000                . = ORIGIN (flash)
+
+.text           0x00000000      0xbd0
+ *(.vectors)
+ .vectors       0x00000000       0xc0 init.o
+                0x00000000                Vectors
+ *(.text)
+ .text          0x000000c0       0xcc init.o
+                0x000000c0                clock_init
+                0x0000010c                init
+                0x00000184                Default_Handler
+ .text          0x0000018c      0x6f8 dnd.o
+                0x0000018c                RunGame
+                0x000002d0                Step
+                0x0000039c                InitPlayer
+                0x000004b0                ShowPlayer
+                0x00000580                InitMap
+                0x000006dc                ShowDungeon
+                0x00000760                ShowHelp
+                0x000007dc                StartBanner
+                0x00000810                GameMessage
+                0x00000834                GetUserInput
+                0x00000860                random
+ .text          0x00000884      0x1c4 uart.o
+                0x00000884                initUART
+                0x00000940                eputc
+                0x00000970                egetc
+                0x00000984                printString
+                0x000009ac                HexDigit
+                0x000009ec                printHex
+ .text          0x00000a48       0xe8 main.o
+                0x00000a48                initSysTick
+                0x00000a7c                prbs
+                0x00000af4                SysTick
+                0x00000b10                main
+ .text          0x00000b30       0x9c C:\Program Files\arm_sdk\lib\gcc\arm-none-eabi\4.8.3\armv6-m\libgcc.a(_udivsi3.o)
+                0x00000b30                __aeabi_uidiv
+                0x00000b30                __udivsi3
+                0x00000bb8                __aeabi_uidivmod
+ .text          0x00000bcc        0x4 C:\Program Files\arm_sdk\lib\gcc\arm-none-eabi\4.8.3\armv6-m\libgcc.a(_dvmd_tls.o)
+                0x00000bcc                __aeabi_idiv0
+                0x00000bcc                __aeabi_ldiv0
+
+.glue_7         0x00000bd0        0x0
+ .glue_7        0x00000000        0x0 linker stubs
+
+.glue_7t        0x00000bd0        0x0
+ .glue_7t       0x00000000        0x0 linker stubs
+
+.vfp11_veneer   0x00000bd0        0x0
+ .vfp11_veneer  0x00000000        0x0 linker stubs
+
+.v4_bx          0x00000bd0        0x0
+ .v4_bx         0x00000000        0x0 linker stubs
+
+.iplt           0x00000bd0        0x0
+ .iplt          0x00000000        0x0 init.o
+
+.rel.dyn        0x00000bd0        0x0
+ .rel.iplt      0x00000000        0x0 init.o
+
+.rodata         0x00000bd0      0x35c
+ .rodata        0x00000bd0      0x344 dnd.o
+ .rodata        0x00000f14       0x18 main.o
+                0x10000000                . = ORIGIN (ram)
+
+.data           0x10000000        0xc load address 0x00000f2c
+                0x00000f2c                INIT_DATA_VALUES = LOADADDR (.data)
+                0x10000000                INIT_DATA_START = .
+ *(.data)
+ .data          0x10000000        0x0 init.o
+ .data          0x10000000        0x8 dnd.o
+                0x10000000                FindTypes
+                0x10000004                Baddies
+ .data          0x10000008        0x0 uart.o
+ .data          0x10000008        0x4 main.o
+ .data          0x1000000c        0x0 C:\Program Files\arm_sdk\lib\gcc\arm-none-eabi\4.8.3\armv6-m\libgcc.a(_udivsi3.o)
+ .data          0x1000000c        0x0 C:\Program Files\arm_sdk\lib\gcc\arm-none-eabi\4.8.3\armv6-m\libgcc.a(_dvmd_tls.o)
+                0x1000000c                INIT_DATA_END = .
+                0x1000000c                BSS_START = .
+
+.igot.plt       0x1000000c        0x0 load address 0x00000f38
+ .igot.plt      0x00000000        0x0 init.o
+
+.bss            0x1000000c      0x1b8 load address 0x00000f38
+ *(.bss)
+ .bss           0x1000000c        0x0 init.o
+ .bss           0x1000000c        0x4 dnd.o
+                0x1000000c                GameStarted
+ .bss           0x10000010        0x0 uart.o
+ .bss           0x10000010        0x8 main.o
+                0x10000010                msCounter
+ .bss           0x10000018        0x0 C:\Program Files\arm_sdk\lib\gcc\arm-none-eabi\4.8.3\armv6-m\libgcc.a(_udivsi3.o)
+ .bss           0x10000018        0x0 C:\Program Files\arm_sdk\lib\gcc\arm-none-eabi\4.8.3\armv6-m\libgcc.a(_dvmd_tls.o)
+ COMMON         0x10000018      0x1ac dnd.o
+                0x10000018                theDungeon
+                0x100001a8                thePlayer
+                0x100001c4                BSS_END = .
+OUTPUT(main.elf elf32-littlearm)
+
+.debug_info     0x00000000      0x6de
+ .debug_info    0x00000000      0x116 init.o
+ .debug_info    0x00000116      0x3b5 dnd.o
+ .debug_info    0x000004cb      0x12c uart.o
+ .debug_info    0x000005f7       0xe7 main.o
+
+.debug_abbrev   0x00000000      0x416
+ .debug_abbrev  0x00000000       0xe8 init.o
+ .debug_abbrev  0x000000e8      0x18b dnd.o
+ .debug_abbrev  0x00000273       0xf0 uart.o
+ .debug_abbrev  0x00000363       0xb3 main.o
+
+.debug_aranges  0x00000000       0x80
+ .debug_aranges
+                0x00000000       0x20 init.o
+ .debug_aranges
+                0x00000020       0x20 dnd.o
+ .debug_aranges
+                0x00000040       0x20 uart.o
+ .debug_aranges
+                0x00000060       0x20 main.o
+
+.debug_line     0x00000000      0x2bf
+ .debug_line    0x00000000       0x5b init.o
+ .debug_line    0x0000005b      0x189 dnd.o
+ .debug_line    0x000001e4       0x82 uart.o
+ .debug_line    0x00000266       0x59 main.o
+
+.debug_str      0x00000000      0x2c5
+ .debug_str     0x00000000      0x11d init.o
+                                0x12f (size before relaxing)
+ .debug_str     0x0000011d      0x102 dnd.o
+                                0x1c6 (size before relaxing)
+ .debug_str     0x0000021f       0x56 uart.o
+                                0x109 (size before relaxing)
+ .debug_str     0x00000275       0x50 main.o
+                                0x117 (size before relaxing)
+
+.comment        0x00000000       0x70
+ .comment       0x00000000       0x70 init.o
+                                 0x71 (size before relaxing)
+ .comment       0x00000000       0x71 dnd.o
+ .comment       0x00000000       0x71 uart.o
+ .comment       0x00000000       0x71 main.o
+
+.ARM.attributes
+                0x00000000       0x31
+ .ARM.attributes
+                0x00000000       0x31 init.o
+ .ARM.attributes
+                0x00000031       0x31 dnd.o
+ .ARM.attributes
+                0x00000062       0x31 uart.o
+ .ARM.attributes
+                0x00000093       0x31 main.o
+ .ARM.attributes
+                0x000000c4       0x1e C:\Program Files\arm_sdk\lib\gcc\arm-none-eabi\4.8.3\armv6-m\libgcc.a(_udivsi3.o)
+ .ARM.attributes
+                0x000000e2       0x1e C:\Program Files\arm_sdk\lib\gcc\arm-none-eabi\4.8.3\armv6-m\libgcc.a(_dvmd_tls.o)
+
+.debug_frame    0x00000000      0x33c
+ .debug_frame   0x00000000       0x68 init.o
+ .debug_frame   0x00000068      0x168 dnd.o
+ .debug_frame   0x000001d0       0xc8 uart.o
+ .debug_frame   0x00000298       0x84 main.o
+ .debug_frame   0x0000031c       0x20 C:\Program Files\arm_sdk\lib\gcc\arm-none-eabi\4.8.3\armv6-m\libgcc.a(_udivsi3.o)
+
+Cross Reference Table
+
+Symbol                                            File
+BSS_END                                           init.o
+BSS_START                                         init.o
+Baddies                                           dnd.o
+Default_Handler                                   init.o
+FindTypes                                         dnd.o
+GameMessage                                       dnd.o
+GameStarted                                       dnd.o
+GetUserInput                                      dnd.o
+HexDigit                                          uart.o
+INIT_DATA_END                                     init.o
+INIT_DATA_START                                   init.o
+INIT_DATA_VALUES                                  init.o
+InitMap                                           dnd.o
+InitPlayer                                        dnd.o
+RunGame                                           dnd.o
+                                                  main.o
+ShowDungeon                                       dnd.o
+ShowHelp                                          dnd.o
+ShowPlayer                                        dnd.o
+StartBanner                                       dnd.o
+Step                                              dnd.o
+SysTick                                           main.o
+                                                  init.o
+Vectors                                           init.o
+__aeabi_idiv0                                     C:\Program Files\arm_sdk\lib\gcc\arm-none-eabi\4.8.3\armv6-m\libgcc.a(_dvmd_tls.o)
+                                                  C:\Program Files\arm_sdk\lib\gcc\arm-none-eabi\4.8.3\armv6-m\libgcc.a(_udivsi3.o)
+__aeabi_ldiv0                                     C:\Program Files\arm_sdk\lib\gcc\arm-none-eabi\4.8.3\armv6-m\libgcc.a(_dvmd_tls.o)
+__aeabi_uidiv                                     C:\Program Files\arm_sdk\lib\gcc\arm-none-eabi\4.8.3\armv6-m\libgcc.a(_udivsi3.o)
+__aeabi_uidivmod                                  C:\Program Files\arm_sdk\lib\gcc\arm-none-eabi\4.8.3\armv6-m\libgcc.a(_udivsi3.o)
+                                                  dnd.o
+__udivsi3                                         C:\Program Files\arm_sdk\lib\gcc\arm-none-eabi\4.8.3\armv6-m\libgcc.a(_udivsi3.o)
+clock_init                                        init.o
+egetc                                             uart.o
+                                                  dnd.o
+eputc                                             uart.o
+                                                  dnd.o
+init                                              init.o
+initSysTick                                       main.o
+initUART                                          uart.o
+                                                  main.o
+main                                              main.o
+                                                  init.o
+msCounter                                         main.o
+prbs                                              main.o
+                                                  dnd.o
+printHex                                          uart.o
+                                                  dnd.o
+printString                                       uart.o
+                                                  main.o
+                                                  dnd.o
+random                                            dnd.o
+theDungeon                                        dnd.o
+thePlayer                                         dnd.o

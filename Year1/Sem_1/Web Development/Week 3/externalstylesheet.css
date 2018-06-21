@@ -1,0 +1,19 @@
+body {
+    background-color: lightblue;
+}
+
+h1 {
+    color: Red;
+    margin-left: 10px;
+}
+
+h2 {
+    color: Green;
+    margin-left: 15px;
+}
+
+h3 {
+    color: Blue;
+    margin-left: 20px;
+}
+

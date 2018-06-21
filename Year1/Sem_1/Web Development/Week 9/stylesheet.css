@@ -1,0 +1,27 @@
+body{
+	background-color:gray;
+	}
+	
+#box{
+	width:1250px;
+	height:550px;
+	margin:50px auto;
+	position:relative;
+	background-color:white;
+	border:5px solid #fff;
+}
+
+#box1{
+	width:700px;
+	height:500px;
+	margin:50px auto;
+	position:absolute;
+	background-color:black;
+	box-shadow: 10px 10px 5px black;
+	right: 90px;
+    top: 60px;
+	-webkit-transform: skew(5deg,3deg);
+	z-index:-1;
+}
+
+

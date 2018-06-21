@@ -1,0 +1,55 @@
+If highest digit < divisor
+
+
+            highest quotient = 0 
+
+                                 
+
+   *the highest number of the answer*
+
+            remainder = highest digit * 10
+
+Else
+
+            highest quotient = highest digit /divisor
+
+remainder = (highest digit mod divisor)*10
+
+middle digit = (middle digit + remainder)
+
+
+ If middle digit < divisor
+
+	middle quotient = 0  
+
+	*the middle number of the answer*
+
+	remainder = middle digit * 10
+
+
+Else
+
+            middle quotient = middle digit /divisor
+
+
+remainder = (middle digit mod divisor)*10
+
+smallest digit = (smallest digit + remainder)
+
+
+If smallest digit < divisor
+
+
+    smallest quotient = 0                                
+
+    *the smallest number of the answer*
+
+	remainder = smallest digit
+
+Else
+
+
+    smallest quotient = smallest digit /divisor
+
+
+remainder = smallest digit mod divisor

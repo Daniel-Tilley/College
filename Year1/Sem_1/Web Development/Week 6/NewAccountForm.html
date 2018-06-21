@@ -1,0 +1,111 @@
+<DOCTYPE html!>
+<html>
+
+<head>
+<link rel="stylesheet" type="text/css" href="externalstylesheet.css">
+<title>	New Account Form </title>
+</head>
+
+<body>
+
+<p><h1>Create a New Account</h1></p>
+	
+	<form name="myForm" method="post"    action="mailto:c14337041@mydit.ie">
+	
+	<fieldset>
+	<div class="boxed"><h2 id="h21">Account</h2>
+		First Name:<input type="text" name="firstname" size="24" value="Enter your first name" autofocus/><br />
+		Last Name:<input type="text" name="lastName" size="24" /><br />
+		Email:<input type="email" name="Email" size="24" maxlength="30" /><br />
+		Password:<input type="text" name="Password" size="24" /><br />
+		Re-enter password:<input type="text" name="Re-enter Password" size="24" />
+	</div>
+	</fieldset>
+	
+	<fieldset>
+	<div class="boxed"><h2 id="h22">Address</h2>
+		Street Address:<input type="text" name="streetaddress" size="24" /><br />
+		Street Address:<input type="text" name="streetaddress" size="24" /><br />
+		County:<select name="County">
+			<option value="Antrim">Antrim</option>
+			<option value="Armagh">Armagh</option>
+			<option value="Carlow">Carlow</option>
+			<option value="Cavan">Cavan</option>
+			<option value="Clare">Clare</option>
+			<option value="Cork">Cork</option>	
+			<option value="Derry">Derry</option>
+			<option value="Donegal">Donegal</option>
+			<option value="Down">Down</option>
+			<option value="	Dublin">Dublin</option>
+			<option value="Fermanagh">Fermanagh</option>
+			<option value="Galway">Galway</option>
+			<option value="Kerry">Kerry</option>
+			<option value="Kildare">Kildare</option>
+			<option value="Kilkenny">Kilkenny</option>
+			<option value="Laois">Laois</option>
+			<option value="Leitrim">Leitrim</option>
+			<option value="Limerick">Limerick</option>
+			<option value="Longford">Longford</option>
+			<option value="Louth">Louth</option>
+			<option value="Mayo">Mayo</option>
+			<option value="Meath">Meath</option>
+			<option value="Monaghan">Monaghan</option>
+			<option value="Offaly">Offaly</option>
+			<option value="Roscommon">Roscommon</option>
+			<option value="Sligo">Sligo</option>
+			<option value="Tipperary">Tipperary</option>
+			<option value="Tyrone">Tyrone</option>
+			<option value="Waterford">Waterford</option>
+			<option value="Westmeath">Westmeath</option>
+			<option value="Wexford">Wexford</option>
+			<option value="Wicklow">Wicklow</option>
+		</select><br />
+		Post Code:<input type="text" name="postcode" size="24" />
+	</div>
+	</fieldset>
+	
+	<fieldset>
+	<div class="boxed"><h2 id="h23">Public Profile</h2>
+		
+		Post Code:<input type="text" name="postcode" size="24" /><br />
+		Web:<input type="text" name="postcode" size="24" /><br />
+		Bio:<textarea name="myTextArea" rows="5" cols="45" wrap="soft"></textarea><br />
+		Gender:
+			<input type="radio" name="gender" value="male" /> Male
+			<input type="radio" name="gender" value="female" />Female
+			<br />
+		What was your first day of college? <input type="date" name="Collegeday">
+	</div>
+	</fieldset>
+	
+	<fieldset>
+	<div class="boxed"><h2 id="h23">Emails</h2>
+	
+		It is ok to email me with messages from other users<input type="checkbox" name="question1" /><br />    
+		It is ok to email me with occasional promotion about our other products<input type="checkbox" name="question2" /><br />
+	</div>
+	</fieldset>
+	
+	Where did you find out about us?
+	
+	<select>
+		<optgroup label="computer">
+			<option value="socialmedia">Social Media</option>
+			<option value="internet">Internet</option>
+		</optgroup>
+	
+		<optgroup label="non-computer">
+			<option value="TV/Radio">TV/Radio</option>
+			<option value="Newspaper">Newspaper Add</option>
+		</optgroup>
+	</select>	
+	
+	<input type="submit"  name="submitbutton" value="Create Account" />
+	<input type="reset"  name="resebutton" value="Erase" />
+	
+	
+	</form>
+	<hr>
+
+</body>
+</html>

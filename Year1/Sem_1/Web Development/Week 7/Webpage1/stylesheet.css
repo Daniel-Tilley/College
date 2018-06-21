@@ -1,0 +1,48 @@
+.right
+{
+    position: absolute;
+    left: 230px;
+    top: 170px;
+    
+}
+
+.right1
+{
+    position: absolute;
+    left: 390px;
+    top: 400px;
+    
+}
+
+.pic2
+{
+    position: absolute;
+    left: 600px;
+    top: 250px;
+    
+}
+
+.pic3
+{
+    position: absolute;
+    left: 230px;
+    top: 490px;
+    
+}
+
+#h23 
+{
+    position: absolute;
+    left: 230px;
+    top: 130px; 
+}
+
+#h21
+{
+	color: blue
+}
+
+#h22
+{
+	color: blue
+}
